@@ -1,0 +1,12 @@
+.DS_Store
+__MACOSX/
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.swp
+*.pem
+*.key
+node_modules/
+dist/
