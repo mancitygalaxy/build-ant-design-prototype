@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "routes": [
+    {
+      "id": "home",
+      "path": "#/",
+      "states": ["default", "restored"],
+      "checks": ["页面加载", "本地状态恢复"]
+    }
+  ],
+  "businessFlows": [
+    {
+      "id": "demo-counter",
+      "routeId": "home",
+      "browserScenarioId": "replace-with-real-main-flow",
+      "steps": ["打开页面", "点击增加", "确认计数变化", "刷新页面", "确认状态恢复"]
+    }
+  ],
+  "outOfScope": ["真实接口", "登录与权限"]
+}

@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "environment": {
+    "locale": "zh-CN",
+    "timezoneId": "Asia/Shanghai",
+    "colorScheme": "light",
+    "deviceScaleFactor": 1,
+    "fixedTime": null
+  },
+  "scenarios": [
+    {
+      "id": "replace-with-real-main-flow",
+      "route": "#/",
+      "viewport": { "width": 1180, "height": 900 },
+      "steps": [
+        { "action": "clearSessionStorage" },
+        { "action": "reload" },
+        { "action": "waitFor", "selector": "[data-testid=\"prototype-ready\"]" },
+        { "action": "assertText", "selector": "[data-testid=\"demo-count\"]", "equals": "0", "label": "initial-count" },
+        { "action": "click", "selector": "[data-testid=\"demo-increment\"]" },
+        { "action": "assertText", "selector": "[data-testid=\"demo-count\"]", "equals": "1", "label": "after-click" },
+        { "action": "reload" },
+        { "action": "assertText", "selector": "[data-testid=\"demo-count\"]", "equals": "1", "label": "restored-count" }
+      ],
+      "storageKeys": ["prototype.starter.counter.v1"],
+      "screenshot": "replace-with-real-main-flow.png"
+    }
+  ]
+}
+

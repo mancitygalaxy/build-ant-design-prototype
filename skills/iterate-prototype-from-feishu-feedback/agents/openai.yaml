@@ -1,0 +1,4 @@
+interface:
+  display_name: "处理飞书原型反馈"
+  short_description: "读取飞书反馈和截图，整理本轮问题，并在原型修改验收后准确回写状态。"
+  default_prompt: "使用 $iterate-prototype-from-feishu-feedback 读取指定范围的反馈，配合制作与修改交互原型完成本轮调整，并回写已验证的状态。"

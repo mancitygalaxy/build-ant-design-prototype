@@ -1,0 +1,308 @@
+{
+  "schemaVersion": 1,
+  "publishedDate": "2026-10-15",
+  "source": "Installed local skill directories; original file bytes preserved",
+  "totalSkillFiles": 70,
+  "skills": {
+    "build-interactive-prototype": {
+      "fileCount": 58,
+      "files": {
+        "agents/openai.yaml": {
+          "sha256": "382717942d7d5c0729bf2e39fc41b72b265600b9cec4cc4bb1fb499f9139bc57",
+          "bytes": 411
+        },
+        "assets/react-ant-prototype-starter/.gitignore": {
+          "sha256": "4b0f4781867935188c94dbae848771497bf25e9e2916120dd31e4a69e19de239",
+          "bytes": 85
+        },
+        "assets/react-ant-prototype-starter/.gitlab-ci.yml": {
+          "sha256": "af79d3aa1d1d5f43e2ab4dc080281186e2a106f546a56c110961e24afc6f2bd0",
+          "bytes": 698
+        },
+        "assets/react-ant-prototype-starter/index.html": {
+          "sha256": "9d91b47bf7aea2915daee68683c315daeaec742751c494fa62ea6a22f27ddea4",
+          "bytes": 320
+        },
+        "assets/react-ant-prototype-starter/package.json": {
+          "sha256": "ea7f04bc3648c39b7245362619eb437f3900cfec1a2675f7dfdeabfb3a44aa21",
+          "bytes": 2270
+        },
+        "assets/react-ant-prototype-starter/pnpm-lock.yaml": {
+          "sha256": "d8be79849c756e3ee29eb86a8c6fa42d775d50ad3e73ecf6d36aa5ebd690be5e",
+          "bytes": 69374
+        },
+        "assets/react-ant-prototype-starter/pnpm-workspace.yaml": {
+          "sha256": "b8418d8cdae84e5989b42f3ddf7cc1b34419e5505d8404e26708024b9d318ad1",
+          "bytes": 39
+        },
+        "assets/react-ant-prototype-starter/prototype-architecture.json": {
+          "sha256": "db1b3ebf1b9781dffe18379c850a17f2968e41d2313d2fcbe888c974fcb1d197",
+          "bytes": 449
+        },
+        "assets/react-ant-prototype-starter/prototype.acceptance.json": {
+          "sha256": "9a29cb4e2ee19ccbe8e318c0925eddd23a4e795a0c83318db8ea00d549098716",
+          "bytes": 502
+        },
+        "assets/react-ant-prototype-starter/prototype.browser.json": {
+          "sha256": "7b2d888f4c8be5cfdb41332cd1bf9f51cc2bfd681b23adcfe10d21e13abf78a3",
+          "bytes": 1102
+        },
+        "assets/react-ant-prototype-starter/prototype.performance.json": {
+          "sha256": "91ab3c1a29130e3bb0b12a965d748426a53d132dd9e4620779d1c8348b37d0d0",
+          "bytes": 1740
+        },
+        "assets/react-ant-prototype-starter/prototype.project.json": {
+          "sha256": "80f36c07b0330f8d495713406fc85cb680f5b9eaa8132f1de5f5f940b3e90202",
+          "bytes": 153
+        },
+        "assets/react-ant-prototype-starter/scripts/browser-actions.mjs": {
+          "sha256": "169c80366833fe6fcee7083c00628f3aaecf5a0d9d05b2b0763fc024989b60aa",
+          "bytes": 1941
+        },
+        "assets/react-ant-prototype-starter/scripts/browser-checks.test.mjs": {
+          "sha256": "772cb33b65f88f8a581b5f0257e59a3f86b22ceca2f1ebe7e71d150bba6de111",
+          "bytes": 10980
+        },
+        "assets/react-ant-prototype-starter/scripts/browser-environment.mjs": {
+          "sha256": "b484e440ff0988ed4bf128fac192754606a5f0c21cc31de79cc71f04e03b3caf",
+          "bytes": 3296
+        },
+        "assets/react-ant-prototype-starter/scripts/browser-regression.mjs": {
+          "sha256": "1abb51fbd875aed6c05236e8c142c806e7906b815e28eb4d1e0c783c71cee89a",
+          "bytes": 9231
+        },
+        "assets/react-ant-prototype-starter/scripts/build-assets.mjs": {
+          "sha256": "aea9e201c13ff3f4d139c69d9a2dc15d668428b4f9089751d09e9a717d47c971",
+          "bytes": 3035
+        },
+        "assets/react-ant-prototype-starter/scripts/check-acceptance-contract.mjs": {
+          "sha256": "8d65a7b891a4a5ae7cecef4612c3a81cc28942136d965f5f4fd1d98889a2520c",
+          "bytes": 2294
+        },
+        "assets/react-ant-prototype-starter/scripts/check-architecture.mjs": {
+          "sha256": "97d10993c44f04a971eb2609e0167e9a54478581280280569525cfb759a7746c",
+          "bytes": 6975
+        },
+        "assets/react-ant-prototype-starter/scripts/check-performance.mjs": {
+          "sha256": "e5355c42bb845d530ccbab8e319c52f8b552185363e1c581e902df3cc43d2357",
+          "bytes": 7166
+        },
+        "assets/react-ant-prototype-starter/scripts/check-project-initialized.mjs": {
+          "sha256": "15dc62bf5d63872d46384c51760bff1a9e5d900bbd1c995a6a492fcb13d65fe3",
+          "bytes": 2416
+        },
+        "assets/react-ant-prototype-starter/scripts/deliver.mjs": {
+          "sha256": "7d53891001730d5b2db26da9221ea85ad4948338e9a5e34a9ce178f24ee9efb6",
+          "bytes": 1934
+        },
+        "assets/react-ant-prototype-starter/scripts/performance-browser.mjs": {
+          "sha256": "5fa31351173059aa9d82344d41e13b719989fdf3b77297bf7a4a07e718fd3e1c",
+          "bytes": 5559
+        },
+        "assets/react-ant-prototype-starter/scripts/performance-model.mjs": {
+          "sha256": "fb7acf625af5b61e99e2cf2389052d6582a7461c7a6a8ea1c1b14ec3bc338b98",
+          "bytes": 5164
+        },
+        "assets/react-ant-prototype-starter/scripts/preview-server.mjs": {
+          "sha256": "d43388db11cf0ded1af94b74a82638fda978a30dd6e67042f2c59ddc96a06585",
+          "bytes": 1923
+        },
+        "assets/react-ant-prototype-starter/scripts/project-config.mjs": {
+          "sha256": "379fb9db3f8b081c4d05c84737004ab04a68e093c00fa62cf4169871b57f304c",
+          "bytes": 1041
+        },
+        "assets/react-ant-prototype-starter/scripts/quality-gates.test.mjs": {
+          "sha256": "6b2b2258e105784f93a7e2156b5d6e9e0212de18e19a20158083f31ae6e03e77",
+          "bytes": 6163
+        },
+        "assets/react-ant-prototype-starter/scripts/resource-references.mjs": {
+          "sha256": "ba6a50f4b1f94134c41113870e7d28fc2ee4dce036c2a76ba5d4a47c293aa803",
+          "bytes": 3640
+        },
+        "assets/react-ant-prototype-starter/scripts/scan-sensitive.mjs": {
+          "sha256": "3017967a1b2771a5970534b04c4ee681643954bd53adca41847ac8d78cbf316b",
+          "bytes": 1762
+        },
+        "assets/react-ant-prototype-starter/scripts/screenshot-pixels.mjs": {
+          "sha256": "949ef2099b1fc92248e22d81952dc120e1e547f66776f1d81d5ef307dd4ebfa6",
+          "bytes": 2899
+        },
+        "assets/react-ant-prototype-starter/scripts/source-fingerprint.mjs": {
+          "sha256": "9e55bb7f440fe4f8fa796107d6bc255abb8665a771c04cd5684a33406763f8d1",
+          "bytes": 1463
+        },
+        "assets/react-ant-prototype-starter/scripts/stable-screenshot.mjs": {
+          "sha256": "4a4540325aecd20cfe4fa8b9d13805b0876abad0bbb81128d8932d0f49145d33",
+          "bytes": 965
+        },
+        "assets/react-ant-prototype-starter/scripts/test-architecture-gate.mjs": {
+          "sha256": "6243f001cf41765e6eb5a75fc19b992e6cb85100880ef5ca2f56f3df2cf07c19",
+          "bytes": 2857
+        },
+        "assets/react-ant-prototype-starter/scripts/tooling-regressions.test.mjs": {
+          "sha256": "9b1f634d828972302250dffc20470947c87c1e26910de722c0513adcab788e93",
+          "bytes": 8798
+        },
+        "assets/react-ant-prototype-starter/scripts/verify-delivery.mjs": {
+          "sha256": "ccd308bcc1417ad33196c6ffe8c7c0b080a7d57cbcbf464164b40d235fc1478f",
+          "bytes": 341
+        },
+        "assets/react-ant-prototype-starter/scripts/write-build-manifest.mjs": {
+          "sha256": "974dd5e76a19e34f43a885bef72dde2f49ff48339c470087ca32da49a8f28d08",
+          "bytes": 833
+        },
+        "assets/react-ant-prototype-starter/src/app/App.tsx": {
+          "sha256": "cd97ef247478c89cf859883dc3de55fe76fe43d91eee982e75881b5308c0a4fa",
+          "bytes": 331
+        },
+        "assets/react-ant-prototype-starter/src/components/PrototypePage.tsx": {
+          "sha256": "86a31eea5ec2cef855e8d9583f00760535e467ad3b2a7cc5c4b3eee0969daaeb",
+          "bytes": 1190
+        },
+        "assets/react-ant-prototype-starter/src/data/demo.ts": {
+          "sha256": "51e4fb5b48df0b3f98fb984a938f1f1f24c664ec97cd22a4f506632e3087e50f",
+          "bytes": 322
+        },
+        "assets/react-ant-prototype-starter/src/domain/prototype.ts": {
+          "sha256": "48ab2a866daf8cb00dab17e13c4c88529532ba397b9672dfe038a8924089a798",
+          "bytes": 203
+        },
+        "assets/react-ant-prototype-starter/src/main.tsx": {
+          "sha256": "0f37dd316d6802d759170932d0b057eae466b3f49833e9b48cd18fcfc03b9374",
+          "bytes": 243
+        },
+        "assets/react-ant-prototype-starter/src/pages/HomePage.tsx": {
+          "sha256": "d48b7d42d5632da4a34014c826b959c1f7b8a50375090ce9683fadfe7c851638",
+          "bytes": 699
+        },
+        "assets/react-ant-prototype-starter/src/styles.scss": {
+          "sha256": "fe8e2b0d3f3780cc597447fec4d1a7b5d2155210ca10bd595f700f9205c70f01",
+          "bytes": 434
+        },
+        "assets/react-ant-prototype-starter/src/vite-env.d.ts": {
+          "sha256": "bf144e3cdae616e27b064c8c2b94b14525e220fb3facc4cb4884d21b65eb5aa5",
+          "bytes": 39
+        },
+        "assets/react-ant-prototype-starter/tsconfig.json": {
+          "sha256": "68c1deb8e204d8bf22d0eac34ed5f3caae97a7c784549151fc3fb5ccc861e0f2",
+          "bytes": 508
+        },
+        "assets/react-ant-prototype-starter/tsconfig.node.json": {
+          "sha256": "52f00ac9b49565b1abf1ff7cb65cff3cfd2c6332ce5c7ccede7305988c7a5b54",
+          "bytes": 282
+        },
+        "assets/react-ant-prototype-starter/vite.config.ts": {
+          "sha256": "e8f4c1078f7f504197dd16b9c70986c3f534e6c6ab4df2467ad85567557b5994",
+          "bytes": 657
+        },
+        "references/agent-workbench-example.md": {
+          "sha256": "4b1334196e25aa4c16b0d3ae71712b3bec2cb42b07c6ebcd3533dd11598ad711",
+          "bytes": 2110
+        },
+        "references/ant-design.md": {
+          "sha256": "fde5ab4a4fe53a2c3542545954c716abd168e8c9365170a9415e67cd4e23604e",
+          "bytes": 2143
+        },
+        "references/behavior-preserving-refactor.md": {
+          "sha256": "998b8ea98d96422bfa5b9d5f22a314258f70a496c6b0d011f8077dc852ebe4fb",
+          "bytes": 9143
+        },
+        "references/browser-checks.md": {
+          "sha256": "1e92d53509d9b4a2c92d58a9ede976214f000f5767c6110ede866d3d43075829",
+          "bytes": 5706
+        },
+        "references/component-checks.md": {
+          "sha256": "0931bf15791b5529b18b750e98599f894a87ae76ab78dcd094b1d0dabd8548e7",
+          "bytes": 4030
+        },
+        "references/evidence-first-orchestration.md": {
+          "sha256": "75f900fe41e41412b77728f3c76aaf0f5131bd7fc7555cbb4cb7975a6dc89528",
+          "bytes": 3550
+        },
+        "references/existing-project.md": {
+          "sha256": "a5be3907cb01565df463a1e44ca720bf730283b33c97e1a4d5d6a003acffe6eb",
+          "bytes": 5379
+        },
+        "references/performance-checks.md": {
+          "sha256": "c50b6a5579456b942ee9117207cd52d33a4c3253bdff1cbf416d14b8b6e912a9",
+          "bytes": 7043
+        },
+        "references/prototype-quality.md": {
+          "sha256": "50ac36fc65e3ebbbe3ca33f4648fdc59068eb8c6ac5d53ffa1b86506e5756698",
+          "bytes": 5588
+        },
+        "references/quality-first-engineering.md": {
+          "sha256": "4bc8325d393137ab4a2ba503584cb4cee0e33b4da1330e2ee4fe6550e3d88409",
+          "bytes": 8073
+        },
+        "SKILL.md": {
+          "sha256": "dcfbe5bfa04768718951af98abb289df4a80d5443d8eaa9f29a022cf572194e2",
+          "bytes": 10340
+        }
+      }
+    },
+    "audit-ai-interaction-design": {
+      "fileCount": 5,
+      "files": {
+        "agents/openai.yaml": {
+          "sha256": "c467cedb9e75d770bac317dfa737340208b4d56a613d763e3e6835d3f643cc03",
+          "bytes": 372
+        },
+        "assets/report-template.html": {
+          "sha256": "f4a5db95ff6b86d515877c52c7f7dab5943e5c75d8d1463eb8f7c0a24e75f0d7",
+          "bytes": 27600
+        },
+        "references/evidence-and-report-contract.md": {
+          "sha256": "425d268c6f6fb4a44c354dfa0ee243cfc549b7d91c51059bc1a9524d6df462bd",
+          "bytes": 7685
+        },
+        "references/review-checklist.md": {
+          "sha256": "35e95354d1a2ddf0b7dcfae0ba9b2b5a63dd0d0419ddcb0ef5b6d4365eeffd3f",
+          "bytes": 8772
+        },
+        "SKILL.md": {
+          "sha256": "80b793c27ea31e219ad3f96f070a40a9343d6963320806f991f9892d56b11535",
+          "bytes": 9700
+        }
+      }
+    },
+    "audit-prototype-implementation-diffs": {
+      "fileCount": 4,
+      "files": {
+        "agents/openai.yaml": {
+          "sha256": "11cdc4dc9125065524d046e782f967ae9c3e68b317527ccfcf242e02d0945f24",
+          "bytes": 357
+        },
+        "references/evidence-output-contract.md": {
+          "sha256": "0f10e70d4c7963565f75137dfd7953a8e164369856a25604fae62ff4ca6b4b6a",
+          "bytes": 3247
+        },
+        "references/walkthrough-checklist.md": {
+          "sha256": "319403c9d6dc4350047d4c486da1ffe8749954094129722de089561fc81e11ea",
+          "bytes": 4905
+        },
+        "SKILL.md": {
+          "sha256": "b2e7f91b209bc5788ff0b238fb4daf70144805b465f84d5a606724c51b94684e",
+          "bytes": 10275
+        }
+      }
+    },
+    "iterate-prototype-from-feishu-feedback": {
+      "fileCount": 3,
+      "files": {
+        "agents/openai.yaml": {
+          "sha256": "d8932d72f56c8b60316900a5bfaf0ca059307d7724d6a42b802076c84bbffab0",
+          "bytes": 360
+        },
+        "references/status-writeback.md": {
+          "sha256": "3977b198b16d77fa7f72a9c2e4951a6845cee8207e4d170ec50338b3f881dc40",
+          "bytes": 3073
+        },
+        "SKILL.md": {
+          "sha256": "50d72ed8efd5821eabbb7c5ed5e9571502cf06dc1bdd585dccd94e8933a60ba3",
+          "bytes": 5696
+        }
+      }
+    }
+  }
+}

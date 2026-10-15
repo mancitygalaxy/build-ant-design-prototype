@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "environmentId": "replace-with-real-environment",
+  "measurement": {
+    "runs": 5,
+    "regressionPercent": 20,
+    "regressionMs": 100,
+    "timeoutMs": 15000,
+    "observationMs": 200
+  },
+  "scenarios": [
+    {
+      "id": "replace-with-real-first-load",
+      "kind": "navigation",
+      "route": "/",
+      "fixture": {
+        "label": "__REPLACE_WITH_REAL_DATASET__",
+        "size": 100,
+        "files": [
+          "src/data/demo.ts"
+        ]
+      },
+      "cache": {
+        "browser": "first-visit",
+        "server": "not-applicable-static"
+      },
+      "ready": [
+        {
+          "selector": "[data-testid=\"demo-count\"]",
+          "equals": "0"
+        },
+        {
+          "selector": "[data-testid=\"demo-increment\"]",
+          "enabled": true
+        }
+      ],
+      "budget": {
+        "durationMs": 2000,
+        "requestCount": 1,
+        "transferBytes": 3000000,
+        "resourceBytes": 3000000
+      }
+    },
+    {
+      "id": "replace-with-real-larger-data",
+      "kind": "navigation",
+      "route": "/?scale=large",
+      "fixture": {
+        "label": "__REPLACE_WITH_LARGER_DATASET__",
+        "size": 1000,
+        "files": [
+          "src/data/demo.ts"
+        ]
+      },
+      "cache": {
+        "browser": "repeat-visit",
+        "server": "not-applicable-static"
+      },
+      "ready": [
+        {
+          "selector": "[data-testid=\"demo-count\"]",
+          "equals": "0"
+        },
+        {
+          "selector": "[data-testid=\"demo-increment\"]",
+          "enabled": true
+        }
+      ],
+      "budget": {
+        "durationMs": 2000,
+        "requestCount": 1,
+        "transferBytes": 3000000,
+        "resourceBytes": 3000000
+      }
+    }
+  ]
+}
+

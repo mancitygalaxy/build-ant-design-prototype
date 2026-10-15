@@ -1,0 +1,34 @@
+image: node:22-bookworm
+
+stages:
+  - verify
+
+variables:
+  PNPM_STORE_DIR: "$CI_PROJECT_DIR/.pnpm-store"
+  PLAYWRIGHT_BROWSERS_PATH: "$CI_PROJECT_DIR/.cache/ms-playwright"
+
+cache:
+  key:
+    files:
+      - pnpm-lock.yaml
+  paths:
+    - .pnpm-store/
+    - .cache/ms-playwright/
+
+verify-release:
+  stage: verify
+  timeout: 30m
+  before_script:
+    - corepack enable
+    - corepack prepare pnpm@11.17.0 --activate
+    - pnpm config set store-dir "$PNPM_STORE_DIR"
+    - pnpm install --frozen-lockfile
+    - pnpm exec playwright-core install --with-deps chromium
+  script:
+    - pnpm run verify:release
+  artifacts:
+    when: always
+    expire_in: 14 days
+    paths:
+      - dist/
+      - test-results/

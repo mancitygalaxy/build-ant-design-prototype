@@ -1,0 +1,32 @@
+:root {
+  color: #1f2329;
+  font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif;
+  background: #f5f7fa;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.prototype-page {
+  display: grid;
+  min-height: 100vh;
+  padding: 48px 24px;
+  place-items: center;
+}
+
+.prototype-card {
+  width: min(720px, 100%);
+}
+
+.prototype-card h1 {
+  margin-bottom: 8px;
+  font-size: 30px;
+}
+
