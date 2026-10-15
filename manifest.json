@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "publishedDate": "2026-10-15",
-  "source": "Installed local skill directories; original file bytes preserved",
-  "totalSkillFiles": 70,
+  "source": "Prototype workflow skill sources; WeCom feedback support added on 2026-10-15",
+  "totalSkillFiles": 71,
   "skills": {
     "build-interactive-prototype": {
       "fileCount": 58,
@@ -288,19 +288,23 @@
       }
     },
     "iterate-prototype-from-feishu-feedback": {
-      "fileCount": 3,
+      "fileCount": 4,
       "files": {
+        "SKILL.md": {
+          "sha256": "eef084b7289553aed34f4d57333cf2f81743ce9cc980ffa7a82e9d92b71f078f",
+          "bytes": 6572
+        },
         "agents/openai.yaml": {
-          "sha256": "d8932d72f56c8b60316900a5bfaf0ca059307d7724d6a42b802076c84bbffab0",
-          "bytes": 360
+          "sha256": "55eb6c725170e2f92bf89585d1373f81908c049609fa2cd47d9ad18cd5344f0f",
+          "bytes": 401
         },
         "references/status-writeback.md": {
-          "sha256": "3977b198b16d77fa7f72a9c2e4951a6845cee8207e4d170ec50338b3f881dc40",
-          "bytes": 3073
+          "sha256": "926668aa4be1a9c8f22842f77238c5a591e6516bf8aafd57b4031f7ea485058c",
+          "bytes": 3986
         },
-        "SKILL.md": {
-          "sha256": "50d72ed8efd5821eabbb7c5ed5e9571502cf06dc1bdd585dccd94e8933a60ba3",
-          "bytes": 5696
+        "references/wecom-feedback.md": {
+          "sha256": "3c3e2d075e0fd88787b8a2af50c61e78d9e8ce9ef948c964c072da1ba7482bd2",
+          "bytes": 4251
         }
       }
     }
