@@ -1,15 +1,59 @@
 {
   "schemaVersion": 1,
-  "publishedDate": "2026-10-15",
-  "source": "Prototype workflow skill sources; WeCom feedback support added on 2026-10-15",
+  "publishedDate": "2026-10-18",
+  "source": "Verified current local prototype workflow sources; shared issue identity, evidence reuse and complete-record acceptance",
   "totalSkillFiles": 71,
   "skills": {
     "build-interactive-prototype": {
       "fileCount": 58,
       "files": {
+        "SKILL.md": {
+          "sha256": "98ba0b0b9969edadf1feaebfeb2b06b40f82b54b6c70d17d283b2e54c9cfdab6",
+          "bytes": 10483
+        },
         "agents/openai.yaml": {
           "sha256": "382717942d7d5c0729bf2e39fc41b72b265600b9cec4cc4bb1fb499f9139bc57",
           "bytes": 411
+        },
+        "references/agent-workbench-example.md": {
+          "sha256": "4b1334196e25aa4c16b0d3ae71712b3bec2cb42b07c6ebcd3533dd11598ad711",
+          "bytes": 2110
+        },
+        "references/ant-design.md": {
+          "sha256": "fde5ab4a4fe53a2c3542545954c716abd168e8c9365170a9415e67cd4e23604e",
+          "bytes": 2143
+        },
+        "references/behavior-preserving-refactor.md": {
+          "sha256": "998b8ea98d96422bfa5b9d5f22a314258f70a496c6b0d011f8077dc852ebe4fb",
+          "bytes": 9143
+        },
+        "references/browser-checks.md": {
+          "sha256": "1e92d53509d9b4a2c92d58a9ede976214f000f5767c6110ede866d3d43075829",
+          "bytes": 5706
+        },
+        "references/component-checks.md": {
+          "sha256": "0931bf15791b5529b18b750e98599f894a87ae76ab78dcd094b1d0dabd8548e7",
+          "bytes": 4030
+        },
+        "references/evidence-first-orchestration.md": {
+          "sha256": "d19bd5168246a66f483651fdf85f3557da14ca523b749f7f30f2ecfc0201c4f2",
+          "bytes": 4229
+        },
+        "references/existing-project.md": {
+          "sha256": "a5be3907cb01565df463a1e44ca720bf730283b33c97e1a4d5d6a003acffe6eb",
+          "bytes": 5379
+        },
+        "references/performance-checks.md": {
+          "sha256": "c50b6a5579456b942ee9117207cd52d33a4c3253bdff1cbf416d14b8b6e912a9",
+          "bytes": 7043
+        },
+        "references/prototype-quality.md": {
+          "sha256": "50ac36fc65e3ebbbe3ca33f4648fdc59068eb8c6ac5d53ffa1b86506e5756698",
+          "bytes": 5588
+        },
+        "references/quality-first-engineering.md": {
+          "sha256": "4bc8325d393137ab4a2ba503584cb4cee0e33b4da1330e2ee4fe6550e3d88409",
+          "bytes": 8073
         },
         "assets/react-ant-prototype-starter/.gitignore": {
           "sha256": "4b0f4781867935188c94dbae848771497bf25e9e2916120dd31e4a69e19de239",
@@ -54,6 +98,18 @@
         "assets/react-ant-prototype-starter/prototype.project.json": {
           "sha256": "80f36c07b0330f8d495713406fc85cb680f5b9eaa8132f1de5f5f940b3e90202",
           "bytes": 153
+        },
+        "assets/react-ant-prototype-starter/tsconfig.json": {
+          "sha256": "68c1deb8e204d8bf22d0eac34ed5f3caae97a7c784549151fc3fb5ccc861e0f2",
+          "bytes": 508
+        },
+        "assets/react-ant-prototype-starter/tsconfig.node.json": {
+          "sha256": "52f00ac9b49565b1abf1ff7cb65cff3cfd2c6332ce5c7ccede7305988c7a5b54",
+          "bytes": 282
+        },
+        "assets/react-ant-prototype-starter/vite.config.ts": {
+          "sha256": "e8f4c1078f7f504197dd16b9c70986c3f534e6c6ab4df2467ad85567557b5994",
+          "bytes": 657
         },
         "assets/react-ant-prototype-starter/scripts/browser-actions.mjs": {
           "sha256": "169c80366833fe6fcee7083c00628f3aaecf5a0d9d05b2b0763fc024989b60aa",
@@ -151,6 +207,18 @@
           "sha256": "974dd5e76a19e34f43a885bef72dde2f49ff48339c470087ca32da49a8f28d08",
           "bytes": 833
         },
+        "assets/react-ant-prototype-starter/src/main.tsx": {
+          "sha256": "0f37dd316d6802d759170932d0b057eae466b3f49833e9b48cd18fcfc03b9374",
+          "bytes": 243
+        },
+        "assets/react-ant-prototype-starter/src/styles.scss": {
+          "sha256": "fe8e2b0d3f3780cc597447fec4d1a7b5d2155210ca10bd595f700f9205c70f01",
+          "bytes": 434
+        },
+        "assets/react-ant-prototype-starter/src/vite-env.d.ts": {
+          "sha256": "bf144e3cdae616e27b064c8c2b94b14525e220fb3facc4cb4884d21b65eb5aa5",
+          "bytes": 39
+        },
         "assets/react-ant-prototype-starter/src/app/App.tsx": {
           "sha256": "cd97ef247478c89cf859883dc3de55fe76fe43d91eee982e75881b5308c0a4fa",
           "bytes": 331
@@ -167,83 +235,19 @@
           "sha256": "48ab2a866daf8cb00dab17e13c4c88529532ba397b9672dfe038a8924089a798",
           "bytes": 203
         },
-        "assets/react-ant-prototype-starter/src/main.tsx": {
-          "sha256": "0f37dd316d6802d759170932d0b057eae466b3f49833e9b48cd18fcfc03b9374",
-          "bytes": 243
-        },
         "assets/react-ant-prototype-starter/src/pages/HomePage.tsx": {
           "sha256": "d48b7d42d5632da4a34014c826b959c1f7b8a50375090ce9683fadfe7c851638",
           "bytes": 699
-        },
-        "assets/react-ant-prototype-starter/src/styles.scss": {
-          "sha256": "fe8e2b0d3f3780cc597447fec4d1a7b5d2155210ca10bd595f700f9205c70f01",
-          "bytes": 434
-        },
-        "assets/react-ant-prototype-starter/src/vite-env.d.ts": {
-          "sha256": "bf144e3cdae616e27b064c8c2b94b14525e220fb3facc4cb4884d21b65eb5aa5",
-          "bytes": 39
-        },
-        "assets/react-ant-prototype-starter/tsconfig.json": {
-          "sha256": "68c1deb8e204d8bf22d0eac34ed5f3caae97a7c784549151fc3fb5ccc861e0f2",
-          "bytes": 508
-        },
-        "assets/react-ant-prototype-starter/tsconfig.node.json": {
-          "sha256": "52f00ac9b49565b1abf1ff7cb65cff3cfd2c6332ce5c7ccede7305988c7a5b54",
-          "bytes": 282
-        },
-        "assets/react-ant-prototype-starter/vite.config.ts": {
-          "sha256": "e8f4c1078f7f504197dd16b9c70986c3f534e6c6ab4df2467ad85567557b5994",
-          "bytes": 657
-        },
-        "references/agent-workbench-example.md": {
-          "sha256": "4b1334196e25aa4c16b0d3ae71712b3bec2cb42b07c6ebcd3533dd11598ad711",
-          "bytes": 2110
-        },
-        "references/ant-design.md": {
-          "sha256": "fde5ab4a4fe53a2c3542545954c716abd168e8c9365170a9415e67cd4e23604e",
-          "bytes": 2143
-        },
-        "references/behavior-preserving-refactor.md": {
-          "sha256": "998b8ea98d96422bfa5b9d5f22a314258f70a496c6b0d011f8077dc852ebe4fb",
-          "bytes": 9143
-        },
-        "references/browser-checks.md": {
-          "sha256": "1e92d53509d9b4a2c92d58a9ede976214f000f5767c6110ede866d3d43075829",
-          "bytes": 5706
-        },
-        "references/component-checks.md": {
-          "sha256": "0931bf15791b5529b18b750e98599f894a87ae76ab78dcd094b1d0dabd8548e7",
-          "bytes": 4030
-        },
-        "references/evidence-first-orchestration.md": {
-          "sha256": "75f900fe41e41412b77728f3c76aaf0f5131bd7fc7555cbb4cb7975a6dc89528",
-          "bytes": 3550
-        },
-        "references/existing-project.md": {
-          "sha256": "a5be3907cb01565df463a1e44ca720bf730283b33c97e1a4d5d6a003acffe6eb",
-          "bytes": 5379
-        },
-        "references/performance-checks.md": {
-          "sha256": "c50b6a5579456b942ee9117207cd52d33a4c3253bdff1cbf416d14b8b6e912a9",
-          "bytes": 7043
-        },
-        "references/prototype-quality.md": {
-          "sha256": "50ac36fc65e3ebbbe3ca33f4648fdc59068eb8c6ac5d53ffa1b86506e5756698",
-          "bytes": 5588
-        },
-        "references/quality-first-engineering.md": {
-          "sha256": "4bc8325d393137ab4a2ba503584cb4cee0e33b4da1330e2ee4fe6550e3d88409",
-          "bytes": 8073
-        },
-        "SKILL.md": {
-          "sha256": "dcfbe5bfa04768718951af98abb289df4a80d5443d8eaa9f29a022cf572194e2",
-          "bytes": 10340
         }
       }
     },
     "audit-ai-interaction-design": {
       "fileCount": 5,
       "files": {
+        "SKILL.md": {
+          "sha256": "69e0b5b992275323808c95b71e68b57352dfe4a699e7a1a23767c6b219a19a21",
+          "bytes": 10235
+        },
         "agents/openai.yaml": {
           "sha256": "c467cedb9e75d770bac317dfa737340208b4d56a613d763e3e6835d3f643cc03",
           "bytes": 372
@@ -259,16 +263,16 @@
         "references/review-checklist.md": {
           "sha256": "35e95354d1a2ddf0b7dcfae0ba9b2b5a63dd0d0419ddcb0ef5b6d4365eeffd3f",
           "bytes": 8772
-        },
-        "SKILL.md": {
-          "sha256": "80b793c27ea31e219ad3f96f070a40a9343d6963320806f991f9892d56b11535",
-          "bytes": 9700
         }
       }
     },
     "audit-prototype-implementation-diffs": {
       "fileCount": 4,
       "files": {
+        "SKILL.md": {
+          "sha256": "c06cdc6feeecf9004d66d1a3773bccbb46520eb82c2591a465a07ee06c257e06",
+          "bytes": 10674
+        },
         "agents/openai.yaml": {
           "sha256": "11cdc4dc9125065524d046e782f967ae9c3e68b317527ccfcf242e02d0945f24",
           "bytes": 357
@@ -280,10 +284,6 @@
         "references/walkthrough-checklist.md": {
           "sha256": "319403c9d6dc4350047d4c486da1ffe8749954094129722de089561fc81e11ea",
           "bytes": 4905
-        },
-        "SKILL.md": {
-          "sha256": "b2e7f91b209bc5788ff0b238fb4daf70144805b465f84d5a606724c51b94684e",
-          "bytes": 10275
         }
       }
     },
@@ -291,16 +291,16 @@
       "fileCount": 4,
       "files": {
         "SKILL.md": {
-          "sha256": "eef084b7289553aed34f4d57333cf2f81743ce9cc980ffa7a82e9d92b71f078f",
-          "bytes": 6572
+          "sha256": "e4040f44084c40ac37a50700db99ee53c2b7ea8c660276248dd9419c5fe381b6",
+          "bytes": 7094
         },
         "agents/openai.yaml": {
           "sha256": "55eb6c725170e2f92bf89585d1373f81908c049609fa2cd47d9ad18cd5344f0f",
           "bytes": 401
         },
         "references/status-writeback.md": {
-          "sha256": "926668aa4be1a9c8f22842f77238c5a591e6516bf8aafd57b4031f7ea485058c",
-          "bytes": 3986
+          "sha256": "4100020e571b0f15772d9d8118a7146e28f1ce744ff9e098e17b69c839979b65",
+          "bytes": 4531
         },
         "references/wecom-feedback.md": {
           "sha256": "3c3e2d075e0fd88787b8a2af50c61e78d9e8ce9ef948c964c072da1ba7482bd2",

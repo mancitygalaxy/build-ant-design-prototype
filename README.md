@@ -1,6 +1,6 @@
 # 交互原型 Skill 工具包
 
-四个配合使用的 Codex Skill，分别负责制作与修改原型、交互体验评审、原型与研发实现对版、飞书与企微反馈处理。本版在 2026-10-15 核对的安装版本上增加了企微反馈支持，保留各 Skill 的说明、界面配置、参考资料、模板和脚本。
+四个配合使用的 Codex Skill，分别负责制作与修改原型、交互体验评审、原型与研发实现对版、飞书与企微反馈处理。本版采用 2026-10-18 核对的本机最新版，包含企微反馈支持及协作边界优化，保留各 Skill 的说明、界面配置、参考资料、模板和脚本。
 
 仓库沿用 `build-ant-design-prototype` 名称；当前制作入口已改为 `build-interactive-prototype`，可沿用 HTML、React、Vue、Ant Design、Fusion 等项目方案。
 
@@ -13,7 +13,7 @@
 | 对照已确认原型、设计稿或要求检查研发实现 | [原型与研发实现差异走查](skills/audit-prototype-implementation-diffs/SKILL.md) | `audit-prototype-implementation-diffs`；记录当前与目标的成对证据及验收要求 |
 | 读取飞书或企微反馈、按反馈修改或回写处理状态 | [处理飞书与企微原型反馈](skills/iterate-prototype-from-feishu-feedback/SKILL.md) | `iterate-prototype-from-feishu-feedback`；保留原调用名，按已授权范围读写，原型实现与验收配合制作 Skill |
 
-评审和对版默认在对话中给出结论，是否生成报告及报告形式按当次需求确定。四个 Skill 共用仍覆盖当前版本与状态的检查结果。
+评审和对版默认在对话中给出结论，是否生成报告及报告形式按当次需求确定。四个 Skill 沿用同一问题清单、来源定位和条目编号，共用仍覆盖当前版本与状态的检查结果。对版规格冲突保留待确认；一条反馈含多个要求时，全部验收点通过后才标整条完成。
 
 ## 目录与完整性
 
