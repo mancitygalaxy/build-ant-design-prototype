@@ -1,4 +1,4 @@
 interface:
   display_name: "制作与修改交互原型"
-  short_description: "制作新原型或继续修改已有页面，沿用项目方案，检查页面效果、关键操作与交付文件。"
+  short_description: "制作、修改或视觉改版，沿用项目方案，检查页面效果、关键操作与交付文件。"
   default_prompt: "使用 $build-interactive-prototype 制作或修改这个交互原型，沿用已有工程；新建且未指定组件库时，先询问是否采用 Ant Design，并完成本轮必要检查。"

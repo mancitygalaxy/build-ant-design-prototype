@@ -1,4 +1,4 @@
 interface:
   display_name: "交互体验评审"
-  short_description: "按任务范围检查交互体验，提出有证据的建议，并按当次需求交付"
-  default_prompt: "使用 $audit-ai-interaction-design 评审这个原型的交互体验，按本轮范围检查实际操作，给出有证据的建议；报告按当次需求生成，保持受审对象只读。"
+  short_description: "按任务范围评审视觉与交互，提出有依据的建议，并按当次需求交付"
+  default_prompt: "使用 $audit-ai-interaction-design 按本轮范围评审这个原型的视觉或交互，依据参考图或实际操作提出建议；报告按当次需求生成，保持受审对象只读。"

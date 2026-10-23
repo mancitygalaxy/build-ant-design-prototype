@@ -1,59 +1,19 @@
 {
   "schemaVersion": 1,
-  "publishedDate": "2026-10-18",
-  "source": "Verified current local prototype workflow sources; shared issue identity, evidence reuse and complete-record acceptance",
-  "totalSkillFiles": 71,
+  "publishedDate": "2026-10-23",
+  "source": "Reviewed local prototype workflows, visual-reference guidance and portable design research notes; templates and executable scripts retained",
+  "totalSkillFiles": 91,
   "skills": {
     "build-interactive-prototype": {
-      "fileCount": 58,
+      "fileCount": 78,
       "files": {
         "SKILL.md": {
-          "sha256": "98ba0b0b9969edadf1feaebfeb2b06b40f82b54b6c70d17d283b2e54c9cfdab6",
-          "bytes": 10483
+          "sha256": "7b2974977c8ae424f165882bdbbf91e99ca356ebe81efc477919ad5d8455b7dd",
+          "bytes": 11350
         },
         "agents/openai.yaml": {
-          "sha256": "382717942d7d5c0729bf2e39fc41b72b265600b9cec4cc4bb1fb499f9139bc57",
-          "bytes": 411
-        },
-        "references/agent-workbench-example.md": {
-          "sha256": "4b1334196e25aa4c16b0d3ae71712b3bec2cb42b07c6ebcd3533dd11598ad711",
-          "bytes": 2110
-        },
-        "references/ant-design.md": {
-          "sha256": "fde5ab4a4fe53a2c3542545954c716abd168e8c9365170a9415e67cd4e23604e",
-          "bytes": 2143
-        },
-        "references/behavior-preserving-refactor.md": {
-          "sha256": "998b8ea98d96422bfa5b9d5f22a314258f70a496c6b0d011f8077dc852ebe4fb",
-          "bytes": 9143
-        },
-        "references/browser-checks.md": {
-          "sha256": "1e92d53509d9b4a2c92d58a9ede976214f000f5767c6110ede866d3d43075829",
-          "bytes": 5706
-        },
-        "references/component-checks.md": {
-          "sha256": "0931bf15791b5529b18b750e98599f894a87ae76ab78dcd094b1d0dabd8548e7",
-          "bytes": 4030
-        },
-        "references/evidence-first-orchestration.md": {
-          "sha256": "d19bd5168246a66f483651fdf85f3557da14ca523b749f7f30f2ecfc0201c4f2",
-          "bytes": 4229
-        },
-        "references/existing-project.md": {
-          "sha256": "a5be3907cb01565df463a1e44ca720bf730283b33c97e1a4d5d6a003acffe6eb",
-          "bytes": 5379
-        },
-        "references/performance-checks.md": {
-          "sha256": "c50b6a5579456b942ee9117207cd52d33a4c3253bdff1cbf416d14b8b6e912a9",
-          "bytes": 7043
-        },
-        "references/prototype-quality.md": {
-          "sha256": "50ac36fc65e3ebbbe3ca33f4648fdc59068eb8c6ac5d53ffa1b86506e5756698",
-          "bytes": 5588
-        },
-        "references/quality-first-engineering.md": {
-          "sha256": "4bc8325d393137ab4a2ba503584cb4cee0e33b4da1330e2ee4fe6550e3d88409",
-          "bytes": 8073
+          "sha256": "a01efa0c375b045704fc440a19ee82e4d8d01b155bc51b2c6368db7112352159",
+          "bytes": 399
         },
         "assets/react-ant-prototype-starter/.gitignore": {
           "sha256": "4b0f4781867935188c94dbae848771497bf25e9e2916120dd31e4a69e19de239",
@@ -98,18 +58,6 @@
         "assets/react-ant-prototype-starter/prototype.project.json": {
           "sha256": "80f36c07b0330f8d495713406fc85cb680f5b9eaa8132f1de5f5f940b3e90202",
           "bytes": 153
-        },
-        "assets/react-ant-prototype-starter/tsconfig.json": {
-          "sha256": "68c1deb8e204d8bf22d0eac34ed5f3caae97a7c784549151fc3fb5ccc861e0f2",
-          "bytes": 508
-        },
-        "assets/react-ant-prototype-starter/tsconfig.node.json": {
-          "sha256": "52f00ac9b49565b1abf1ff7cb65cff3cfd2c6332ce5c7ccede7305988c7a5b54",
-          "bytes": 282
-        },
-        "assets/react-ant-prototype-starter/vite.config.ts": {
-          "sha256": "e8f4c1078f7f504197dd16b9c70986c3f534e6c6ab4df2467ad85567557b5994",
-          "bytes": 657
         },
         "assets/react-ant-prototype-starter/scripts/browser-actions.mjs": {
           "sha256": "169c80366833fe6fcee7083c00628f3aaecf5a0d9d05b2b0763fc024989b60aa",
@@ -207,18 +155,6 @@
           "sha256": "974dd5e76a19e34f43a885bef72dde2f49ff48339c470087ca32da49a8f28d08",
           "bytes": 833
         },
-        "assets/react-ant-prototype-starter/src/main.tsx": {
-          "sha256": "0f37dd316d6802d759170932d0b057eae466b3f49833e9b48cd18fcfc03b9374",
-          "bytes": 243
-        },
-        "assets/react-ant-prototype-starter/src/styles.scss": {
-          "sha256": "fe8e2b0d3f3780cc597447fec4d1a7b5d2155210ca10bd595f700f9205c70f01",
-          "bytes": 434
-        },
-        "assets/react-ant-prototype-starter/src/vite-env.d.ts": {
-          "sha256": "bf144e3cdae616e27b064c8c2b94b14525e220fb3facc4cb4884d21b65eb5aa5",
-          "bytes": 39
-        },
         "assets/react-ant-prototype-starter/src/app/App.tsx": {
           "sha256": "cd97ef247478c89cf859883dc3de55fe76fe43d91eee982e75881b5308c0a4fa",
           "bytes": 331
@@ -235,9 +171,153 @@
           "sha256": "48ab2a866daf8cb00dab17e13c4c88529532ba397b9672dfe038a8924089a798",
           "bytes": 203
         },
+        "assets/react-ant-prototype-starter/src/main.tsx": {
+          "sha256": "0f37dd316d6802d759170932d0b057eae466b3f49833e9b48cd18fcfc03b9374",
+          "bytes": 243
+        },
         "assets/react-ant-prototype-starter/src/pages/HomePage.tsx": {
           "sha256": "d48b7d42d5632da4a34014c826b959c1f7b8a50375090ce9683fadfe7c851638",
           "bytes": 699
+        },
+        "assets/react-ant-prototype-starter/src/styles.scss": {
+          "sha256": "fe8e2b0d3f3780cc597447fec4d1a7b5d2155210ca10bd595f700f9205c70f01",
+          "bytes": 434
+        },
+        "assets/react-ant-prototype-starter/src/vite-env.d.ts": {
+          "sha256": "bf144e3cdae616e27b064c8c2b94b14525e220fb3facc4cb4884d21b65eb5aa5",
+          "bytes": 39
+        },
+        "assets/react-ant-prototype-starter/tsconfig.json": {
+          "sha256": "68c1deb8e204d8bf22d0eac34ed5f3caae97a7c784549151fc3fb5ccc861e0f2",
+          "bytes": 508
+        },
+        "assets/react-ant-prototype-starter/tsconfig.node.json": {
+          "sha256": "52f00ac9b49565b1abf1ff7cb65cff3cfd2c6332ce5c7ccede7305988c7a5b54",
+          "bytes": 282
+        },
+        "assets/react-ant-prototype-starter/vite.config.ts": {
+          "sha256": "e8f4c1078f7f504197dd16b9c70986c3f534e6c6ab4df2467ad85567557b5994",
+          "bytes": 657
+        },
+        "references/agent-workbench-example.md": {
+          "sha256": "4b1334196e25aa4c16b0d3ae71712b3bec2cb42b07c6ebcd3533dd11598ad711",
+          "bytes": 2110
+        },
+        "references/ant-design.md": {
+          "sha256": "fde5ab4a4fe53a2c3542545954c716abd168e8c9365170a9415e67cd4e23604e",
+          "bytes": 2143
+        },
+        "references/behavior-preserving-refactor.md": {
+          "sha256": "998b8ea98d96422bfa5b9d5f22a314258f70a496c6b0d011f8077dc852ebe4fb",
+          "bytes": 9143
+        },
+        "references/browser-checks.md": {
+          "sha256": "1e92d53509d9b4a2c92d58a9ede976214f000f5767c6110ede866d3d43075829",
+          "bytes": 5706
+        },
+        "references/component-checks.md": {
+          "sha256": "adc964d1dcb8a27a380c98d1c39796102075164432fcb103bc419053c3f55a82",
+          "bytes": 5007
+        },
+        "references/design-library/README.md": {
+          "sha256": "f54813743877a3f34a70e35ba3e157d3b276281501eedbef1d4a8407b75f356d",
+          "bytes": 1677
+        },
+        "references/design-library/RonDesignLab/README.md": {
+          "sha256": "2613a1d8c4c655e0af103185e507f074ffd3f20497c4317582c206a79dcc7920",
+          "bytes": 2696
+        },
+        "references/design-library/RonDesignLab/设计经验与复用指南.md": {
+          "sha256": "279588c6a9fa870f4a391b1c56597bd24305639dee7b3d2ca5595c9ae9f07dfa",
+          "bytes": 10018
+        },
+        "references/design-library/RonDesignLab/项目参考/01-eilo/README.md": {
+          "sha256": "684c4a46e6dc5f0b492b104998154b5bf48c690e30c27a1108f9a7bcb268e191",
+          "bytes": 1633
+        },
+        "references/design-library/RonDesignLab/项目参考/02-velto/README.md": {
+          "sha256": "b6256e8ba93cc71fa1869edd5fe9e821b3e17d938de75d3638cff907893a6f79",
+          "bytes": 1587
+        },
+        "references/design-library/RonDesignLab/项目参考/03-personal-assistant/README.md": {
+          "sha256": "27564ebceeb1d27580bba0ce6721da9c07bf8dd4a9e920e69aed751838a6dacf",
+          "bytes": 1650
+        },
+        "references/design-library/RonDesignLab/项目参考/04-payrix/README.md": {
+          "sha256": "9680db8bb5744b49c12b38211ee127fe5427641fef11a85861f4dd62a309de53",
+          "bytes": 1556
+        },
+        "references/design-library/RonDesignLab/项目参考/05-mivo/README.md": {
+          "sha256": "c838af0447758881b716bd44734da33340b0481ab7a34a7e833e6f13c6715614",
+          "bytes": 1584
+        },
+        "references/design-library/RonDesignLab/项目参考/06-credit-karma/README.md": {
+          "sha256": "f541d84f69236cd1e5b903e2b383ef27157a0c06498d96caf147dbba9200d3f7",
+          "bytes": 1433
+        },
+        "references/design-library/RonDesignLab/项目参考/07-dynamic365/README.md": {
+          "sha256": "4820b10024bb1e78afae41287e4de521e6a3b96e1182bbfb34e6944e96809983",
+          "bytes": 1548
+        },
+        "references/design-library/RonDesignLab/项目参考/08-orion/README.md": {
+          "sha256": "b0fb1111b8781b82764ad7c989fa0ff2804b1ca8dd09cb54c6eebf6dcf6406ce",
+          "bytes": 1520
+        },
+        "references/design-library/RonDesignLab/项目参考/09-kvant/README.md": {
+          "sha256": "e5fce2caaee1eacfecb578eb49703bbd4f5cee6f49650fa8f1dc1c096b4a89d8",
+          "bytes": 1591
+        },
+        "references/design-library/RonDesignLab/项目参考/10-lendora/README.md": {
+          "sha256": "9e3acd21ab99d1a5b767333e8e47ab53c0586007a9fae8899f289bb474e30505",
+          "bytes": 1618
+        },
+        "references/design-library/RonDesignLab/项目参考/11-urbis/README.md": {
+          "sha256": "e9793a601013432b6f90e5c2cf256c46b40e09f69c058106418cc3689bdca4aa",
+          "bytes": 1446
+        },
+        "references/design-library/RonDesignLab/项目参考/12-salesforce/README.md": {
+          "sha256": "0957db4d79ecda1eb544f2ad35070939fe1d90f45d380c9548bd7ae8606aa443",
+          "bytes": 1614
+        },
+        "references/design-library/RonDesignLab/项目参考/13-hydroflask/README.md": {
+          "sha256": "69867dbf98b12212fa605fcea3985f92badaea2ca127c4e41082465ff01ecc53",
+          "bytes": 1513
+        },
+        "references/design-library/RonDesignLab/项目参考/14-soma/README.md": {
+          "sha256": "c15ddd5c695cd97efc1c604f5f036a704b805726f560fc165c37e84f58d53059",
+          "bytes": 1451
+        },
+        "references/design-library/RonDesignLab/项目参考/15-vexto/README.md": {
+          "sha256": "c91ce4c2366f30173efddd293f77979ef68cb699c42a3adfc26c166779d23210",
+          "bytes": 1502
+        },
+        "references/design-library/浅色界面/README.md": {
+          "sha256": "7006a8d3d35fa388568b224295306bbb12ccd96c03765ff602ffea90741fe0d0",
+          "bytes": 3141
+        },
+        "references/evidence-first-orchestration.md": {
+          "sha256": "d19bd5168246a66f483651fdf85f3557da14ca523b749f7f30f2ecfc0201c4f2",
+          "bytes": 4229
+        },
+        "references/existing-project.md": {
+          "sha256": "e804bb52d2982ca17120ed8f27ab1bf9726eec69090cf60234745f1931861f62",
+          "bytes": 6600
+        },
+        "references/performance-checks.md": {
+          "sha256": "c50b6a5579456b942ee9117207cd52d33a4c3253bdff1cbf416d14b8b6e912a9",
+          "bytes": 7043
+        },
+        "references/prototype-quality.md": {
+          "sha256": "50ac36fc65e3ebbbe3ca33f4648fdc59068eb8c6ac5d53ffa1b86506e5756698",
+          "bytes": 5588
+        },
+        "references/quality-first-engineering.md": {
+          "sha256": "4bc8325d393137ab4a2ba503584cb4cee0e33b4da1330e2ee4fe6550e3d88409",
+          "bytes": 8073
+        },
+        "references/visual-design.md": {
+          "sha256": "ef0e0d21b713ee26adb018cdfd07ddfc482c78a5d10731015e8281d50b7d3f85",
+          "bytes": 4800
         }
       }
     },
@@ -245,12 +325,12 @@
       "fileCount": 5,
       "files": {
         "SKILL.md": {
-          "sha256": "69e0b5b992275323808c95b71e68b57352dfe4a699e7a1a23767c6b219a19a21",
-          "bytes": 10235
+          "sha256": "9cd41675b748cb0146218bfe9515b924b4860ea23d7b7b999aae2a83816b8385",
+          "bytes": 10888
         },
         "agents/openai.yaml": {
-          "sha256": "c467cedb9e75d770bac317dfa737340208b4d56a613d763e3e6835d3f643cc03",
-          "bytes": 372
+          "sha256": "185f7b96466adb9d8eb1bd70d987d0f4a3f7e19cba189b3dd1d876310671ebd9",
+          "bytes": 375
         },
         "assets/report-template.html": {
           "sha256": "f4a5db95ff6b86d515877c52c7f7dab5943e5c75d8d1463eb8f7c0a24e75f0d7",
@@ -261,8 +341,8 @@
           "bytes": 7685
         },
         "references/review-checklist.md": {
-          "sha256": "35e95354d1a2ddf0b7dcfae0ba9b2b5a63dd0d0419ddcb0ef5b6d4365eeffd3f",
-          "bytes": 8772
+          "sha256": "b638a074f1dc67bcc190e5c361c9394f3937a6394b2fb3787d3918d884843d77",
+          "bytes": 9422
         }
       }
     },
@@ -270,16 +350,16 @@
       "fileCount": 4,
       "files": {
         "SKILL.md": {
-          "sha256": "c06cdc6feeecf9004d66d1a3773bccbb46520eb82c2591a465a07ee06c257e06",
-          "bytes": 10674
+          "sha256": "490137079367a7c0c6d73cfc2c6c0c681340ee61ec9c0f508a227fcc4194f61b",
+          "bytes": 11305
         },
         "agents/openai.yaml": {
           "sha256": "11cdc4dc9125065524d046e782f967ae9c3e68b317527ccfcf242e02d0945f24",
           "bytes": 357
         },
         "references/evidence-output-contract.md": {
-          "sha256": "0f10e70d4c7963565f75137dfd7953a8e164369856a25604fae62ff4ca6b4b6a",
-          "bytes": 3247
+          "sha256": "a4e1af46800fb462d22eb8bd5022c9bc63061da39326097bf73d92fd35898879",
+          "bytes": 3583
         },
         "references/walkthrough-checklist.md": {
           "sha256": "319403c9d6dc4350047d4c486da1ffe8749954094129722de089561fc81e11ea",
@@ -291,16 +371,16 @@
       "fileCount": 4,
       "files": {
         "SKILL.md": {
-          "sha256": "e4040f44084c40ac37a50700db99ee53c2b7ea8c660276248dd9419c5fe381b6",
-          "bytes": 7094
+          "sha256": "e5a0a6f69cd2a43053330ac988b96d0c57ad831f03eaeb6c6ed5af3c45fd694c",
+          "bytes": 7528
         },
         "agents/openai.yaml": {
           "sha256": "55eb6c725170e2f92bf89585d1373f81908c049609fa2cd47d9ad18cd5344f0f",
           "bytes": 401
         },
         "references/status-writeback.md": {
-          "sha256": "4100020e571b0f15772d9d8118a7146e28f1ce744ff9e098e17b69c839979b65",
-          "bytes": 4531
+          "sha256": "64bbd753e1ca2279c401cde6cb5424890ba5828ea0b4895389c933962a82f36e",
+          "bytes": 5574
         },
         "references/wecom-feedback.md": {
           "sha256": "3c3e2d075e0fd88787b8a2af50c61e78d9e8ce9ef948c964c072da1ba7482bd2",
@@ -308,5 +388,6 @@
         }
       }
     }
-  }
+  },
+  "localRevisionDate": "2026-10-23"
 }
