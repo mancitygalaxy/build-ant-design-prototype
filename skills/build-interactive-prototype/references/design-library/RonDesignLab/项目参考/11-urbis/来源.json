@@ -1,0 +1,82 @@
+{
+  "slug": "11-urbis",
+  "title": "Urbis - City Task Management Mobile App",
+  "url": "https://dribbble.com/shots/27732220-Urbis-City-Task-Management-Mobile-App",
+  "author": "RonDesignLab",
+  "count": 6,
+  "viewed": [
+    1,
+    2,
+    5
+  ],
+  "images": [
+    {
+      "file": "项目参考/11-urbis/01.webp",
+      "order": 1,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49025415/file/d63b421962cdf6421b2ca83354585b3d.jpg",
+      "content_type": "image/webp",
+      "bytes": 116334,
+      "sha256": "2d943ea2d52502b9f2d479298e2a79b6fa02fbb67466fba8f2113ea41f22fe08",
+      "width": 3200,
+      "height": 2400
+    },
+    {
+      "file": "项目参考/11-urbis/02.webp",
+      "order": 2,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49025418/file/6d37e118960505a45cd00d4be3bbb166.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 74426,
+      "sha256": "f4f858f10e2b0362ec1b7c35ed5f1f46154844f01f96867df8905e202d39a40a",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/11-urbis/03.webp",
+      "order": 3,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49025416/file/7858821f2ec688aaef87a63b32fedd79.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 43070,
+      "sha256": "7140d4311ab31260fc39b0b76b54af50d80e12025bc91093417a61aafba537df",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/11-urbis/04.webp",
+      "order": 4,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49025417/file/a1e200706553a34abb5ad4a7254166b2.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 109666,
+      "sha256": "5c69c57b8c68dc4060a125c064be3b7b2d17e77ac41488ad02a3ceb213aac3cb",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/11-urbis/05.webp",
+      "order": 5,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49025419/file/449a8a530a3225f93b385843fbe3f764.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 117830,
+      "sha256": "a5047f51597bdfa1cc3a60fed9d869cb6bbe45ce1d77ba6d6a41d5147d3454fe",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/11-urbis/06.webp",
+      "order": 6,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49025420/file/c0333e22a14bb415465c76d35b4ee0b2.jpg?resize=2048x1024&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 50448,
+      "sha256": "2555156218d8fe2340d75c4d82f18f672af72fe50f0b22b6e0c3c24b1db7d1be",
+      "width": 2048,
+      "height": 1024
+    }
+  ],
+  "accessed_on": "2026-10-23",
+  "public_source_downloads_found": []
+}

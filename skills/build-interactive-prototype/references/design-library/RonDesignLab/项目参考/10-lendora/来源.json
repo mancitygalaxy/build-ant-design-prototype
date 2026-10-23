@@ -1,0 +1,104 @@
+{
+  "slug": "10-lendora",
+  "title": "Lendora - Property Map Management Dashboard",
+  "url": "https://dribbble.com/shots/27753253-Lendora-Property-Map-Management-Dashboard",
+  "author": "Jack R. for RonDesignLab",
+  "count": 8,
+  "viewed": [
+    1,
+    5,
+    7
+  ],
+  "images": [
+    {
+      "file": "项目参考/10-lendora/01.webp",
+      "order": 1,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49103993/file/4b617749432ae8fcd027f56da9a96a4d.png",
+      "content_type": "image/webp",
+      "bytes": 102518,
+      "sha256": "c5c8da2c9e19111a09dcdf188e957941ae984f095bf42de76665fd928c952072",
+      "width": 3200,
+      "height": 2400
+    },
+    {
+      "file": "项目参考/10-lendora/02.webp",
+      "order": 2,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49103992/file/32fe9c74e8b947eadc288fc41f805af1.png?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 23796,
+      "sha256": "d0905b6410a90f971f54f626e28c861d60a3c1b0eff91cfa56b0b94efdeea791",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/10-lendora/03.webp",
+      "order": 3,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49103991/file/9bf79c4bc1dd86b308c363f61bff2fb2.png?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 34164,
+      "sha256": "f7d7d9b11222508c3f2a45cc8de7b472f15b9b5713ec82845ea521c22ca2ad49",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/10-lendora/04.webp",
+      "order": 4,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49103994/file/1f8450a77bf52bf78fb40af3e1afbf88.png?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 33328,
+      "sha256": "7752e19c49ea2a9cba9ef487ffbd618c2322a0895e025f9953acc3dcf81658cd",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/10-lendora/05.webp",
+      "order": 5,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49104004/file/49b6a1ae7c45c38d823edfa48ffcd63e.png?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 130010,
+      "sha256": "16bb30e76d4753f1c4d3d373b754b98e2ba23d03b47c349f187c0862fb57f2b9",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/10-lendora/06.webp",
+      "order": 6,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49104005/file/2a2b7ced0fbff21784122d668dab1e50.png?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 162064,
+      "sha256": "cd86d93b707b497b4ec4ee7fbcc7c0e50fb09ca31ffa425676efbc8c4844b670",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/10-lendora/07.webp",
+      "order": 7,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49104003/file/347114b7826a9f3ccf1ad7c7bf5c6f5b.png?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 174052,
+      "sha256": "7efa10243afbb201c8463deec15dacebce32baad527674033d3e948f4ccf8101",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/10-lendora/08.webp",
+      "order": 8,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49104002/file/dfef4744cb82a211069fc78048cc1625.jpg?resize=2048x1024&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 244196,
+      "sha256": "7365cf5f2189b52be2ea2d9e1855d165627895bc75f96adb5c121fed21b412ad",
+      "width": 2048,
+      "height": 1024
+    }
+  ],
+  "accessed_on": "2026-10-23",
+  "public_source_downloads_found": []
+}

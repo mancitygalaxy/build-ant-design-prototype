@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "publishedDate": "2026-10-23",
-  "source": "Reviewed local prototype workflows, visual-reference guidance and portable design research notes; templates and executable scripts retained",
-  "totalSkillFiles": 91,
+  "source": "Reviewed prototype workflows, visual-reference guidance, research notes and original reference media for cross-device use; executable prototype templates retained",
+  "totalSkillFiles": 232,
   "skills": {
     "build-interactive-prototype": {
-      "fileCount": 78,
+      "fileCount": 219,
       "files": {
         "SKILL.md": {
           "sha256": "7b2974977c8ae424f165882bdbbf91e99ca356ebe81efc477919ad5d8455b7dd",
@@ -220,80 +220,644 @@
           "bytes": 5007
         },
         "references/design-library/README.md": {
-          "sha256": "f54813743877a3f34a70e35ba3e157d3b276281501eedbef1d4a8407b75f356d",
-          "bytes": 1677
+          "sha256": "125d3ba15241309c57f247f4603eea29e6500ad14ed040b9cafd8cf415e154da",
+          "bytes": 2561
         },
         "references/design-library/RonDesignLab/README.md": {
-          "sha256": "2613a1d8c4c655e0af103185e507f074ffd3f20497c4317582c206a79dcc7920",
-          "bytes": 2696
+          "sha256": "241ef3127b46e08967b162878b1e89dad3c84e5e7f3bd5ec136c7b02223dfe02",
+          "bytes": 2912
+        },
+        "references/design-library/RonDesignLab/index.html": {
+          "sha256": "d2130d2d70ef6995c8ef92d41b492db8edde42b30bed453e5af4a6a36ad8e2e0",
+          "bytes": 71158
+        },
+        "references/design-library/RonDesignLab/参考图/01-eilo-配色与排版.webp": {
+          "sha256": "24f288874b51df9e1383584f40ee024b303f7c50069236ff3871935074a5527b",
+          "bytes": 85232
+        },
+        "references/design-library/RonDesignLab/参考图/02-eilo-分区与信息密度.webp": {
+          "sha256": "df319871819b1a25bb530c39a85eeaa8deffd62991258fc302404e6fd885f5f7",
+          "bytes": 47314
+        },
+        "references/design-library/RonDesignLab/参考图/03-velto-协作信息与重点区.webp": {
+          "sha256": "2829e772f8c8de39da8d55baedb6afd8fc5352d5be81c8b8f1597dfc4578cb2c",
+          "bytes": 53668
+        },
+        "references/design-library/RonDesignLab/参考图/04-assistant-冷暖背景与白色卡片.webp": {
+          "sha256": "482058f0cfa62faecf4103bef5dfaefb77d605907ecdaadeff6029dc858362a3",
+          "bytes": 78236
+        },
+        "references/design-library/RonDesignLab/参考图/05-payrix-信息卡片.webp": {
+          "sha256": "0cfe3f572e6e06b33f618413ff467a5003eaa971f8f1848d1e7849c4cb69019e",
+          "bytes": 31564
+        },
+        "references/design-library/RonDesignLab/参考图/06-payrix-视频封面.webp": {
+          "sha256": "f7a1f8e53fb34c3119a9c1a023d2881b67efdb01dd06c9f78753e13888f6f23a",
+          "bytes": 17922
+        },
+        "references/design-library/RonDesignLab/参考图/07-mivo-粉色与具象元素.webp": {
+          "sha256": "c9835f7d6ed9e9df4dc618ce5036db5854f4b525c62717f9d46b3813b48a664e",
+          "bytes": 36642
+        },
+        "references/design-library/RonDesignLab/参考图/08-credit-karma-深色与局部光感.webp": {
+          "sha256": "971cf85fcc812b3e83a75a75d8780664da7fde2fc06b961bc428397e1a847024",
+          "bytes": 81110
+        },
+        "references/design-library/RonDesignLab/参考图/README.md": {
+          "sha256": "7e0c71c9fc0bc072cf5170c32b1f995e1ca8641322366e995f635fe462730c00",
+          "bytes": 273
+        },
+        "references/design-library/RonDesignLab/参考图/index.html": {
+          "sha256": "13a54aaacfa7297f8f7daf369badfe4ef6a2797e32b787517db05ff376571552",
+          "bytes": 4886
         },
         "references/design-library/RonDesignLab/设计经验与复用指南.md": {
-          "sha256": "279588c6a9fa870f4a391b1c56597bd24305639dee7b3d2ca5595c9ae9f07dfa",
-          "bytes": 10018
+          "sha256": "cfdf9a7e2540b0c8c55e07a0dcd3b61194d6c50081ba0f0caca9959395112c45",
+          "bytes": 10146
+        },
+        "references/design-library/RonDesignLab/资料索引.json": {
+          "sha256": "4d55b40a8f5b1edfc41dbba7a7e08b57f0c81917278ab018a41a71587bc3f1e4",
+          "bytes": 66860
+        },
+        "references/design-library/RonDesignLab/项目参考/01-eilo/01.webp": {
+          "sha256": "24f288874b51df9e1383584f40ee024b303f7c50069236ff3871935074a5527b",
+          "bytes": 85232
+        },
+        "references/design-library/RonDesignLab/项目参考/01-eilo/02.webp": {
+          "sha256": "df319871819b1a25bb530c39a85eeaa8deffd62991258fc302404e6fd885f5f7",
+          "bytes": 47314
+        },
+        "references/design-library/RonDesignLab/项目参考/01-eilo/03.webp": {
+          "sha256": "7bead7b1961a1c8464df248db95d46bfb40b895058dd6f89ae9c52faa061dbd4",
+          "bytes": 44468
+        },
+        "references/design-library/RonDesignLab/项目参考/01-eilo/04.webp": {
+          "sha256": "750aa6af013a9c33408f056e7b0f0abf70175d5a92c52a58716961a90555de2b",
+          "bytes": 90316
+        },
+        "references/design-library/RonDesignLab/项目参考/01-eilo/05.webp": {
+          "sha256": "7bb2c132d7012afcb7d71534dc873a7498032b05a461320376bcfaf9eae8cff2",
+          "bytes": 111594
+        },
+        "references/design-library/RonDesignLab/项目参考/01-eilo/06.webp": {
+          "sha256": "48684c5cd158ba739b0d3383136233ca0938cc359c24dd9704723050f77667c8",
+          "bytes": 96656
+        },
+        "references/design-library/RonDesignLab/项目参考/01-eilo/07.webp": {
+          "sha256": "3b2c15dca5ce16464333db49a71ddde9ed83562d87f3bf93d0ba6db8356d4b95",
+          "bytes": 101288
+        },
+        "references/design-library/RonDesignLab/项目参考/01-eilo/08.webp": {
+          "sha256": "00f2f93b6bf89fc781b5a2e3f01c679746b7d0cb3791bb4bbef296b2214acbb2",
+          "bytes": 43242
         },
         "references/design-library/RonDesignLab/项目参考/01-eilo/README.md": {
-          "sha256": "684c4a46e6dc5f0b492b104998154b5bf48c690e30c27a1108f9a7bcb268e191",
-          "bytes": 1633
+          "sha256": "d1fce53b2cb111723c95e4772a3b735c40f19cb511e2a624f2dd686b1d3eda33",
+          "bytes": 1897
+        },
+        "references/design-library/RonDesignLab/项目参考/01-eilo/来源.json": {
+          "sha256": "8021a8dfc31b952029f049c0666160617bcec43f828879f623367bc95aede575",
+          "bytes": 3677
+        },
+        "references/design-library/RonDesignLab/项目参考/02-velto/01.webp": {
+          "sha256": "60136ced77f514450c7cb8a360b5ebef4018a6eade39a0449f62bcb237defde6",
+          "bytes": 64308
+        },
+        "references/design-library/RonDesignLab/项目参考/02-velto/02.webp": {
+          "sha256": "08e151d08a8473556e44e328ae89773e62f80809b69be3f2061806d51df1b88b",
+          "bytes": 43266
+        },
+        "references/design-library/RonDesignLab/项目参考/02-velto/03.webp": {
+          "sha256": "2829e772f8c8de39da8d55baedb6afd8fc5352d5be81c8b8f1597dfc4578cb2c",
+          "bytes": 53668
+        },
+        "references/design-library/RonDesignLab/项目参考/02-velto/04.webp": {
+          "sha256": "82cf3cbd53640f49a3469b93469dbccb7bef365a09162d8d72f0c9f2a7be3f75",
+          "bytes": 95864
+        },
+        "references/design-library/RonDesignLab/项目参考/02-velto/05.webp": {
+          "sha256": "fac7554afc3ed3e76ac23d5ce81910a5160ddd8fad833a193da5a977b72ba603",
+          "bytes": 58760
+        },
+        "references/design-library/RonDesignLab/项目参考/02-velto/06.webp": {
+          "sha256": "f2cfbab34f3ae6321a0ed9b18377784c1d9730c2559a06c4ff4fc51971d98015",
+          "bytes": 79294
+        },
+        "references/design-library/RonDesignLab/项目参考/02-velto/07.webp": {
+          "sha256": "eabf101f44f9c88a872d20adddf86fad6f48e356f6a95609f5947c457eae8131",
+          "bytes": 56240
         },
         "references/design-library/RonDesignLab/项目参考/02-velto/README.md": {
-          "sha256": "b6256e8ba93cc71fa1869edd5fe9e821b3e17d938de75d3638cff907893a6f79",
-          "bytes": 1587
+          "sha256": "dd34d545dc9a481a8e6d028392baf05a93153990e086778a61a2b68cf3eeb5d9",
+          "bytes": 1831
+        },
+        "references/design-library/RonDesignLab/项目参考/02-velto/来源.json": {
+          "sha256": "50207073fd16c25fd81bc5ddc1da2e9596ed71ebf36d338666e8ad778bae47f0",
+          "bytes": 3287
+        },
+        "references/design-library/RonDesignLab/项目参考/03-personal-assistant/01.webp": {
+          "sha256": "482058f0cfa62faecf4103bef5dfaefb77d605907ecdaadeff6029dc858362a3",
+          "bytes": 78236
+        },
+        "references/design-library/RonDesignLab/项目参考/03-personal-assistant/02.webp": {
+          "sha256": "e13ed54213ceeb2b2f6e27d5f622366bb0402a6e5a19ad8557ce4c7260621bfe",
+          "bytes": 55288
+        },
+        "references/design-library/RonDesignLab/项目参考/03-personal-assistant/03.webp": {
+          "sha256": "abc23e46e7e30f7034bbf3fc6c5e363b4f60e6325beaaf00d5bd4d7e90d6fcac",
+          "bytes": 46484
+        },
+        "references/design-library/RonDesignLab/项目参考/03-personal-assistant/04.webp": {
+          "sha256": "fad34c1179ac8fed13f1ddac326aad10b0487b7c55305dac3cc0283e11779a3c",
+          "bytes": 73964
+        },
+        "references/design-library/RonDesignLab/项目参考/03-personal-assistant/05.webp": {
+          "sha256": "f92d15b0de19c2b5ed4f155d115db113fee8c9337d8b2a5e687113dceae24a6c",
+          "bytes": 74018
+        },
+        "references/design-library/RonDesignLab/项目参考/03-personal-assistant/06.webp": {
+          "sha256": "a15b77c01071645adc91d8501b07a5fa28f87e6e23ca4a2faf338cfd536c0e1c",
+          "bytes": 45982
         },
         "references/design-library/RonDesignLab/项目参考/03-personal-assistant/README.md": {
-          "sha256": "27564ebceeb1d27580bba0ce6721da9c07bf8dd4a9e920e69aed751838a6dacf",
-          "bytes": 1650
+          "sha256": "b5049b45cd1f0ad3051978db0ebdcda25281a077e3dc3e2cd64fca90be762e79",
+          "bytes": 1886
+        },
+        "references/design-library/RonDesignLab/项目参考/03-personal-assistant/来源.json": {
+          "sha256": "5601e453025f7393a8a945a814f186402c1af176751b176f20cd8e4c7bddb6d9",
+          "bytes": 2936
+        },
+        "references/design-library/RonDesignLab/项目参考/04-payrix/01.webp": {
+          "sha256": "0cfe3f572e6e06b33f618413ff467a5003eaa971f8f1848d1e7849c4cb69019e",
+          "bytes": 31564
+        },
+        "references/design-library/RonDesignLab/项目参考/04-payrix/02.webp": {
+          "sha256": "7a63211a3de41418e4071664a650092ed6bac7740cf3ecfceb68660d1a323470",
+          "bytes": 41040
+        },
+        "references/design-library/RonDesignLab/项目参考/04-payrix/03.webp": {
+          "sha256": "4522ff868675722c8bd8994f61e0cb401cccea5f91bfb7c56a0db306f6a7f263",
+          "bytes": 81700
+        },
+        "references/design-library/RonDesignLab/项目参考/04-payrix/04.webp": {
+          "sha256": "ed7945acf9cddda38da363fcf29d2e76139c2f61027c2c8876dde35c63b9db8a",
+          "bytes": 61472
         },
         "references/design-library/RonDesignLab/项目参考/04-payrix/README.md": {
-          "sha256": "9680db8bb5744b49c12b38211ee127fe5427641fef11a85861f4dd62a309de53",
-          "bytes": 1556
+          "sha256": "98ddb0fbd46d4cf6be336b1c71fd15d9446cb78c680744c84a920875ffd12452",
+          "bytes": 1817
+        },
+        "references/design-library/RonDesignLab/项目参考/04-payrix/展示视频.mp4": {
+          "sha256": "007bab9063a8279a0ff367f2d31efba6d35ad667a204e72581bcd7ff32205b48",
+          "bytes": 2985897
+        },
+        "references/design-library/RonDesignLab/项目参考/04-payrix/来源.json": {
+          "sha256": "6870884224d725212e6992c8998efd4db7dd05842c20a1efbc13a978a6972524",
+          "bytes": 2389
+        },
+        "references/design-library/RonDesignLab/项目参考/05-mivo/01.webp": {
+          "sha256": "ea77f979367996fb4cd153d4acc31c6c48dc617256d7acf982590fced19c8b8b",
+          "bytes": 339582
+        },
+        "references/design-library/RonDesignLab/项目参考/05-mivo/02.webp": {
+          "sha256": "c9835f7d6ed9e9df4dc618ce5036db5854f4b525c62717f9d46b3813b48a664e",
+          "bytes": 36642
+        },
+        "references/design-library/RonDesignLab/项目参考/05-mivo/03.webp": {
+          "sha256": "be8385b7c6002903f5c632d047d312b9cecbbee58b86c94a3c743550aa0659d6",
+          "bytes": 44364
+        },
+        "references/design-library/RonDesignLab/项目参考/05-mivo/04.webp": {
+          "sha256": "b8d44b6722777479dc64db6e9204013d7ab8fe86f471e2ab371b2beac854e332",
+          "bytes": 156992
+        },
+        "references/design-library/RonDesignLab/项目参考/05-mivo/05.webp": {
+          "sha256": "4f71c11c705fcad31ba4d38765440314fe765d120ec4faccd14c68340e61ad4a",
+          "bytes": 65890
+        },
+        "references/design-library/RonDesignLab/项目参考/05-mivo/06.webp": {
+          "sha256": "437d090448a89bb6f870fd0ae5c038d8ecd38e0194ae5285ba7c20e272f7a187",
+          "bytes": 58178
+        },
+        "references/design-library/RonDesignLab/项目参考/05-mivo/07.webp": {
+          "sha256": "9438ae4dffc57515d9c64b09e651195dc837d9fa12c509d5a85541d1a417cc4b",
+          "bytes": 144312
         },
         "references/design-library/RonDesignLab/项目参考/05-mivo/README.md": {
-          "sha256": "c838af0447758881b716bd44734da33340b0481ab7a34a7e833e6f13c6715614",
-          "bytes": 1584
+          "sha256": "f4576aa3f2e8e404d01017f3c92e3f6ba0a2211d87c22be548c78d8488d5f2db",
+          "bytes": 1827
+        },
+        "references/design-library/RonDesignLab/项目参考/05-mivo/来源.json": {
+          "sha256": "0bae2e84741152a9366a01ca4ad0cbfc77693750076621dcd882581afecd201c",
+          "bytes": 3260
+        },
+        "references/design-library/RonDesignLab/项目参考/06-credit-karma/01.webp": {
+          "sha256": "971cf85fcc812b3e83a75a75d8780664da7fde2fc06b961bc428397e1a847024",
+          "bytes": 81110
+        },
+        "references/design-library/RonDesignLab/项目参考/06-credit-karma/02.webp": {
+          "sha256": "917731074ca4141eef26838740ecef06a3ee25a8bbcac1a6a48a84e4d1072064",
+          "bytes": 55594
+        },
+        "references/design-library/RonDesignLab/项目参考/06-credit-karma/03.webp": {
+          "sha256": "c1d393516bfef3c045548842df70b5971411a14c251a2bde8b430f8a736e3793",
+          "bytes": 25814
+        },
+        "references/design-library/RonDesignLab/项目参考/06-credit-karma/04.webp": {
+          "sha256": "365b263183b80ecf4454e5c438bb779ae7b7c29534da4a60e38b0c097c50d53e",
+          "bytes": 49550
+        },
+        "references/design-library/RonDesignLab/项目参考/06-credit-karma/05.webp": {
+          "sha256": "edd075fc8034fcba4174508fc9651df5ee569a042560ed6d569024ef15506bc3",
+          "bytes": 34060
+        },
+        "references/design-library/RonDesignLab/项目参考/06-credit-karma/06.webp": {
+          "sha256": "ad1278fc693337de99cfab674354551ff0785995555ab356bbb21cc26a378b72",
+          "bytes": 254182
         },
         "references/design-library/RonDesignLab/项目参考/06-credit-karma/README.md": {
-          "sha256": "f541d84f69236cd1e5b903e2b383ef27157a0c06498d96caf147dbba9200d3f7",
-          "bytes": 1433
+          "sha256": "26a60a0bfb456cf4bb0409d7edce53fdfd66b227c0082c4a4cfd0ac364db4478",
+          "bytes": 1663
+        },
+        "references/design-library/RonDesignLab/项目参考/06-credit-karma/来源.json": {
+          "sha256": "841ee9f207d9a444836c1aaa8862ada579fc1f3e5767cbd87bd5837634e156b5",
+          "bytes": 2887
+        },
+        "references/design-library/RonDesignLab/项目参考/07-dynamic365/01.webp": {
+          "sha256": "2f215d70e8397cd4692edc19301c1d0ff53803b46179211e5f40a67a9ee1fcf4",
+          "bytes": 93466
+        },
+        "references/design-library/RonDesignLab/项目参考/07-dynamic365/02.webp": {
+          "sha256": "aa771b852e2365b73cd73adb6d2639bace38c3b047c717792aa7f53c97513bf1",
+          "bytes": 30560
+        },
+        "references/design-library/RonDesignLab/项目参考/07-dynamic365/03.webp": {
+          "sha256": "d701466cc700fcbb8f72e3eb7f04d959915ab7918047c4a509a4e466d32151f5",
+          "bytes": 35860
+        },
+        "references/design-library/RonDesignLab/项目参考/07-dynamic365/04.webp": {
+          "sha256": "00087e0d67463cd8aaf4038e70c89d303d6f37e64a8b4d3d31886f94cdaa1b11",
+          "bytes": 84600
+        },
+        "references/design-library/RonDesignLab/项目参考/07-dynamic365/05.webp": {
+          "sha256": "76b6f89438a7a2554ad59ce6251b9e77011dd3c9d7f9ee28cff82290eda5468b",
+          "bytes": 92088
+        },
+        "references/design-library/RonDesignLab/项目参考/07-dynamic365/06.webp": {
+          "sha256": "5a10396e874895595579e737e55f66771c37822315df9c4c11cda7137e812409",
+          "bytes": 80490
+        },
+        "references/design-library/RonDesignLab/项目参考/07-dynamic365/07.webp": {
+          "sha256": "29d3b567313cbf7b787905b6c6603e83c94b6570768ee9dcd201f33665e5b2e2",
+          "bytes": 88264
+        },
+        "references/design-library/RonDesignLab/项目参考/07-dynamic365/08.webp": {
+          "sha256": "c8c5049caf2ba510c99587ab4423774a3f87cc436633d8b23753de0be43bc42a",
+          "bytes": 67204
         },
         "references/design-library/RonDesignLab/项目参考/07-dynamic365/README.md": {
-          "sha256": "4820b10024bb1e78afae41287e4de521e6a3b96e1182bbfb34e6944e96809983",
-          "bytes": 1548
+          "sha256": "c55ba3233437fbb3957896c9f4090ce956549f9e039eaa773711b5193cf2755c",
+          "bytes": 1818
+        },
+        "references/design-library/RonDesignLab/项目参考/07-dynamic365/来源.json": {
+          "sha256": "95097ce3150a5bbb98fbc12b889125f87b0165cc17a39063580b2c5d590da67d",
+          "bytes": 3730
+        },
+        "references/design-library/RonDesignLab/项目参考/08-orion/01.webp": {
+          "sha256": "eceacd861d59e3c1b86a8111e10297f10dd23710c6b51bc55cd5de44e8b05bbb",
+          "bytes": 29566
+        },
+        "references/design-library/RonDesignLab/项目参考/08-orion/02.webp": {
+          "sha256": "45937e166ddbf9c5586b92a5a548883eb3cfed7cfd961d18d154639f412c38e2",
+          "bytes": 37792
+        },
+        "references/design-library/RonDesignLab/项目参考/08-orion/03.webp": {
+          "sha256": "c01ba4d762a12ee3b6ced4bd442e36343709a11bb3369e53814fae1fcf295519",
+          "bytes": 20502
+        },
+        "references/design-library/RonDesignLab/项目参考/08-orion/04.webp": {
+          "sha256": "5262224a65ffc40daf286aad478396af9857c3b0a126a78cd5e1745d0e34fe36",
+          "bytes": 53218
+        },
+        "references/design-library/RonDesignLab/项目参考/08-orion/05.webp": {
+          "sha256": "207719a71969e1a06f0bea831fa29b24894e9f4a69b1646e41c1ab113f267591",
+          "bytes": 46102
+        },
+        "references/design-library/RonDesignLab/项目参考/08-orion/06.webp": {
+          "sha256": "ea3655c53b8d2e2029b601c19772f8bdcbb39096eda116e815a2bdd5e54492e1",
+          "bytes": 49956
+        },
+        "references/design-library/RonDesignLab/项目参考/08-orion/07.webp": {
+          "sha256": "a596962d8030e01fffcddff0784e0f95a0cdf48483c2d4c9815ed2c71f671a1a",
+          "bytes": 25222
         },
         "references/design-library/RonDesignLab/项目参考/08-orion/README.md": {
-          "sha256": "b0fb1111b8781b82764ad7c989fa0ff2804b1ca8dd09cb54c6eebf6dcf6406ce",
-          "bytes": 1520
+          "sha256": "178b745f56b4d89290c6f316972fc92492a046db9c9a4ea08116f3a114246175",
+          "bytes": 1764
+        },
+        "references/design-library/RonDesignLab/项目参考/08-orion/来源.json": {
+          "sha256": "be723f97f8a69db87944da135009783b116e3bc3fe45e71c704778eefe482330",
+          "bytes": 3239
+        },
+        "references/design-library/RonDesignLab/项目参考/09-kvant/01.webp": {
+          "sha256": "628274e9863fa80b60346660110faffd191cf475929a7c1101b6e7b245c9178e",
+          "bytes": 207680
+        },
+        "references/design-library/RonDesignLab/项目参考/09-kvant/02.webp": {
+          "sha256": "0a28275de4fd9b5a61735a8f3148d5fdbf2825741434c63763ee698158785fcc",
+          "bytes": 47866
+        },
+        "references/design-library/RonDesignLab/项目参考/09-kvant/03.webp": {
+          "sha256": "03596e39e5a8808b1ff6e004b900315749a2c3c7d77d64c9784579b75857413a",
+          "bytes": 39718
+        },
+        "references/design-library/RonDesignLab/项目参考/09-kvant/04.webp": {
+          "sha256": "64ef3fb9b87d45351bd2562c75c6b1b364debede39d47a398094319e8cda902a",
+          "bytes": 190956
         },
         "references/design-library/RonDesignLab/项目参考/09-kvant/README.md": {
-          "sha256": "e5fce2caaee1eacfecb578eb49703bbd4f5cee6f49650fa8f1dc1c096b4a89d8",
-          "bytes": 1591
+          "sha256": "52440febe8a643fe8dbf7592d576281f20cc9ac8755fc369e768b2815157ae7d",
+          "bytes": 1854
+        },
+        "references/design-library/RonDesignLab/项目参考/09-kvant/展示视频.mp4": {
+          "sha256": "bba467a5f93fd4675fd93b60d9b383c2042ea7965c361b911e290c492a7b6e59",
+          "bytes": 3003429
+        },
+        "references/design-library/RonDesignLab/项目参考/09-kvant/来源.json": {
+          "sha256": "c912897034ef2a06eccd5ef2481000b802a36d289eb2a40657b1390c8b4c26cd",
+          "bytes": 2398
+        },
+        "references/design-library/RonDesignLab/项目参考/10-lendora/01.webp": {
+          "sha256": "c5c8da2c9e19111a09dcdf188e957941ae984f095bf42de76665fd928c952072",
+          "bytes": 102518
+        },
+        "references/design-library/RonDesignLab/项目参考/10-lendora/02.webp": {
+          "sha256": "d0905b6410a90f971f54f626e28c861d60a3c1b0eff91cfa56b0b94efdeea791",
+          "bytes": 23796
+        },
+        "references/design-library/RonDesignLab/项目参考/10-lendora/03.webp": {
+          "sha256": "f7d7d9b11222508c3f2a45cc8de7b472f15b9b5713ec82845ea521c22ca2ad49",
+          "bytes": 34164
+        },
+        "references/design-library/RonDesignLab/项目参考/10-lendora/04.webp": {
+          "sha256": "7752e19c49ea2a9cba9ef487ffbd618c2322a0895e025f9953acc3dcf81658cd",
+          "bytes": 33328
+        },
+        "references/design-library/RonDesignLab/项目参考/10-lendora/05.webp": {
+          "sha256": "16bb30e76d4753f1c4d3d373b754b98e2ba23d03b47c349f187c0862fb57f2b9",
+          "bytes": 130010
+        },
+        "references/design-library/RonDesignLab/项目参考/10-lendora/06.webp": {
+          "sha256": "cd86d93b707b497b4ec4ee7fbcc7c0e50fb09ca31ffa425676efbc8c4844b670",
+          "bytes": 162064
+        },
+        "references/design-library/RonDesignLab/项目参考/10-lendora/07.webp": {
+          "sha256": "7efa10243afbb201c8463deec15dacebce32baad527674033d3e948f4ccf8101",
+          "bytes": 174052
+        },
+        "references/design-library/RonDesignLab/项目参考/10-lendora/08.webp": {
+          "sha256": "7365cf5f2189b52be2ea2d9e1855d165627895bc75f96adb5c121fed21b412ad",
+          "bytes": 244196
         },
         "references/design-library/RonDesignLab/项目参考/10-lendora/README.md": {
-          "sha256": "9e3acd21ab99d1a5b767333e8e47ab53c0586007a9fae8899f289bb474e30505",
-          "bytes": 1618
+          "sha256": "4d7e65d5de66851f7e2ce4b97797c53315dd61722516efd63cb75f0cdd70f5dc",
+          "bytes": 1885
+        },
+        "references/design-library/RonDesignLab/项目参考/10-lendora/来源.json": {
+          "sha256": "9d5b00ed53ffa935b0437cb316719a070b714e124cb356cfac66fe6e1b7b4816",
+          "bytes": 3712
+        },
+        "references/design-library/RonDesignLab/项目参考/11-urbis/01.webp": {
+          "sha256": "2d943ea2d52502b9f2d479298e2a79b6fa02fbb67466fba8f2113ea41f22fe08",
+          "bytes": 116334
+        },
+        "references/design-library/RonDesignLab/项目参考/11-urbis/02.webp": {
+          "sha256": "f4f858f10e2b0362ec1b7c35ed5f1f46154844f01f96867df8905e202d39a40a",
+          "bytes": 74426
+        },
+        "references/design-library/RonDesignLab/项目参考/11-urbis/03.webp": {
+          "sha256": "7140d4311ab31260fc39b0b76b54af50d80e12025bc91093417a61aafba537df",
+          "bytes": 43070
+        },
+        "references/design-library/RonDesignLab/项目参考/11-urbis/04.webp": {
+          "sha256": "5c69c57b8c68dc4060a125c064be3b7b2d17e77ac41488ad02a3ceb213aac3cb",
+          "bytes": 109666
+        },
+        "references/design-library/RonDesignLab/项目参考/11-urbis/05.webp": {
+          "sha256": "a5047f51597bdfa1cc3a60fed9d869cb6bbe45ce1d77ba6d6a41d5147d3454fe",
+          "bytes": 117830
+        },
+        "references/design-library/RonDesignLab/项目参考/11-urbis/06.webp": {
+          "sha256": "2555156218d8fe2340d75c4d82f18f672af72fe50f0b22b6e0c3c24b1db7d1be",
+          "bytes": 50448
         },
         "references/design-library/RonDesignLab/项目参考/11-urbis/README.md": {
-          "sha256": "e9793a601013432b6f90e5c2cf256c46b40e09f69c058106418cc3689bdca4aa",
-          "bytes": 1446
+          "sha256": "bdb55ca97f7e7a388609edeb357c90367426dfd5a34d989c78eb353946e6d856",
+          "bytes": 1669
+        },
+        "references/design-library/RonDesignLab/项目参考/11-urbis/来源.json": {
+          "sha256": "0c55eed53c4c301174d48f7a55c92cc728d414f78261ac4a1e68e6f0a1237403",
+          "bytes": 2830
+        },
+        "references/design-library/RonDesignLab/项目参考/12-salesforce/01.webp": {
+          "sha256": "fb75a9e4e5b3df9910de317432afb94e8439153f8324ae63cbf44a57860e1c1c",
+          "bytes": 82586
+        },
+        "references/design-library/RonDesignLab/项目参考/12-salesforce/02.webp": {
+          "sha256": "a8307861f06a0158ab8b9261a88dd6861996d63309b983c2b537b92a30e6af57",
+          "bytes": 58092
+        },
+        "references/design-library/RonDesignLab/项目参考/12-salesforce/03.webp": {
+          "sha256": "d31f2556bd316b52e98f5cb9962cb590a8b08207c2ef6b515ab48e86e74b59e7",
+          "bytes": 53552
+        },
+        "references/design-library/RonDesignLab/项目参考/12-salesforce/04.webp": {
+          "sha256": "536e09e0318f50ce101bd4fa45db1c7b6ea2c0214b4b3e20c87cd961d9daab5a",
+          "bytes": 67036
+        },
+        "references/design-library/RonDesignLab/项目参考/12-salesforce/05.webp": {
+          "sha256": "a0b9674cbd9ef5d4f66fe6bd9d7d0e52b6c429e0511ce1d5f1047f0d2a795585",
+          "bytes": 57952
+        },
+        "references/design-library/RonDesignLab/项目参考/12-salesforce/06.webp": {
+          "sha256": "8b67ae36c8568d988476238d99e83c9c530eff7144c60fbaba3120399aead33c",
+          "bytes": 61670
+        },
+        "references/design-library/RonDesignLab/项目参考/12-salesforce/07.webp": {
+          "sha256": "17b60e80d3b584c75b2cee760531519fa080304dbe45cee4a7d402b48ee81bee",
+          "bytes": 41708
         },
         "references/design-library/RonDesignLab/项目参考/12-salesforce/README.md": {
-          "sha256": "0957db4d79ecda1eb544f2ad35070939fe1d90f45d380c9548bd7ae8606aa443",
-          "bytes": 1614
+          "sha256": "ae019a728a327930158c37d333a21ffdc255e7c5fea95202ca55d6f682171b87",
+          "bytes": 1877
+        },
+        "references/design-library/RonDesignLab/项目参考/12-salesforce/来源.json": {
+          "sha256": "7dd18505c53de60668df3510c7dbebf789d418f56929ee94c9ee9255475d3bad",
+          "bytes": 3320
+        },
+        "references/design-library/RonDesignLab/项目参考/13-hydroflask/01.webp": {
+          "sha256": "20b088d88ecced916e3759c198a6a4a79fd236b033aa3c50f7b837ce7b6d2bce",
+          "bytes": 142082
+        },
+        "references/design-library/RonDesignLab/项目参考/13-hydroflask/02.webp": {
+          "sha256": "83d734d2afa6bb63fa9ac1d8f72dea4c8957a393d5b7e08162d7b8ee681f6e42",
+          "bytes": 131386
+        },
+        "references/design-library/RonDesignLab/项目参考/13-hydroflask/03.webp": {
+          "sha256": "9212dbcb1566173075916660d269cf24419199c88ba679716b91db6b44abdae4",
+          "bytes": 149900
+        },
+        "references/design-library/RonDesignLab/项目参考/13-hydroflask/04.webp": {
+          "sha256": "e45fef3b2572a935897deddb7acdf1b7092ede62bbaa262d894870b47ad2acda",
+          "bytes": 162348
+        },
+        "references/design-library/RonDesignLab/项目参考/13-hydroflask/05.webp": {
+          "sha256": "94a65220b079a97660fc5e2dc3f69f7e76e0c6669d55df6051fd36270d2ca8d4",
+          "bytes": 95660
+        },
+        "references/design-library/RonDesignLab/项目参考/13-hydroflask/06.webp": {
+          "sha256": "dbe43d4c8180cfe7702288780dffbeb8156e1835f445c9806800085a09927435",
+          "bytes": 95658
+        },
+        "references/design-library/RonDesignLab/项目参考/13-hydroflask/07.webp": {
+          "sha256": "025aa141c96c00ffe39fb303c61b41ec9e661295525a35113957202034e3854f",
+          "bytes": 186486
         },
         "references/design-library/RonDesignLab/项目参考/13-hydroflask/README.md": {
-          "sha256": "69867dbf98b12212fa605fcea3985f92badaea2ca127c4e41082465ff01ecc53",
-          "bytes": 1513
+          "sha256": "7b5dce3cc0745ba1464690bb252679ed01c3e3ea2bc83e6321f138917aba58a6",
+          "bytes": 1762
+        },
+        "references/design-library/RonDesignLab/项目参考/13-hydroflask/来源.json": {
+          "sha256": "e648a74d81d7180740bd7cf6cfecbf17df4bfe3b21a42c99bc03776e1bfd832d",
+          "bytes": 3325
+        },
+        "references/design-library/RonDesignLab/项目参考/14-soma/01.webp": {
+          "sha256": "418265c45303b8e88bdfeaa0df0d6a9f67ee46112856d2e2afff42ea9bb501ff",
+          "bytes": 70350
+        },
+        "references/design-library/RonDesignLab/项目参考/14-soma/02.webp": {
+          "sha256": "b9873ed9b0760da8f47cca44f7a2038eed2422d909a968510b3832e6eed2fef4",
+          "bytes": 29418
+        },
+        "references/design-library/RonDesignLab/项目参考/14-soma/03.webp": {
+          "sha256": "020edf5d730ba78e136461014dd4ae01d7573ca735c1631a525d11d02f4a797f",
+          "bytes": 40758
+        },
+        "references/design-library/RonDesignLab/项目参考/14-soma/04.webp": {
+          "sha256": "2992cc2df352e1cad59fb120b66e6c8795c276a59bdbf0277aa6da95d97c0be9",
+          "bytes": 71894
+        },
+        "references/design-library/RonDesignLab/项目参考/14-soma/05.webp": {
+          "sha256": "3ccb3d6cf3c9f97a6fb22fd38e9200e7f3ccc9ebf1c91be40da666dad71076d4",
+          "bytes": 51290
+        },
+        "references/design-library/RonDesignLab/项目参考/14-soma/06.webp": {
+          "sha256": "92d5d5dc4ad422e264483d9c38ebb5eb74197ee5fc0034829d2390f978a7dfaf",
+          "bytes": 67764
+        },
+        "references/design-library/RonDesignLab/项目参考/14-soma/07.webp": {
+          "sha256": "5d0d9f291560fbbd61a9ae5d6190cf134c4883600b876c30dc150834bd16c5ff",
+          "bytes": 38780
         },
         "references/design-library/RonDesignLab/项目参考/14-soma/README.md": {
-          "sha256": "c15ddd5c695cd97efc1c604f5f036a704b805726f560fc165c37e84f58d53059",
-          "bytes": 1451
+          "sha256": "828527aa88543cc1379e93ad358a47525b8f31a4ea3724061157c1da73ad51d1",
+          "bytes": 1694
+        },
+        "references/design-library/RonDesignLab/项目参考/14-soma/来源.json": {
+          "sha256": "e0456b51769f448ab6166abfe45c13ad7f9f7302b132534cc8cb492f1696bebd",
+          "bytes": 3234
+        },
+        "references/design-library/RonDesignLab/项目参考/15-vexto/01.webp": {
+          "sha256": "a9a4e520c8a66f68549deabbeeb6f973c64166ec831f99c26a803a39f2492a63",
+          "bytes": 245688
+        },
+        "references/design-library/RonDesignLab/项目参考/15-vexto/02.webp": {
+          "sha256": "e403f6783c5e33a20b7ba8b5e0058fb8bdcc9cf5518b4768e3bda5bb817a4691",
+          "bytes": 34012
+        },
+        "references/design-library/RonDesignLab/项目参考/15-vexto/03.webp": {
+          "sha256": "70b319659042c672476ee068ef0f1ccb0cb9e37acd3d940d22daf9c6d3f4c86e",
+          "bytes": 55318
+        },
+        "references/design-library/RonDesignLab/项目参考/15-vexto/04.webp": {
+          "sha256": "f9ce8170b3f3363a1f3a6bf66580f4e762f2e438f317e1894c25ee2c1cc46956",
+          "bytes": 201256
+        },
+        "references/design-library/RonDesignLab/项目参考/15-vexto/05.webp": {
+          "sha256": "50287e61dfa9928bd495acfd4023ece9f842d73d4a6308dac674dfbdc3ea1e22",
+          "bytes": 66312
+        },
+        "references/design-library/RonDesignLab/项目参考/15-vexto/06.webp": {
+          "sha256": "365b01dcc528412b9f2cabf2863f0a8bb34c660af768158147c37e1f3b86f2e4",
+          "bytes": 166220
+        },
+        "references/design-library/RonDesignLab/项目参考/15-vexto/07.webp": {
+          "sha256": "5c01c1fb2518be6382c625664a8215fa34ddb8a62aec2df8950b04fe8b95baca",
+          "bytes": 44848
         },
         "references/design-library/RonDesignLab/项目参考/15-vexto/README.md": {
-          "sha256": "c91ce4c2366f30173efddd293f77979ef68cb699c42a3adfc26c166779d23210",
-          "bytes": 1502
+          "sha256": "aa096db45b0742021d403c3a7f7bb4982e3943765914b9f9350e3f78ad688e39",
+          "bytes": 1746
+        },
+        "references/design-library/RonDesignLab/项目参考/15-vexto/来源.json": {
+          "sha256": "3245feddcceeceaa0b1ca2b0aed4eb81f9e6fb091b27b177bc68e663d043290c",
+          "bytes": 3247
+        },
+        "references/design-library/index.html": {
+          "sha256": "fc663832151f06ec5a4b90499b4719fffec0557dd6a94f162721a8f8598fbf31",
+          "bytes": 1673
+        },
+        "references/design-library/library.css": {
+          "sha256": "6f2af71be0f143c35606e5e1a2fc95a764b7fdbbbfbea738dedd4e672eea1d1b",
+          "bytes": 919
+        },
+        "references/design-library/serve.py": {
+          "sha256": "f63eac744a44cb80ebde54dc3492ee1d009e693ceea9013366e7ad725dbec209",
+          "bytes": 1131
+        },
+        "references/design-library/启动参考库.cmd": {
+          "sha256": "8292326caff1544b28bb1ad419581c32984b98a1aa6eac10d8aad1083ac9a87c",
+          "bytes": 131
+        },
+        "references/design-library/启动参考库.command": {
+          "sha256": "952b0d2c3243efd097a1551e43e2b621f17564f38292e8e0286a303476c6a933",
+          "bytes": 59
+        },
+        "references/design-library/媒体清单.json": {
+          "sha256": "7b0597afb47d6ac4a8168db81e8615e736f3a78c63804f03a04b0747ffce9402",
+          "bytes": 38207
         },
         "references/design-library/浅色界面/README.md": {
-          "sha256": "7006a8d3d35fa388568b224295306bbb12ccd96c03765ff602ffea90741fe0d0",
-          "bytes": 3141
+          "sha256": "3afd5f852e54a96a01490f4802cd62f022be166638517c3bed32e9d84234d361",
+          "bytes": 3264
+        },
+        "references/design-library/浅色界面/index.html": {
+          "sha256": "2243319cdaef324b65ac1e49b3beeab65d828f034a7ed366cfbb061c9319244c",
+          "bytes": 2365
+        },
+        "references/design-library/浅色界面/references/01-neka-original-view.png": {
+          "sha256": "ac3a60347655baa5333bf32bfbe1058f7839f152369cf9166a4a56ca3a2c7f3d",
+          "bytes": 39605
+        },
+        "references/design-library/浅色界面/references/02-stripe-billing.png": {
+          "sha256": "33d43ffba9f3b38dd5369705080f0d32339ee168a307f1db203cc0b96672646d",
+          "bytes": 60774
+        },
+        "references/design-library/浅色界面/references/03-radix-dialog.png": {
+          "sha256": "3062cbe9e92d66bab344ab23b0f457965efb8300d70634742406cefc0281d668",
+          "bytes": 53018
+        },
+        "references/design-library/浅色界面/references/neka-user-reference.jpg": {
+          "sha256": "888a04ddb30c69f25119160507278053f9c540e8f3527fb18fb04e5f1fa2bbb8",
+          "bytes": 236000
+        },
+        "references/design-library/浅色界面/references/来源.json": {
+          "sha256": "4e36d36541a1f635d4ce6fd7fb8259f3b86e5f8722d9abd7fe96f020a5cd80d5",
+          "bytes": 1158
+        },
+        "references/design-library/素材来源与许可.md": {
+          "sha256": "e3fdaefd397faf0849c5d60a0f4b1284b03975b4c3817857030bf85f6e21e559",
+          "bytes": 1292
         },
         "references/evidence-first-orchestration.md": {
           "sha256": "d19bd5168246a66f483651fdf85f3557da14ca523b749f7f30f2ecfc0201c4f2",
@@ -316,8 +880,8 @@
           "bytes": 8073
         },
         "references/visual-design.md": {
-          "sha256": "ef0e0d21b713ee26adb018cdfd07ddfc482c78a5d10731015e8281d50b7d3f85",
-          "bytes": 4800
+          "sha256": "d92f4324d61bc40b109806ae08c2b41e6ebce13740e347368d5bc087d94828ef",
+          "bytes": 4872
         }
       }
     },

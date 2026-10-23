@@ -1,0 +1,71 @@
+{
+  "slug": "04-payrix",
+  "title": "Payrix SaaS - Web Finance Dashboard",
+  "url": "https://dribbble.com/shots/27814669-Payrix-SaaS-Web-Finance-Dashboard",
+  "author": "Jack R. for RonDesignLab",
+  "count": 4,
+  "viewed": [
+    1,
+    2,
+    3
+  ],
+  "images": [
+    {
+      "file": "项目参考/04-payrix/01.webp",
+      "order": 1,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49336654/file/e1d4af5c589248342f339657b05eb934.jpg",
+      "content_type": "image/webp",
+      "bytes": 31564,
+      "sha256": "0cfe3f572e6e06b33f618413ff467a5003eaa971f8f1848d1e7849c4cb69019e",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "file": "项目参考/04-payrix/02.webp",
+      "order": 2,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49336653/file/ac4657480e0fc8ebd39c8c32bb20b57a.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 41040,
+      "sha256": "7a63211a3de41418e4071664a650092ed6bac7740cf3ecfceb68660d1a323470",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "file": "项目参考/04-payrix/03.webp",
+      "order": 3,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49336655/file/4b14a3f21ac4c179b0b4696f607b5e52.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 81700,
+      "sha256": "4522ff868675722c8bd8994f61e0cb401cccea5f91bfb7c56a0db306f6a7f263",
+      "width": 1600,
+      "height": 1200
+    },
+    {
+      "file": "项目参考/04-payrix/04.webp",
+      "order": 4,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49336727/file/9c461125bb8694a52e0a827be445a37f.jpg?resize=2048x1024&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 61472,
+      "sha256": "ed7945acf9cddda38da363fcf29d2e76139c2f61027c2c8876dde35c63b9db8a",
+      "width": 2048,
+      "height": 1024
+    }
+  ],
+  "accessed_on": "2026-10-23",
+  "public_source_downloads_found": [],
+  "video": {
+    "file": "项目参考/04-payrix/展示视频.mp4",
+    "kind": "video",
+    "url": "https://cdn.dribbble.com/userupload/49336656/file/a35af4ea4d08ad02ddae4d3c65b1a5d7.mov",
+    "content_type": "video/mp4",
+    "bytes": 2985897,
+    "sha256": "007bab9063a8279a0ff367f2d31efba6d35ad667a204e72581bcd7ff32205b48",
+    "duration": 8.933333,
+    "width": 1280,
+    "height": 960
+  }
+}

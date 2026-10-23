@@ -1,0 +1,1552 @@
+{
+  "accessed_on": "2026-10-23",
+  "creator_profile": "https://dribbble.com/RonDesignLab",
+  "cases": [
+    {
+      "slug": "01-eilo",
+      "name": "Eilo",
+      "title": "Eilo - Finance managment Dashboard UI",
+      "url": "https://dribbble.com/shots/27826935-Eilo-Finance-managment-Dashboard-UI",
+      "author": "Jack R. for RonDesignLab",
+      "count": 8,
+      "cover": 7,
+      "viewed": [
+        1,
+        2,
+        5,
+        7
+      ],
+      "tags": [
+        "桌面工作台",
+        "多彩分区"
+      ],
+      "focus": "黄粉大色块、规整分区与紧凑排版",
+      "observation": [
+        "浅灰紫底承接黄色趋势区和粉色工作区，两个大色块并列，左侧再以白卡承载客户信息；颜色、面积与内容组织一起形成主次。",
+        "数字明显大于指标名称，标签的第二行较轻；图表大量使用细黑线、红色端点和少量刻度，信息并不依赖厚重卡片边框。",
+        "顶部汇总、左侧对象列表、右侧分类内容构成稳定框架；黄、粉也出现在小标签和选中项中，连接不同分区。"
+      ],
+      "reuse": "适合账单、项目进度、运营工作台。先确定对象区、汇总区、任务区，再让较大的彩色区域承载关键内容。",
+      "caution": "中文标签加长后要重新确定列宽和行距；细线和浅色字需按实际屏幕检验。色值、字体和间距没有源码依据，不能称为原作设计变量。",
+      "images": [
+        {
+          "file": "项目参考/01-eilo/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49384431/file/f34b99f885fd1b76fe1c4e83dfb8868f.jpg",
+          "content_type": "image/webp",
+          "bytes": 85232,
+          "sha256": "24f288874b51df9e1383584f40ee024b303f7c50069236ff3871935074a5527b",
+          "width": 3200,
+          "height": 2400
+        },
+        {
+          "file": "项目参考/01-eilo/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49384438/file/f59aea7b17582c028c284481c6bc406a.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 47314,
+          "sha256": "df319871819b1a25bb530c39a85eeaa8deffd62991258fc302404e6fd885f5f7",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/01-eilo/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49384436/file/b98aa1203a630cbf48bf1d2407052bbf.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 44468,
+          "sha256": "7bead7b1961a1c8464df248db95d46bfb40b895058dd6f89ae9c52faa061dbd4",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/01-eilo/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49384433/file/6025a932f1f11c2ad01d7abd4a76b83d.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 90316,
+          "sha256": "750aa6af013a9c33408f056e7b0f0abf70175d5a92c52a58716961a90555de2b",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/01-eilo/05.webp",
+          "order": 5,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49384435/file/658b32092d64f52741725739cdd381ae.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 111594,
+          "sha256": "7bb2c132d7012afcb7d71534dc873a7498032b05a461320376bcfaf9eae8cff2",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/01-eilo/06.webp",
+          "order": 6,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49384437/file/abc4b04db86adb92089ec300035edba4.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 96656,
+          "sha256": "48684c5cd158ba739b0d3383136233ca0938cc359c24dd9704723050f77667c8",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/01-eilo/07.webp",
+          "order": 7,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49384434/file/5a7fe93aad019c4a610de437613d1ab8.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 101288,
+          "sha256": "3b2c15dca5ce16464333db49a71ddde9ed83562d87f3bf93d0ba6db8356d4b95",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/01-eilo/08.webp",
+          "order": 8,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49384432/file/92233150676274901c15e8542789198d.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 43242,
+          "sha256": "00f2f93b6bf89fc781b5a2e3f01c679746b7d0cb3791bb4bbef296b2214acbb2",
+          "width": 2048,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "slug": "02-velto",
+      "name": "Velto",
+      "title": "Velto — Collaborative Revenue Desktop App",
+      "url": "https://dribbble.com/shots/27808845-Velto-Collaborative-Revenue-Desktop-App",
+      "author": "Jack R. for RonDesignLab",
+      "count": 7,
+      "cover": 4,
+      "viewed": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tags": [
+        "桌面工作台",
+        "协作分析"
+      ],
+      "focus": "亮绿重点区、白色分析卡和就地协作",
+      "observation": [
+        "浅灰底上的白色卡片承担常规分析，右侧纵向亮绿漏斗区成为视觉重点；黑色圆形编辑控件提供稳定的高对比锚点。",
+        "头像与姓名以胶囊连接到图表节点，旁边有提问和批注；协作内容围绕具体数据展开，而非另开一整片聊天区。",
+        "顶部导航、图表格式切换和底部输入栏使用不同尺度的胶囊，图表主体仍以细线和数字留出空间。"
+      ],
+      "reuse": "适合多人查看的经营看板、数据问答和分析评审。可借鉴“批注靠近对象、详情在当前上下文展开”。",
+      "caution": "图中漏斗椭圆属于视觉表达，真实数据应采用明确比例并标注口径；多人批注不能遮住关键数值，底部输入栏需要预留空间。",
+      "images": [
+        {
+          "file": "项目参考/02-velto/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49314815/file/750ff1afaf409394b38d8ac128174ac0.jpg",
+          "content_type": "image/webp",
+          "bytes": 64308,
+          "sha256": "60136ced77f514450c7cb8a360b5ebef4018a6eade39a0449f62bcb237defde6",
+          "width": 3200,
+          "height": 2400
+        },
+        {
+          "file": "项目参考/02-velto/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49314818/file/4b70533657d23faf159724170a5c1060.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 43266,
+          "sha256": "08e151d08a8473556e44e328ae89773e62f80809b69be3f2061806d51df1b88b",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/02-velto/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49314820/file/494e366bbc5e0b845eeeecbcd33b79bc.jpg?resize=2048x1537&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 53668,
+          "sha256": "2829e772f8c8de39da8d55baedb6afd8fc5352d5be81c8b8f1597dfc4578cb2c",
+          "width": 2048,
+          "height": 1537
+        },
+        {
+          "file": "项目参考/02-velto/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49314821/file/621dd405f46a0225688f3fbb8dcc82c3.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 95864,
+          "sha256": "82cf3cbd53640f49a3469b93469dbccb7bef365a09162d8d72f0c9f2a7be3f75",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/02-velto/05.webp",
+          "order": 5,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49314816/file/888ea29f72972c79c0b79cb8e5b8ac29.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 58760,
+          "sha256": "fac7554afc3ed3e76ac23d5ce81910a5160ddd8fad833a193da5a977b72ba603",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/02-velto/06.webp",
+          "order": 6,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49314819/file/30450f1d5f35b95be0038bce658b6779.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 79294,
+          "sha256": "f2cfbab34f3ae6321a0ed9b18377784c1d9730c2559a06c4ff4fc51971d98015",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/02-velto/07.webp",
+          "order": 7,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49314817/file/d2406be0f6035cd6852974f4518879fc.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 56240,
+          "sha256": "eabf101f44f9c88a872d20adddf86fad6f48e356f6a95609f5947c457eae8131",
+          "width": 2048,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "slug": "03-personal-assistant",
+      "name": "Personal Assistant",
+      "title": "Personal Assistant — AI Companion Mobile App UI",
+      "url": "https://dribbble.com/shots/27811943-Personal-Assistant-AI-Companion-Mobile-App-UI",
+      "author": "RonDesignLab",
+      "count": 6,
+      "cover": 5,
+      "viewed": [
+        1,
+        3,
+        5
+      ],
+      "tags": [
+        "移动端",
+        "AI 助手"
+      ],
+      "focus": "冷暖背景、大小不一的人物卡与突出主操作",
+      "observation": [
+        "画面由上部深青绿过渡到中下部柔粉，再回到深青色底边，白色人物胶囊与信息卡保持清晰轮廓。",
+        "展开的人物卡高于相邻收起胶囊，大小差异直接显示当前关注对象；上部总额与小趋势、下部人物组和主操作分层排列。",
+        "底部中心圆形控件比两侧按钮更大，环形高光集中在此；点阵数字增加识别特征，但并未用于整段正文。"
+      ],
+      "reuse": "适合移动 AI 助手、人员概览和轻量任务入口。可尝试背景营造氛围、正文卡保持可靠对比，并用尺寸表达选中关系。",
+      "caution": "页面标题是 AI 助手，实际样图显示储蓄挑战场景；只据图片判断视觉结构。语音、记忆和金融能力都未实测，点阵数字不宜直接用于密集指标。",
+      "images": [
+        {
+          "file": "项目参考/03-personal-assistant/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49326331/file/6e7a185cbc97246c6080cd94daa00f30.jpg",
+          "content_type": "image/webp",
+          "bytes": 78236,
+          "sha256": "482058f0cfa62faecf4103bef5dfaefb77d605907ecdaadeff6029dc858362a3",
+          "width": 3200,
+          "height": 2400
+        },
+        {
+          "file": "项目参考/03-personal-assistant/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49326334/file/6e88d52a8c74624fa6ae88a822871bd7.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 55288,
+          "sha256": "e13ed54213ceeb2b2f6e27d5f622366bb0402a6e5a19ad8557ce4c7260621bfe",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/03-personal-assistant/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49326335/file/aed4b75d3212716123c09bf380183550.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 46484,
+          "sha256": "abc23e46e7e30f7034bbf3fc6c5e363b4f60e6325beaaf00d5bd4d7e90d6fcac",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/03-personal-assistant/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49326332/file/a7c781d383f62f87e2b864dda7180ffd.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 73964,
+          "sha256": "fad34c1179ac8fed13f1ddac326aad10b0487b7c55305dac3cc0283e11779a3c",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/03-personal-assistant/05.webp",
+          "order": 5,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49326336/file/dc837c5d9c1e2755f86337975bd4c803.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 74018,
+          "sha256": "f92d15b0de19c2b5ed4f155d115db113fee8c9337d8b2a5e687113dceae24a6c",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/03-personal-assistant/06.webp",
+          "order": 6,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49326333/file/32f6207aa3a19773c28ddf03deed3c0b.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 45982,
+          "sha256": "a15b77c01071645adc91d8501b07a5fa28f87e6e23ca4a2faf338cfd536c0e1c",
+          "width": 2048,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "slug": "04-payrix",
+      "name": "Payrix",
+      "title": "Payrix SaaS - Web Finance Dashboard",
+      "url": "https://dribbble.com/shots/27814669-Payrix-SaaS-Web-Finance-Dashboard",
+      "author": "Jack R. for RonDesignLab",
+      "count": 4,
+      "cover": 3,
+      "viewed": [
+        1,
+        2,
+        3
+      ],
+      "tags": [
+        "桌面工作台",
+        "玻璃质感",
+        "展示动效"
+      ],
+      "focus": "蓝橙背景上的透明外层与实色信息内层",
+      "observation": [
+        "蓝色大背景与橙色圆形物体形成冷暖对比；日期浮层、账户外框透出背景，余额、交易和图表用较实的浅色卡片承载。",
+        "细亮边、背景透色与内外两层圆角共同产生玻璃感；玻璃不只是给所有区域增加模糊。",
+        "主展示视频约 8.93 秒，实际观察到财务浮层特写和画面切换。它展示材质与构图，不提供可操作产品流程。"
+      ],
+      "reuse": "适合概览首页、轻量浮层和提案展示。优先保持数字区域稳定，把透色和高光放在外围或低密度操作层。",
+      "caution": "复杂背景可能降低白色文字可读性；玻璃层应准备更实的底色。视频里的镜头运动不应直接变成日常工作台的持续动画。",
+      "images": [
+        {
+          "file": "项目参考/04-payrix/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49336654/file/e1d4af5c589248342f339657b05eb934.jpg",
+          "content_type": "image/webp",
+          "bytes": 31564,
+          "sha256": "0cfe3f572e6e06b33f618413ff467a5003eaa971f8f1848d1e7849c4cb69019e",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "file": "项目参考/04-payrix/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49336653/file/ac4657480e0fc8ebd39c8c32bb20b57a.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 41040,
+          "sha256": "7a63211a3de41418e4071664a650092ed6bac7740cf3ecfceb68660d1a323470",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "file": "项目参考/04-payrix/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49336655/file/4b14a3f21ac4c179b0b4696f607b5e52.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 81700,
+          "sha256": "4522ff868675722c8bd8994f61e0cb401cccea5f91bfb7c56a0db306f6a7f263",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "file": "项目参考/04-payrix/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49336727/file/9c461125bb8694a52e0a827be445a37f.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 61472,
+          "sha256": "ed7945acf9cddda38da363fcf29d2e76139c2f61027c2c8876dde35c63b9db8a",
+          "width": 2048,
+          "height": 1024
+        }
+      ],
+      "video_asset": {
+        "file": "项目参考/04-payrix/展示视频.mp4",
+        "kind": "video",
+        "url": "https://cdn.dribbble.com/userupload/49336656/file/a35af4ea4d08ad02ddae4d3c65b1a5d7.mov",
+        "content_type": "video/mp4",
+        "bytes": 2985897,
+        "sha256": "007bab9063a8279a0ff367f2d31efba6d35ad667a204e72581bcd7ff32205b48",
+        "duration": 8.933333,
+        "width": 1280,
+        "height": 960
+      }
+    },
+    {
+      "slug": "05-mivo",
+      "name": "Mivo",
+      "title": "Mivo - Smart Personal Health Care Mobile App",
+      "url": "https://dribbble.com/shots/27829858-Mivo-Smart-Personal-Health-Care-Mobile-App",
+      "author": "RonDesignLab",
+      "count": 7,
+      "cover": 6,
+      "viewed": [
+        1,
+        2,
+        4,
+        6
+      ],
+      "tags": [
+        "移动端",
+        "多彩分区",
+        "具象素材"
+      ],
+      "focus": "白色信息面、粉色有机曲线和小型立体物件",
+      "observation": [
+        "白色图表与说明区通过弧线过渡到粉色下半区，边界本身带来节奏，未全部套用同样的矩形卡片。",
+        "绿、橙、蓝的具象小物放在粉色场景中，荧光黄小标签用于强调；颜色丰富但与物件、标签和背景各自对应。",
+        "药物列表与趋势界面保留明显的数字、短标签和大面积留白；具象元素主要出现在可辨认的选择对象附近。"
+      ],
+      "reuse": "适合轻量引导、课程或任务入口、需要情感温度的详情页。可把抽象类别变成少量一致的视觉对象。",
+      "caution": "医疗文本和剂量只是参考图内容，不能作为业务事实采用。中文列表增加后应测试曲线边界是否浪费空间；3D 图的资源与加载成本另验。",
+      "images": [
+        {
+          "file": "项目参考/05-mivo/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49395984/file/0d5bc3f97fc8044a0a7b0d47ab16709f.jpg",
+          "content_type": "image/webp",
+          "bytes": 339582,
+          "sha256": "ea77f979367996fb4cd153d4acc31c6c48dc617256d7acf982590fced19c8b8b",
+          "width": 3200,
+          "height": 2400
+        },
+        {
+          "file": "项目参考/05-mivo/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49395987/file/1c4165743807e70c8ad65638bf5042e9.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 36642,
+          "sha256": "c9835f7d6ed9e9df4dc618ce5036db5854f4b525c62717f9d46b3813b48a664e",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/05-mivo/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49395985/file/aff013d736cdffc03962b921591683fc.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 44364,
+          "sha256": "be8385b7c6002903f5c632d047d312b9cecbbee58b86c94a3c743550aa0659d6",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/05-mivo/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49395989/file/1a74c02c575fd173eba01141e1c46784.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 156992,
+          "sha256": "b8d44b6722777479dc64db6e9204013d7ab8fe86f471e2ab371b2beac854e332",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/05-mivo/05.webp",
+          "order": 5,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49395986/file/cadb3880ae8a84f418de28e3061d5149.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 65890,
+          "sha256": "4f71c11c705fcad31ba4d38765440314fe765d120ec4faccd14c68340e61ad4a",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/05-mivo/06.webp",
+          "order": 6,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49395990/file/8daddf933fa1001004665a4501d3fb01.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 58178,
+          "sha256": "437d090448a89bb6f870fd0ae5c038d8ecd38e0194ae5285ba7c20e272f7a187",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/05-mivo/07.webp",
+          "order": 7,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49395988/file/0e8505d32d47a6f0208903cd4b20fee3.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 144312,
+          "sha256": "9438ae4dffc57515d9c64b09e651195dc837d9fa12c509d5a85541d1a417cc4b",
+          "width": 2048,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "slug": "06-credit-karma",
+      "name": "Credit Karma",
+      "title": "Credit Karma — Credit Monitoring Mobile App",
+      "url": "https://dribbble.com/shots/27805340-Credit-Karma-Credit-Monitoring-Mobile-App",
+      "author": "RonDesignLab",
+      "count": 6,
+      "cover": 4,
+      "viewed": [
+        1,
+        4,
+        5
+      ],
+      "tags": [
+        "移动端",
+        "深色层次"
+      ],
+      "focus": "黑灰层级、细线评分与局部橄榄绿光感",
+      "observation": [
+        "黑色底、炭灰解释浮层和白色数据形成几层明度，局部橄榄绿卡片承担产品重点。",
+        "评分与历史趋势采用轻细线条、分段标记和周期胶囊；重点并不依靠大量粗边框或阴影。",
+        "底部工具组以白色选中圆形区别于深色按钮，强对比集中在当前入口。"
+      ],
+      "reuse": "适合作为深色阅读、状态面板和数值解释的参考；也可只提取明度层级用于浅色界面。",
+      "caution": "图中部分灰字较轻，真实屏幕需要提高可读性。用户对这组的整体喜好不等于要求现有浅色项目切为深色。",
+      "images": [
+        {
+          "file": "项目参考/06-credit-karma/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49302337/file/e5f93945ef4df7af14e1d3da74db1366.jpg",
+          "content_type": "image/webp",
+          "bytes": 81110,
+          "sha256": "971cf85fcc812b3e83a75a75d8780664da7fde2fc06b961bc428397e1a847024",
+          "width": 3200,
+          "height": 2400
+        },
+        {
+          "file": "项目参考/06-credit-karma/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49302340/file/c8cf1d0a62ed6b5cdc98e856ffb3218f.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 55594,
+          "sha256": "917731074ca4141eef26838740ecef06a3ee25a8bbcac1a6a48a84e4d1072064",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/06-credit-karma/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49302339/file/127eeefb91bc656807dd0053c92e70b0.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 25814,
+          "sha256": "c1d393516bfef3c045548842df70b5971411a14c251a2bde8b430f8a736e3793",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/06-credit-karma/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49302338/file/44099d9a05c0b4660b572b21b22536a9.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 49550,
+          "sha256": "365b263183b80ecf4454e5c438bb779ae7b7c29534da4a60e38b0c097c50d53e",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/06-credit-karma/05.webp",
+          "order": 5,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49302341/file/7b877c965810a9110e2163cada9dbf9a.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 34060,
+          "sha256": "edd075fc8034fcba4174508fc9651df5ee569a042560ed6d569024ef15506bc3",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/06-credit-karma/06.webp",
+          "order": 6,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49302342/file/2566ff924d8583b8b09faa98b26613a1.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 254182,
+          "sha256": "ad1278fc693337de99cfab674354551ff0785995555ab356bbb21cc26a378b72",
+          "width": 2048,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "slug": "07-dynamic365",
+      "name": "Dynamic365",
+      "title": "Dynamic365 - Financial Management Desktop",
+      "url": "https://dribbble.com/shots/27771710-Dynamic365-Financial-Management-Desktop",
+      "author": "Jack R. for RonDesignLab",
+      "count": 8,
+      "cover": 7,
+      "viewed": [
+        1,
+        4,
+        7
+      ],
+      "tags": [
+        "桌面工作台",
+        "强色氛围"
+      ],
+      "focus": "橙铜色大背景、纵向洞察卡和下部紧凑指标",
+      "observation": [
+        "整体从橙铜色上部过渡到灰色下部；上部大数字和两张纵向洞察卡、下部横排活动卡形成明显的尺度变化。",
+        "销售与逾期金额并排，数字下面用点阵、短标签显示比较；右侧暖色玻璃卡承载较完整的文字结论。",
+        "洞察卡与下方活动卡使用不同材质和明度，卡片样式服从信息作用。"
+      ],
+      "reuse": "适合关键结论、周报概览和需要突出洞察的首页。可以学习“数据、结论、行动”三个区域的尺度分配。",
+      "caution": "全屏暖色和透色是该作品的具体选择；长时间高密度工作场景应单独验证。洞察必须能追溯数据，不能复制样图文案及营销增长数字。",
+      "images": [
+        {
+          "file": "项目参考/07-dynamic365/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174068/file/a92a7b7865f38316b9a0fe9b152b3898.jpg",
+          "content_type": "image/webp",
+          "bytes": 93466,
+          "sha256": "2f215d70e8397cd4692edc19301c1d0ff53803b46179211e5f40a67a9ee1fcf4",
+          "width": 3200,
+          "height": 2400
+        },
+        {
+          "file": "项目参考/07-dynamic365/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174073/file/f7d05d55a7c1be2c1c33d3f62c303e6c.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 30560,
+          "sha256": "aa771b852e2365b73cd73adb6d2639bace38c3b047c717792aa7f53c97513bf1",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/07-dynamic365/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174072/file/f49bb166b73a2ee7eafa0a87537f2f4a.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 35860,
+          "sha256": "d701466cc700fcbb8f72e3eb7f04d959915ab7918047c4a509a4e466d32151f5",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/07-dynamic365/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174069/file/e7688369850c78def5b0f5a9472ad75f.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 84600,
+          "sha256": "00087e0d67463cd8aaf4038e70c89d303d6f37e64a8b4d3d31886f94cdaa1b11",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/07-dynamic365/05.webp",
+          "order": 5,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174071/file/967b044bc51b81464e1a6428ebb59ac7.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 92088,
+          "sha256": "76b6f89438a7a2554ad59ce6251b9e77011dd3c9d7f9ee28cff82290eda5468b",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/07-dynamic365/06.webp",
+          "order": 6,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174075/file/c8c3e8dbb79ebc1c977f978f0962977c.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 80490,
+          "sha256": "5a10396e874895595579e737e55f66771c37822315df9c4c11cda7137e812409",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/07-dynamic365/07.webp",
+          "order": 7,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174074/file/42ebd6e8e12da2a61c786bd50230d327.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 88264,
+          "sha256": "29d3b567313cbf7b787905b6c6603e83c94b6570768ee9dcd201f33665e5b2e2",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/07-dynamic365/08.webp",
+          "order": 8,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174070/file/44c4e67334de7df60e1e0d2f6e2b7fbd.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 67204,
+          "sha256": "c8c5049caf2ba510c99587ab4423774a3f87cc436633d8b23753de0be43bc42a",
+          "width": 2048,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "slug": "08-orion",
+      "name": "Orion",
+      "title": "Orion - Job Search Desktop UI",
+      "url": "https://dribbble.com/shots/27771667-Orion-Job-Search-Desktop-UI",
+      "author": "Jack R. for RonDesignLab",
+      "count": 7,
+      "cover": 6,
+      "viewed": [
+        1,
+        3,
+        6
+      ],
+      "tags": [
+        "桌面工作台",
+        "搜索发现",
+        "AI 助手"
+      ],
+      "focus": "地图背景、蓝绿推荐项与粉橙 AI 区的冷暖配合",
+      "observation": [
+        "浅灰地图承担低对比背景，左侧大标题和搜索、中部统计群、右侧粉橙 AI 卡各有独立重心。",
+        "推荐职位中突出项使用青蓝绿渐变，其余项维持白色；连续列表与上方非等分布局共存。",
+        "导航与筛选用较小胶囊，关键数字用较大字号；不规则卡边与圆角带来细节变化，但区域仍可快速辨认。"
+      ],
+      "reuse": "适合资源发现、人员搜索、课程选择和 AI 辅助推荐页。可以把搜索入口、结果与 AI 提示放在相邻区域。",
+      "caution": "地图只有承载空间信息时才有业务价值；匹配百分比需要定义与依据。普通结果不能因为视觉强调变成不透明的推荐排序。",
+      "images": [
+        {
+          "file": "项目参考/08-orion/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173819/file/2e089ba8e4766649db3a9017d2af119d.jpg",
+          "content_type": "image/webp",
+          "bytes": 29566,
+          "sha256": "eceacd861d59e3c1b86a8111e10297f10dd23710c6b51bc55cd5de44e8b05bbb",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "file": "项目参考/08-orion/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173825/file/dc7bf63079de38720289979148b97f91.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 37792,
+          "sha256": "45937e166ddbf9c5586b92a5a548883eb3cfed7cfd961d18d154639f412c38e2",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "file": "项目参考/08-orion/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173824/file/ff55cf78c94b011f56d331287788d160.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 20502,
+          "sha256": "c01ba4d762a12ee3b6ced4bd442e36343709a11bb3369e53814fae1fcf295519",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "file": "项目参考/08-orion/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173823/file/147b52076255733d3227fa29f2c7a1ed.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 53218,
+          "sha256": "5262224a65ffc40daf286aad478396af9857c3b0a126a78cd5e1745d0e34fe36",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "file": "项目参考/08-orion/05.webp",
+          "order": 5,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173821/file/8199f4217bf0ba6819893ad28367065d.jpg?resize=2048x1537&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 46102,
+          "sha256": "207719a71969e1a06f0bea831fa29b24894e9f4a69b1646e41c1ab113f267591",
+          "width": 1599,
+          "height": 1200
+        },
+        {
+          "file": "项目参考/08-orion/06.webp",
+          "order": 6,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173820/file/17972916cfe78e5c3cd85811e2ac9eca.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 49956,
+          "sha256": "ea3655c53b8d2e2029b601c19772f8bdcbb39096eda116e815a2bdd5e54492e1",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "file": "项目参考/08-orion/07.webp",
+          "order": 7,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173822/file/c1feddf68ea1feafd84fece2f8c76af9.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 25222,
+          "sha256": "a596962d8030e01fffcddff0784e0f95a0cdf48483c2d4c9815ed2c71f671a1a",
+          "width": 1400,
+          "height": 700
+        }
+      ]
+    },
+    {
+      "slug": "09-kvant",
+      "name": "Kvant AI",
+      "title": "Kvant AI – Video Generation Dashboard UI",
+      "url": "https://dribbble.com/shots/27759263-Kvant-AI-Video-Generation-Dashboard-UI",
+      "author": "Jack R. for RonDesignLab",
+      "count": 4,
+      "cover": 1,
+      "viewed": [
+        1,
+        2,
+        3
+      ],
+      "tags": [
+        "桌面工作台",
+        "移动端",
+        "AI 创作",
+        "展示动效"
+      ],
+      "focus": "暗色节点画布、邻近预览和内容驱动的红橙光感",
+      "observation": [
+        "桌面图左侧保留素材库，中间节点连接，右侧成品预览，下方输入区；过程与结果在同一视野内。",
+        "红橙色主要来自视频内容与选中节点，黑灰工具层保持相对稳定；点阵画布和细连线提供组织背景。",
+        "移动图展示剪辑时间轴。主视频约 9.33 秒，实际观察到节点特写切换为移动视频预览，是剪辑展示而非真实操作录屏验收。"
+      ],
+      "reuse": "适合创作工具、Agent 实验环境和需要核对中间结果的流程界面。可借鉴素材、过程、结果的空间关系。",
+      "caution": "不能因视觉吸引力强就把普通业务流程全部改成节点编辑器。运行、失败、重试与结果来源需要在真实产品中另行设计。",
+      "images": [
+        {
+          "file": "项目参考/09-kvant/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49127496/file/4b51548b76f01291987b732d0b4aa9d0.jpg",
+          "content_type": "image/webp",
+          "bytes": 207680,
+          "sha256": "628274e9863fa80b60346660110faffd191cf475929a7c1101b6e7b245c9178e",
+          "width": 4800,
+          "height": 3600
+        },
+        {
+          "file": "项目参考/09-kvant/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49127497/file/30952cd2d818cf5a91203a7e40d2fc78.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 47866,
+          "sha256": "0a28275de4fd9b5a61735a8f3148d5fdbf2825741434c63763ee698158785fcc",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/09-kvant/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49127495/file/800f03591c02906f28131349c45a878a.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 39718,
+          "sha256": "03596e39e5a8808b1ff6e004b900315749a2c3c7d77d64c9784579b75857413a",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/09-kvant/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49127548/file/d2199e8acd51f17248f888b22fa1a9fa.webp?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 190956,
+          "sha256": "64ef3fb9b87d45351bd2562c75c6b1b364debede39d47a398094319e8cda902a",
+          "width": 2048,
+          "height": 1024
+        }
+      ],
+      "video_asset": {
+        "file": "项目参考/09-kvant/展示视频.mp4",
+        "kind": "video",
+        "url": "https://cdn.dribbble.com/userupload/49127498/file/caa20a6a0c6a843ecc161626f4f47ee8.mov",
+        "content_type": "video/mp4",
+        "bytes": 3003429,
+        "sha256": "bba467a5f93fd4675fd93b60d9b383c2042ea7965c361b911e290c492a7b6e59",
+        "duration": 9.333333,
+        "width": 1280,
+        "height": 960
+      }
+    },
+    {
+      "slug": "10-lendora",
+      "name": "Lendora",
+      "title": "Lendora - Property Map Management Dashboard",
+      "url": "https://dribbble.com/shots/27753253-Lendora-Property-Map-Management-Dashboard",
+      "author": "Jack R. for RonDesignLab",
+      "count": 8,
+      "cover": 7,
+      "viewed": [
+        1,
+        5,
+        7
+      ],
+      "tags": [
+        "桌面工作台",
+        "地图与详情"
+      ],
+      "focus": "浅色地图、左右信息栏与暖黄到淡紫的详情面",
+      "observation": [
+        "左侧市场数据、中部低对比地图、右侧选中房产详情形成三段关系；详情的大金额位于上方，具体属性分组向下展开。",
+        "地图上的选中点以黄色区域和黑色价格标签突出；其他点维持较轻轮廓，过滤控件直接贴近地图。",
+        "右侧详情由上部暖黄过渡到下部淡紫，3D 建筑与数值属性并置；颜色变化服务于一个完整详情区域。"
+      ],
+      "reuse": "适合区域经营、对象分布与详情联动。可复用“概览—位置—选中对象”的空间结构，而不是默认每个工作台都需要地图。",
+      "caution": "图中浅地图和灰字在真实设备上可能过淡。页面标题、正文场景有差异，本笔记只依据可见桌面构图，不推断实际产品能力。",
+      "images": [
+        {
+          "file": "项目参考/10-lendora/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49103993/file/4b617749432ae8fcd027f56da9a96a4d.png",
+          "content_type": "image/webp",
+          "bytes": 102518,
+          "sha256": "c5c8da2c9e19111a09dcdf188e957941ae984f095bf42de76665fd928c952072",
+          "width": 3200,
+          "height": 2400
+        },
+        {
+          "file": "项目参考/10-lendora/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49103992/file/32fe9c74e8b947eadc288fc41f805af1.png?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 23796,
+          "sha256": "d0905b6410a90f971f54f626e28c861d60a3c1b0eff91cfa56b0b94efdeea791",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/10-lendora/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49103991/file/9bf79c4bc1dd86b308c363f61bff2fb2.png?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 34164,
+          "sha256": "f7d7d9b11222508c3f2a45cc8de7b472f15b9b5713ec82845ea521c22ca2ad49",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/10-lendora/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49103994/file/1f8450a77bf52bf78fb40af3e1afbf88.png?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 33328,
+          "sha256": "7752e19c49ea2a9cba9ef487ffbd618c2322a0895e025f9953acc3dcf81658cd",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/10-lendora/05.webp",
+          "order": 5,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49104004/file/49b6a1ae7c45c38d823edfa48ffcd63e.png?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 130010,
+          "sha256": "16bb30e76d4753f1c4d3d373b754b98e2ba23d03b47c349f187c0862fb57f2b9",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/10-lendora/06.webp",
+          "order": 6,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49104005/file/2a2b7ced0fbff21784122d668dab1e50.png?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 162064,
+          "sha256": "cd86d93b707b497b4ec4ee7fbcc7c0e50fb09ca31ffa425676efbc8c4844b670",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/10-lendora/07.webp",
+          "order": 7,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49104003/file/347114b7826a9f3ccf1ad7c7bf5c6f5b.png?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 174052,
+          "sha256": "7efa10243afbb201c8463deec15dacebce32baad527674033d3e948f4ccf8101",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/10-lendora/08.webp",
+          "order": 8,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49104002/file/dfef4744cb82a211069fc78048cc1625.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 244196,
+          "sha256": "7365cf5f2189b52be2ea2d9e1855d165627895bc75f96adb5c121fed21b412ad",
+          "width": 2048,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "slug": "11-urbis",
+      "name": "Urbis",
+      "title": "Urbis - City Task Management Mobile App",
+      "url": "https://dribbble.com/shots/27732220-Urbis-City-Task-Management-Mobile-App",
+      "author": "RonDesignLab",
+      "count": 6,
+      "cover": 5,
+      "viewed": [
+        1,
+        2,
+        5
+      ],
+      "tags": [
+        "移动端",
+        "地图与详情"
+      ],
+      "focus": "真实地貌、任务标签和底部大操作区",
+      "observation": [
+        "卫星地貌占据主体，任务区域有描边和半透明覆盖；选中位置由白色胶囊标题、中心标记和虚线圈共同强调。",
+        "上方搜索栏采用深绿灰底，底部操作为深色大圆角按钮组，控件都与地图形成前后关系。",
+        "白色任务标签与深色操作区各自保持形状清晰，细节丰富的地图仍作为背景。"
+      ],
+      "reuse": "适合巡检、外勤和地点相关任务。重点学习选中对象清楚、常用操作在底部集中。",
+      "caution": "不能照搬卫星地图的视觉密度到普通任务列表；户外屏幕、遮挡、定位误差与底部触达均需现场验证。",
+      "images": [
+        {
+          "file": "项目参考/11-urbis/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49025415/file/d63b421962cdf6421b2ca83354585b3d.jpg",
+          "content_type": "image/webp",
+          "bytes": 116334,
+          "sha256": "2d943ea2d52502b9f2d479298e2a79b6fa02fbb67466fba8f2113ea41f22fe08",
+          "width": 3200,
+          "height": 2400
+        },
+        {
+          "file": "项目参考/11-urbis/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49025418/file/6d37e118960505a45cd00d4be3bbb166.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 74426,
+          "sha256": "f4f858f10e2b0362ec1b7c35ed5f1f46154844f01f96867df8905e202d39a40a",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/11-urbis/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49025416/file/7858821f2ec688aaef87a63b32fedd79.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 43070,
+          "sha256": "7140d4311ab31260fc39b0b76b54af50d80e12025bc91093417a61aafba537df",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/11-urbis/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49025417/file/a1e200706553a34abb5ad4a7254166b2.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 109666,
+          "sha256": "5c69c57b8c68dc4060a125c064be3b7b2d17e77ac41488ad02a3ceb213aac3cb",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/11-urbis/05.webp",
+          "order": 5,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49025419/file/449a8a530a3225f93b385843fbe3f764.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 117830,
+          "sha256": "a5047f51597bdfa1cc3a60fed9d869cb6bbe45ce1d77ba6d6a41d5147d3454fe",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/11-urbis/06.webp",
+          "order": 6,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49025420/file/c0333e22a14bb415465c76d35b4ee0b2.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 50448,
+          "sha256": "2555156218d8fe2340d75c4d82f18f672af72fe50f0b22b6e0c3c24b1db7d1be",
+          "width": 2048,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "slug": "12-salesforce",
+      "name": "Salesforce Opportunities",
+      "title": "Salesforce Opportunities - Deals in progress Mobile App",
+      "url": "https://dribbble.com/shots/27771690-Salesforce-Opportunities-Deals-in-progress-Mobile-App",
+      "author": "RonDesignLab",
+      "count": 7,
+      "cover": 5,
+      "viewed": [
+        1,
+        3,
+        5
+      ],
+      "tags": [
+        "移动端",
+        "业务进度"
+      ],
+      "focus": "单一阶段主卡、青蓝重点和下方数据网格",
+      "observation": [
+        "浅色页面先给项目标题与更新时间，再给一张青蓝色阶段卡，周期与状态在主卡上直接出现。",
+        "主卡下方为两列金额与人数等数据，数字显著大于标签；底部悬浮导航用黑色选中圆强调当前区域。",
+        "阶段卡有细环形装饰和荧光黄点，颜色集中在主卡，其他信息保持较轻表面。"
+      ],
+      "reuse": "适合移动经营看板、项目详情和进度跟进。一个当前阶段加少量相关指标，比把桌面所有模块缩小到首屏更易形成主次。",
+      "caution": "浮动导航在图片中靠近底部内容，实际页面必须留安全区和滚动空间；装饰环不能被误认为有精确数据含义。作品使用产品名，不代表已核实官方实现。",
+      "images": [
+        {
+          "file": "项目参考/12-salesforce/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173970/file/d72727ea958118d882dfd9bb312cb646.jpg",
+          "content_type": "image/webp",
+          "bytes": 82586,
+          "sha256": "fb75a9e4e5b3df9910de317432afb94e8439153f8324ae63cbf44a57860e1c1c",
+          "width": 3200,
+          "height": 2400
+        },
+        {
+          "file": "项目参考/12-salesforce/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173975/file/b0a9cc8771c8d2c73944efa279d76dbd.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 58092,
+          "sha256": "a8307861f06a0158ab8b9261a88dd6861996d63309b983c2b537b92a30e6af57",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/12-salesforce/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173974/file/68b65ddb4523124e72211d517c539fcf.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 53552,
+          "sha256": "d31f2556bd316b52e98f5cb9962cb590a8b08207c2ef6b515ab48e86e74b59e7",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/12-salesforce/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173973/file/8f817f00dbb79258267ed78eaf787f47.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 67036,
+          "sha256": "536e09e0318f50ce101bd4fa45db1c7b6ea2c0214b4b3e20c87cd961d9daab5a",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/12-salesforce/05.webp",
+          "order": 5,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173972/file/d335979570db9eed28f469f98fef5fe3.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 57952,
+          "sha256": "a0b9674cbd9ef5d4f66fe6bd9d7d0e52b6c429e0511ce1d5f1047f0d2a795585",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/12-salesforce/06.webp",
+          "order": 6,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173971/file/5349e2f771424527be1c625d7589430a.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 61670,
+          "sha256": "8b67ae36c8568d988476238d99e83c9c530eff7144c60fbaba3120399aead33c",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/12-salesforce/07.webp",
+          "order": 7,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49173969/file/8d25849907306e504ec510dd70ae2ae6.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 41708,
+          "sha256": "17b60e80d3b584c75b2cee760531519fa080304dbe45cee4a7d402b48ee81bee",
+          "width": 2048,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "slug": "13-hydroflask",
+      "name": "Hydroflask",
+      "title": "Hydroflask - Smart Water Bottle Mobile App",
+      "url": "https://dribbble.com/shots/27771706-Hydroflask-Smart-Water-Bottle-Mobile-App",
+      "author": "Jack R. for RonDesignLab",
+      "count": 7,
+      "cover": 5,
+      "viewed": [
+        1,
+        3,
+        4,
+        5,
+        6
+      ],
+      "tags": [
+        "移动端",
+        "具象素材",
+        "材质细节"
+      ],
+      "focus": "蓝色颗粒材质、立体设备与单一主操作",
+      "observation": [
+        "水瓶成为纵向视觉轴，顶部名称、两侧引导线、下方状态围绕实体安排；底部大胶囊容纳主操作和白色圆按钮。",
+        "蓝色深浅、边缘白色高光和颗粒共同形成材质感，图标与数字保持较简洁。",
+        "设备上两处圆形标记通过细虚线指向模式与提示音，具象物体与功能说明产生位置关联。"
+      ],
+      "reuse": "适合设备控制、产品状态和品牌展示页。可学习“一个对象、一项状态、一个主操作”的聚焦方式。",
+      "caution": "颗粒是图像材质观察，不能当作已知 CSS 实现。纯软件列表不必增加立体设备；热点位置、说明与点击区域要明确。",
+      "images": [
+        {
+          "file": "项目参考/13-hydroflask/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174043/file/3e2886540fa2dcf65611fe7fac9070dc.jpg",
+          "content_type": "image/webp",
+          "bytes": 142082,
+          "sha256": "20b088d88ecced916e3759c198a6a4a79fd236b033aa3c50f7b837ce7b6d2bce",
+          "width": 3200,
+          "height": 2400
+        },
+        {
+          "file": "项目参考/13-hydroflask/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174046/file/3578538b9bae39258d8ea673980496ef.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 131386,
+          "sha256": "83d734d2afa6bb63fa9ac1d8f72dea4c8957a393d5b7e08162d7b8ee681f6e42",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/13-hydroflask/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174045/file/1c6df76c97b6af1e937fdc3d70efe344.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 149900,
+          "sha256": "9212dbcb1566173075916660d269cf24419199c88ba679716b91db6b44abdae4",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/13-hydroflask/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174049/file/cdab4674e65d89a7ca73a581d55a348d.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 162348,
+          "sha256": "e45fef3b2572a935897deddb7acdf1b7092ede62bbaa262d894870b47ad2acda",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/13-hydroflask/05.webp",
+          "order": 5,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174048/file/3b3235be692505d769673c33fcafcc15.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 95660,
+          "sha256": "94a65220b079a97660fc5e2dc3f69f7e76e0c6669d55df6051fd36270d2ca8d4",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/13-hydroflask/06.webp",
+          "order": 6,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174044/file/e58ef76b3dff825eee25e0be36197fae.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 95658,
+          "sha256": "dbe43d4c8180cfe7702288780dffbeb8156e1835f445c9806800085a09927435",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/13-hydroflask/07.webp",
+          "order": 7,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49174047/file/38878e4166f4e3ca14cfb379463caca7.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 186486,
+          "sha256": "025aa141c96c00ffe39fb303c61b41ec9e661295525a35113957202034e3854f",
+          "width": 2048,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "slug": "14-soma",
+      "name": "Soma",
+      "title": "Soma - Glucose Monitoring Mobile App",
+      "url": "https://dribbble.com/shots/27823389-Soma-Glucose-Monitoring-Mobile-App",
+      "author": "RonDesignLab",
+      "count": 7,
+      "cover": 5,
+      "viewed": [
+        1,
+        2,
+        5
+      ],
+      "tags": [
+        "移动端",
+        "浅色层次",
+        "数据卡片"
+      ],
+      "focus": "奶黄色与白色分组、细线刻度和明确数字层次",
+      "observation": [
+        "折叠设备样图右侧是一组白色与奶黄色卡片，左侧保留人物影像；数据区的卡片尺寸根据内容变化。",
+        "大数值、小单位、短标签和细刻度分层排列，同一组里用明度和很轻的描边区分表面。",
+        "部分控件带有透明圆环和细点，整体仍由数字和卡片组织，装饰集中于局部。"
+      ],
+      "reuse": "适合多指标概览与状态详情，可以借鉴轻表面和主次尺度。",
+      "caution": "图中的医学指标、单位和状态不作为业务规则使用；极浅标签与细线不能直接视为合格可读性，折叠屏布局也不等于已验证手机响应式。",
+      "images": [
+        {
+          "file": "项目参考/14-soma/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49370741/file/8f85d0d5fce2122e99634f3d1e34e237.png",
+          "content_type": "image/webp",
+          "bytes": 70350,
+          "sha256": "418265c45303b8e88bdfeaa0df0d6a9f67ee46112856d2e2afff42ea9bb501ff",
+          "width": 3200,
+          "height": 2400
+        },
+        {
+          "file": "项目参考/14-soma/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49370742/file/3cdd3b32a13c7114229310cfecce1b36.png?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 29418,
+          "sha256": "b9873ed9b0760da8f47cca44f7a2038eed2422d909a968510b3832e6eed2fef4",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/14-soma/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49370743/file/3d82372ffca55dd22ced42f1c0f4e482.png?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 40758,
+          "sha256": "020edf5d730ba78e136461014dd4ae01d7573ca735c1631a525d11d02f4a797f",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/14-soma/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49370746/file/72a7b2b7a814a79a201f55927464adef.png?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 71894,
+          "sha256": "2992cc2df352e1cad59fb120b66e6c8795c276a59bdbf0277aa6da95d97c0be9",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/14-soma/05.webp",
+          "order": 5,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49370744/file/c6aa4c672c74f65bcf2c7d45a2f9fd34.png?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 51290,
+          "sha256": "3ccb3d6cf3c9f97a6fb22fd38e9200e7f3ccc9ebf1c91be40da666dad71076d4",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/14-soma/06.webp",
+          "order": 6,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49370745/file/664d28ea1cb3e80e25682370f8bc3708.png?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 67764,
+          "sha256": "92d5d5dc4ad422e264483d9c38ebb5eb74197ee5fc0034829d2390f978a7dfaf",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/14-soma/07.webp",
+          "order": 7,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/49370740/file/3f9732d2ddfef4a943607256747e057c.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 38780,
+          "sha256": "5d0d9f291560fbbd61a9ae5d6190cf134c4883600b876c30dc150834bd16c5ff",
+          "width": 2048,
+          "height": 1024
+        }
+      ]
+    },
+    {
+      "slug": "15-vexto",
+      "name": "Vexto",
+      "title": "Vexto - Incident Response Desktop App",
+      "url": "https://dribbble.com/shots/27619812-Vexto-Incident-Response-Desktop-App",
+      "author": "RonDesignLab",
+      "count": 7,
+      "cover": 6,
+      "viewed": [
+        1,
+        4,
+        6
+      ],
+      "tags": [
+        "桌面工作台",
+        "地图与详情",
+        "深色层次"
+      ],
+      "focus": "地图中心、左侧对象列表和右侧异常处理",
+      "observation": [
+        "地形地图居中，左侧在线状态、趋势和车辆列表，右侧集中警告，底部补充运营数据，区域职责明确。",
+        "异常卡用暗红底与红色数量标记突出，选中路线和定位圈在地图上更亮；普通数据维持黑灰层次。",
+        "一张警告卡中包含问题、受影响地点与建议，详情与地图保持在同一屏。"
+      ],
+      "reuse": "适合调度、监测和异常复盘。可以学习把异常信息放在固定可扫读区域，并让对象位置与详情联动。",
+      "caution": "真实异常处理还需确认、责任人、进展和历史记录，静态图无法证明这些闭环；不能让背景细节或低对比字遮蔽高优先级信息。",
+      "images": [
+        {
+          "file": "项目参考/15-vexto/01.webp",
+          "order": 1,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/48609458/file/ff83c4b24b64ccf5c1efb4df06f0399f.jpg",
+          "content_type": "image/webp",
+          "bytes": 245688,
+          "sha256": "a9a4e520c8a66f68549deabbeeb6f973c64166ec831f99c26a803a39f2492a63",
+          "width": 4800,
+          "height": 3600
+        },
+        {
+          "file": "项目参考/15-vexto/02.webp",
+          "order": 2,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/48609461/file/45a1bb7cffbed31e866b288a53ee32b8.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 34012,
+          "sha256": "e403f6783c5e33a20b7ba8b5e0058fb8bdcc9cf5518b4768e3bda5bb817a4691",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/15-vexto/03.webp",
+          "order": 3,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/48609460/file/5ee8cde5e38f1b0aed46dd587925e45f.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 55318,
+          "sha256": "70b319659042c672476ee068ef0f1ccb0cb9e37acd3d940d22daf9c6d3f4c86e",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/15-vexto/04.webp",
+          "order": 4,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/48609464/file/d39cef777a8e769c5c36800b0c3bb2fe.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 201256,
+          "sha256": "f9ce8170b3f3363a1f3a6bf66580f4e762f2e438f317e1894c25ee2c1cc46956",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/15-vexto/05.webp",
+          "order": 5,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/48609463/file/5d04f96fd3e25636d991d184c53d894d.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 66312,
+          "sha256": "50287e61dfa9928bd495acfd4023ece9f842d73d4a6308dac674dfbdc3ea1e22",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/15-vexto/06.webp",
+          "order": 6,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/48609462/file/0152bcd571dc2118a00c4a3392fc7aff.jpg?resize=2048x1536&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 166220,
+          "sha256": "365b01dcc528412b9f2cabf2863f0a8bb34c660af768158147c37e1f3b86f2e4",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "file": "项目参考/15-vexto/07.webp",
+          "order": 7,
+          "kind": "image",
+          "url": "https://cdn.dribbble.com/userupload/48609459/file/d8db93a2344272e82e87e94fe60639b0.jpg?resize=2048x1024&vertical=center",
+          "content_type": "image/webp",
+          "bytes": 44848,
+          "sha256": "5c01c1fb2518be6382c625664a8215fa34ddb8a62aec2df8950b04fe8b95baca",
+          "width": 2048,
+          "height": 1024
+        }
+      ]
+    }
+  ]
+}

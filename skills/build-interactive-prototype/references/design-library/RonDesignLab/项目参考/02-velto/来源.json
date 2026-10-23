@@ -1,0 +1,96 @@
+{
+  "slug": "02-velto",
+  "title": "Velto — Collaborative Revenue Desktop App",
+  "url": "https://dribbble.com/shots/27808845-Velto-Collaborative-Revenue-Desktop-App",
+  "author": "Jack R. for RonDesignLab",
+  "count": 7,
+  "viewed": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "images": [
+    {
+      "file": "项目参考/02-velto/01.webp",
+      "order": 1,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49314815/file/750ff1afaf409394b38d8ac128174ac0.jpg",
+      "content_type": "image/webp",
+      "bytes": 64308,
+      "sha256": "60136ced77f514450c7cb8a360b5ebef4018a6eade39a0449f62bcb237defde6",
+      "width": 3200,
+      "height": 2400
+    },
+    {
+      "file": "项目参考/02-velto/02.webp",
+      "order": 2,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49314818/file/4b70533657d23faf159724170a5c1060.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 43266,
+      "sha256": "08e151d08a8473556e44e328ae89773e62f80809b69be3f2061806d51df1b88b",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/02-velto/03.webp",
+      "order": 3,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49314820/file/494e366bbc5e0b845eeeecbcd33b79bc.jpg?resize=2048x1537&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 53668,
+      "sha256": "2829e772f8c8de39da8d55baedb6afd8fc5352d5be81c8b8f1597dfc4578cb2c",
+      "width": 2048,
+      "height": 1537
+    },
+    {
+      "file": "项目参考/02-velto/04.webp",
+      "order": 4,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49314821/file/621dd405f46a0225688f3fbb8dcc82c3.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 95864,
+      "sha256": "82cf3cbd53640f49a3469b93469dbccb7bef365a09162d8d72f0c9f2a7be3f75",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/02-velto/05.webp",
+      "order": 5,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49314816/file/888ea29f72972c79c0b79cb8e5b8ac29.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 58760,
+      "sha256": "fac7554afc3ed3e76ac23d5ce81910a5160ddd8fad833a193da5a977b72ba603",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/02-velto/06.webp",
+      "order": 6,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49314819/file/30450f1d5f35b95be0038bce658b6779.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 79294,
+      "sha256": "f2cfbab34f3ae6321a0ed9b18377784c1d9730c2559a06c4ff4fc51971d98015",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/02-velto/07.webp",
+      "order": 7,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49314817/file/d2406be0f6035cd6852974f4518879fc.jpg?resize=2048x1024&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 56240,
+      "sha256": "eabf101f44f9c88a872d20adddf86fad6f48e356f6a95609f5947c457eae8131",
+      "width": 2048,
+      "height": 1024
+    }
+  ],
+  "accessed_on": "2026-10-23",
+  "public_source_downloads_found": []
+}

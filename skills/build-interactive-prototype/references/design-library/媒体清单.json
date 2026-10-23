@@ -1,0 +1,915 @@
+{
+  "recordedOn": "2026-10-23",
+  "summary": {
+    "images": 111,
+    "videos": 2,
+    "bytes": 15124975,
+    "uniqueImageFiles": 104
+  },
+  "assets": [
+    {
+      "file": "RonDesignLab/项目参考/01-eilo/01.webp",
+      "kind": "image",
+      "bytes": 85232,
+      "sha256": "24f288874b51df9e1383584f40ee024b303f7c50069236ff3871935074a5527b",
+      "source": "https://dribbble.com/shots/27826935-Eilo-Finance-managment-Dashboard-UI",
+      "label": "Eilo · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/01-eilo/02.webp",
+      "kind": "image",
+      "bytes": 47314,
+      "sha256": "df319871819b1a25bb530c39a85eeaa8deffd62991258fc302404e6fd885f5f7",
+      "source": "https://dribbble.com/shots/27826935-Eilo-Finance-managment-Dashboard-UI",
+      "label": "Eilo · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/01-eilo/03.webp",
+      "kind": "image",
+      "bytes": 44468,
+      "sha256": "7bead7b1961a1c8464df248db95d46bfb40b895058dd6f89ae9c52faa061dbd4",
+      "source": "https://dribbble.com/shots/27826935-Eilo-Finance-managment-Dashboard-UI",
+      "label": "Eilo · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/01-eilo/04.webp",
+      "kind": "image",
+      "bytes": 90316,
+      "sha256": "750aa6af013a9c33408f056e7b0f0abf70175d5a92c52a58716961a90555de2b",
+      "source": "https://dribbble.com/shots/27826935-Eilo-Finance-managment-Dashboard-UI",
+      "label": "Eilo · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/01-eilo/05.webp",
+      "kind": "image",
+      "bytes": 111594,
+      "sha256": "7bb2c132d7012afcb7d71534dc873a7498032b05a461320376bcfaf9eae8cff2",
+      "source": "https://dribbble.com/shots/27826935-Eilo-Finance-managment-Dashboard-UI",
+      "label": "Eilo · 图 05"
+    },
+    {
+      "file": "RonDesignLab/项目参考/01-eilo/06.webp",
+      "kind": "image",
+      "bytes": 96656,
+      "sha256": "48684c5cd158ba739b0d3383136233ca0938cc359c24dd9704723050f77667c8",
+      "source": "https://dribbble.com/shots/27826935-Eilo-Finance-managment-Dashboard-UI",
+      "label": "Eilo · 图 06"
+    },
+    {
+      "file": "RonDesignLab/项目参考/01-eilo/07.webp",
+      "kind": "image",
+      "bytes": 101288,
+      "sha256": "3b2c15dca5ce16464333db49a71ddde9ed83562d87f3bf93d0ba6db8356d4b95",
+      "source": "https://dribbble.com/shots/27826935-Eilo-Finance-managment-Dashboard-UI",
+      "label": "Eilo · 图 07"
+    },
+    {
+      "file": "RonDesignLab/项目参考/01-eilo/08.webp",
+      "kind": "image",
+      "bytes": 43242,
+      "sha256": "00f2f93b6bf89fc781b5a2e3f01c679746b7d0cb3791bb4bbef296b2214acbb2",
+      "source": "https://dribbble.com/shots/27826935-Eilo-Finance-managment-Dashboard-UI",
+      "label": "Eilo · 图 08"
+    },
+    {
+      "file": "RonDesignLab/项目参考/02-velto/01.webp",
+      "kind": "image",
+      "bytes": 64308,
+      "sha256": "60136ced77f514450c7cb8a360b5ebef4018a6eade39a0449f62bcb237defde6",
+      "source": "https://dribbble.com/shots/27808845-Velto-Collaborative-Revenue-Desktop-App",
+      "label": "Velto · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/02-velto/02.webp",
+      "kind": "image",
+      "bytes": 43266,
+      "sha256": "08e151d08a8473556e44e328ae89773e62f80809b69be3f2061806d51df1b88b",
+      "source": "https://dribbble.com/shots/27808845-Velto-Collaborative-Revenue-Desktop-App",
+      "label": "Velto · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/02-velto/03.webp",
+      "kind": "image",
+      "bytes": 53668,
+      "sha256": "2829e772f8c8de39da8d55baedb6afd8fc5352d5be81c8b8f1597dfc4578cb2c",
+      "source": "https://dribbble.com/shots/27808845-Velto-Collaborative-Revenue-Desktop-App",
+      "label": "Velto · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/02-velto/04.webp",
+      "kind": "image",
+      "bytes": 95864,
+      "sha256": "82cf3cbd53640f49a3469b93469dbccb7bef365a09162d8d72f0c9f2a7be3f75",
+      "source": "https://dribbble.com/shots/27808845-Velto-Collaborative-Revenue-Desktop-App",
+      "label": "Velto · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/02-velto/05.webp",
+      "kind": "image",
+      "bytes": 58760,
+      "sha256": "fac7554afc3ed3e76ac23d5ce81910a5160ddd8fad833a193da5a977b72ba603",
+      "source": "https://dribbble.com/shots/27808845-Velto-Collaborative-Revenue-Desktop-App",
+      "label": "Velto · 图 05"
+    },
+    {
+      "file": "RonDesignLab/项目参考/02-velto/06.webp",
+      "kind": "image",
+      "bytes": 79294,
+      "sha256": "f2cfbab34f3ae6321a0ed9b18377784c1d9730c2559a06c4ff4fc51971d98015",
+      "source": "https://dribbble.com/shots/27808845-Velto-Collaborative-Revenue-Desktop-App",
+      "label": "Velto · 图 06"
+    },
+    {
+      "file": "RonDesignLab/项目参考/02-velto/07.webp",
+      "kind": "image",
+      "bytes": 56240,
+      "sha256": "eabf101f44f9c88a872d20adddf86fad6f48e356f6a95609f5947c457eae8131",
+      "source": "https://dribbble.com/shots/27808845-Velto-Collaborative-Revenue-Desktop-App",
+      "label": "Velto · 图 07"
+    },
+    {
+      "file": "RonDesignLab/项目参考/03-personal-assistant/01.webp",
+      "kind": "image",
+      "bytes": 78236,
+      "sha256": "482058f0cfa62faecf4103bef5dfaefb77d605907ecdaadeff6029dc858362a3",
+      "source": "https://dribbble.com/shots/27811943-Personal-Assistant-AI-Companion-Mobile-App-UI",
+      "label": "Personal Assistant · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/03-personal-assistant/02.webp",
+      "kind": "image",
+      "bytes": 55288,
+      "sha256": "e13ed54213ceeb2b2f6e27d5f622366bb0402a6e5a19ad8557ce4c7260621bfe",
+      "source": "https://dribbble.com/shots/27811943-Personal-Assistant-AI-Companion-Mobile-App-UI",
+      "label": "Personal Assistant · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/03-personal-assistant/03.webp",
+      "kind": "image",
+      "bytes": 46484,
+      "sha256": "abc23e46e7e30f7034bbf3fc6c5e363b4f60e6325beaaf00d5bd4d7e90d6fcac",
+      "source": "https://dribbble.com/shots/27811943-Personal-Assistant-AI-Companion-Mobile-App-UI",
+      "label": "Personal Assistant · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/03-personal-assistant/04.webp",
+      "kind": "image",
+      "bytes": 73964,
+      "sha256": "fad34c1179ac8fed13f1ddac326aad10b0487b7c55305dac3cc0283e11779a3c",
+      "source": "https://dribbble.com/shots/27811943-Personal-Assistant-AI-Companion-Mobile-App-UI",
+      "label": "Personal Assistant · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/03-personal-assistant/05.webp",
+      "kind": "image",
+      "bytes": 74018,
+      "sha256": "f92d15b0de19c2b5ed4f155d115db113fee8c9337d8b2a5e687113dceae24a6c",
+      "source": "https://dribbble.com/shots/27811943-Personal-Assistant-AI-Companion-Mobile-App-UI",
+      "label": "Personal Assistant · 图 05"
+    },
+    {
+      "file": "RonDesignLab/项目参考/03-personal-assistant/06.webp",
+      "kind": "image",
+      "bytes": 45982,
+      "sha256": "a15b77c01071645adc91d8501b07a5fa28f87e6e23ca4a2faf338cfd536c0e1c",
+      "source": "https://dribbble.com/shots/27811943-Personal-Assistant-AI-Companion-Mobile-App-UI",
+      "label": "Personal Assistant · 图 06"
+    },
+    {
+      "file": "RonDesignLab/项目参考/04-payrix/01.webp",
+      "kind": "image",
+      "bytes": 31564,
+      "sha256": "0cfe3f572e6e06b33f618413ff467a5003eaa971f8f1848d1e7849c4cb69019e",
+      "source": "https://dribbble.com/shots/27814669-Payrix-SaaS-Web-Finance-Dashboard",
+      "label": "Payrix · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/04-payrix/02.webp",
+      "kind": "image",
+      "bytes": 41040,
+      "sha256": "7a63211a3de41418e4071664a650092ed6bac7740cf3ecfceb68660d1a323470",
+      "source": "https://dribbble.com/shots/27814669-Payrix-SaaS-Web-Finance-Dashboard",
+      "label": "Payrix · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/04-payrix/03.webp",
+      "kind": "image",
+      "bytes": 81700,
+      "sha256": "4522ff868675722c8bd8994f61e0cb401cccea5f91bfb7c56a0db306f6a7f263",
+      "source": "https://dribbble.com/shots/27814669-Payrix-SaaS-Web-Finance-Dashboard",
+      "label": "Payrix · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/04-payrix/04.webp",
+      "kind": "image",
+      "bytes": 61472,
+      "sha256": "ed7945acf9cddda38da363fcf29d2e76139c2f61027c2c8876dde35c63b9db8a",
+      "source": "https://dribbble.com/shots/27814669-Payrix-SaaS-Web-Finance-Dashboard",
+      "label": "Payrix · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/04-payrix/展示视频.mp4",
+      "kind": "video",
+      "bytes": 2985897,
+      "sha256": "007bab9063a8279a0ff367f2d31efba6d35ad667a204e72581bcd7ff32205b48",
+      "source": "https://dribbble.com/shots/27814669-Payrix-SaaS-Web-Finance-Dashboard",
+      "label": "Payrix 展示视频"
+    },
+    {
+      "file": "RonDesignLab/项目参考/05-mivo/01.webp",
+      "kind": "image",
+      "bytes": 339582,
+      "sha256": "ea77f979367996fb4cd153d4acc31c6c48dc617256d7acf982590fced19c8b8b",
+      "source": "https://dribbble.com/shots/27829858-Mivo-Smart-Personal-Health-Care-Mobile-App",
+      "label": "Mivo · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/05-mivo/02.webp",
+      "kind": "image",
+      "bytes": 36642,
+      "sha256": "c9835f7d6ed9e9df4dc618ce5036db5854f4b525c62717f9d46b3813b48a664e",
+      "source": "https://dribbble.com/shots/27829858-Mivo-Smart-Personal-Health-Care-Mobile-App",
+      "label": "Mivo · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/05-mivo/03.webp",
+      "kind": "image",
+      "bytes": 44364,
+      "sha256": "be8385b7c6002903f5c632d047d312b9cecbbee58b86c94a3c743550aa0659d6",
+      "source": "https://dribbble.com/shots/27829858-Mivo-Smart-Personal-Health-Care-Mobile-App",
+      "label": "Mivo · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/05-mivo/04.webp",
+      "kind": "image",
+      "bytes": 156992,
+      "sha256": "b8d44b6722777479dc64db6e9204013d7ab8fe86f471e2ab371b2beac854e332",
+      "source": "https://dribbble.com/shots/27829858-Mivo-Smart-Personal-Health-Care-Mobile-App",
+      "label": "Mivo · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/05-mivo/05.webp",
+      "kind": "image",
+      "bytes": 65890,
+      "sha256": "4f71c11c705fcad31ba4d38765440314fe765d120ec4faccd14c68340e61ad4a",
+      "source": "https://dribbble.com/shots/27829858-Mivo-Smart-Personal-Health-Care-Mobile-App",
+      "label": "Mivo · 图 05"
+    },
+    {
+      "file": "RonDesignLab/项目参考/05-mivo/06.webp",
+      "kind": "image",
+      "bytes": 58178,
+      "sha256": "437d090448a89bb6f870fd0ae5c038d8ecd38e0194ae5285ba7c20e272f7a187",
+      "source": "https://dribbble.com/shots/27829858-Mivo-Smart-Personal-Health-Care-Mobile-App",
+      "label": "Mivo · 图 06"
+    },
+    {
+      "file": "RonDesignLab/项目参考/05-mivo/07.webp",
+      "kind": "image",
+      "bytes": 144312,
+      "sha256": "9438ae4dffc57515d9c64b09e651195dc837d9fa12c509d5a85541d1a417cc4b",
+      "source": "https://dribbble.com/shots/27829858-Mivo-Smart-Personal-Health-Care-Mobile-App",
+      "label": "Mivo · 图 07"
+    },
+    {
+      "file": "RonDesignLab/项目参考/06-credit-karma/01.webp",
+      "kind": "image",
+      "bytes": 81110,
+      "sha256": "971cf85fcc812b3e83a75a75d8780664da7fde2fc06b961bc428397e1a847024",
+      "source": "https://dribbble.com/shots/27805340-Credit-Karma-Credit-Monitoring-Mobile-App",
+      "label": "Credit Karma · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/06-credit-karma/02.webp",
+      "kind": "image",
+      "bytes": 55594,
+      "sha256": "917731074ca4141eef26838740ecef06a3ee25a8bbcac1a6a48a84e4d1072064",
+      "source": "https://dribbble.com/shots/27805340-Credit-Karma-Credit-Monitoring-Mobile-App",
+      "label": "Credit Karma · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/06-credit-karma/03.webp",
+      "kind": "image",
+      "bytes": 25814,
+      "sha256": "c1d393516bfef3c045548842df70b5971411a14c251a2bde8b430f8a736e3793",
+      "source": "https://dribbble.com/shots/27805340-Credit-Karma-Credit-Monitoring-Mobile-App",
+      "label": "Credit Karma · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/06-credit-karma/04.webp",
+      "kind": "image",
+      "bytes": 49550,
+      "sha256": "365b263183b80ecf4454e5c438bb779ae7b7c29534da4a60e38b0c097c50d53e",
+      "source": "https://dribbble.com/shots/27805340-Credit-Karma-Credit-Monitoring-Mobile-App",
+      "label": "Credit Karma · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/06-credit-karma/05.webp",
+      "kind": "image",
+      "bytes": 34060,
+      "sha256": "edd075fc8034fcba4174508fc9651df5ee569a042560ed6d569024ef15506bc3",
+      "source": "https://dribbble.com/shots/27805340-Credit-Karma-Credit-Monitoring-Mobile-App",
+      "label": "Credit Karma · 图 05"
+    },
+    {
+      "file": "RonDesignLab/项目参考/06-credit-karma/06.webp",
+      "kind": "image",
+      "bytes": 254182,
+      "sha256": "ad1278fc693337de99cfab674354551ff0785995555ab356bbb21cc26a378b72",
+      "source": "https://dribbble.com/shots/27805340-Credit-Karma-Credit-Monitoring-Mobile-App",
+      "label": "Credit Karma · 图 06"
+    },
+    {
+      "file": "RonDesignLab/项目参考/07-dynamic365/01.webp",
+      "kind": "image",
+      "bytes": 93466,
+      "sha256": "2f215d70e8397cd4692edc19301c1d0ff53803b46179211e5f40a67a9ee1fcf4",
+      "source": "https://dribbble.com/shots/27771710-Dynamic365-Financial-Management-Desktop",
+      "label": "Dynamic365 · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/07-dynamic365/02.webp",
+      "kind": "image",
+      "bytes": 30560,
+      "sha256": "aa771b852e2365b73cd73adb6d2639bace38c3b047c717792aa7f53c97513bf1",
+      "source": "https://dribbble.com/shots/27771710-Dynamic365-Financial-Management-Desktop",
+      "label": "Dynamic365 · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/07-dynamic365/03.webp",
+      "kind": "image",
+      "bytes": 35860,
+      "sha256": "d701466cc700fcbb8f72e3eb7f04d959915ab7918047c4a509a4e466d32151f5",
+      "source": "https://dribbble.com/shots/27771710-Dynamic365-Financial-Management-Desktop",
+      "label": "Dynamic365 · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/07-dynamic365/04.webp",
+      "kind": "image",
+      "bytes": 84600,
+      "sha256": "00087e0d67463cd8aaf4038e70c89d303d6f37e64a8b4d3d31886f94cdaa1b11",
+      "source": "https://dribbble.com/shots/27771710-Dynamic365-Financial-Management-Desktop",
+      "label": "Dynamic365 · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/07-dynamic365/05.webp",
+      "kind": "image",
+      "bytes": 92088,
+      "sha256": "76b6f89438a7a2554ad59ce6251b9e77011dd3c9d7f9ee28cff82290eda5468b",
+      "source": "https://dribbble.com/shots/27771710-Dynamic365-Financial-Management-Desktop",
+      "label": "Dynamic365 · 图 05"
+    },
+    {
+      "file": "RonDesignLab/项目参考/07-dynamic365/06.webp",
+      "kind": "image",
+      "bytes": 80490,
+      "sha256": "5a10396e874895595579e737e55f66771c37822315df9c4c11cda7137e812409",
+      "source": "https://dribbble.com/shots/27771710-Dynamic365-Financial-Management-Desktop",
+      "label": "Dynamic365 · 图 06"
+    },
+    {
+      "file": "RonDesignLab/项目参考/07-dynamic365/07.webp",
+      "kind": "image",
+      "bytes": 88264,
+      "sha256": "29d3b567313cbf7b787905b6c6603e83c94b6570768ee9dcd201f33665e5b2e2",
+      "source": "https://dribbble.com/shots/27771710-Dynamic365-Financial-Management-Desktop",
+      "label": "Dynamic365 · 图 07"
+    },
+    {
+      "file": "RonDesignLab/项目参考/07-dynamic365/08.webp",
+      "kind": "image",
+      "bytes": 67204,
+      "sha256": "c8c5049caf2ba510c99587ab4423774a3f87cc436633d8b23753de0be43bc42a",
+      "source": "https://dribbble.com/shots/27771710-Dynamic365-Financial-Management-Desktop",
+      "label": "Dynamic365 · 图 08"
+    },
+    {
+      "file": "RonDesignLab/项目参考/08-orion/01.webp",
+      "kind": "image",
+      "bytes": 29566,
+      "sha256": "eceacd861d59e3c1b86a8111e10297f10dd23710c6b51bc55cd5de44e8b05bbb",
+      "source": "https://dribbble.com/shots/27771667-Orion-Job-Search-Desktop-UI",
+      "label": "Orion · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/08-orion/02.webp",
+      "kind": "image",
+      "bytes": 37792,
+      "sha256": "45937e166ddbf9c5586b92a5a548883eb3cfed7cfd961d18d154639f412c38e2",
+      "source": "https://dribbble.com/shots/27771667-Orion-Job-Search-Desktop-UI",
+      "label": "Orion · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/08-orion/03.webp",
+      "kind": "image",
+      "bytes": 20502,
+      "sha256": "c01ba4d762a12ee3b6ced4bd442e36343709a11bb3369e53814fae1fcf295519",
+      "source": "https://dribbble.com/shots/27771667-Orion-Job-Search-Desktop-UI",
+      "label": "Orion · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/08-orion/04.webp",
+      "kind": "image",
+      "bytes": 53218,
+      "sha256": "5262224a65ffc40daf286aad478396af9857c3b0a126a78cd5e1745d0e34fe36",
+      "source": "https://dribbble.com/shots/27771667-Orion-Job-Search-Desktop-UI",
+      "label": "Orion · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/08-orion/05.webp",
+      "kind": "image",
+      "bytes": 46102,
+      "sha256": "207719a71969e1a06f0bea831fa29b24894e9f4a69b1646e41c1ab113f267591",
+      "source": "https://dribbble.com/shots/27771667-Orion-Job-Search-Desktop-UI",
+      "label": "Orion · 图 05"
+    },
+    {
+      "file": "RonDesignLab/项目参考/08-orion/06.webp",
+      "kind": "image",
+      "bytes": 49956,
+      "sha256": "ea3655c53b8d2e2029b601c19772f8bdcbb39096eda116e815a2bdd5e54492e1",
+      "source": "https://dribbble.com/shots/27771667-Orion-Job-Search-Desktop-UI",
+      "label": "Orion · 图 06"
+    },
+    {
+      "file": "RonDesignLab/项目参考/08-orion/07.webp",
+      "kind": "image",
+      "bytes": 25222,
+      "sha256": "a596962d8030e01fffcddff0784e0f95a0cdf48483c2d4c9815ed2c71f671a1a",
+      "source": "https://dribbble.com/shots/27771667-Orion-Job-Search-Desktop-UI",
+      "label": "Orion · 图 07"
+    },
+    {
+      "file": "RonDesignLab/项目参考/09-kvant/01.webp",
+      "kind": "image",
+      "bytes": 207680,
+      "sha256": "628274e9863fa80b60346660110faffd191cf475929a7c1101b6e7b245c9178e",
+      "source": "https://dribbble.com/shots/27759263-Kvant-AI-Video-Generation-Dashboard-UI",
+      "label": "Kvant AI · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/09-kvant/02.webp",
+      "kind": "image",
+      "bytes": 47866,
+      "sha256": "0a28275de4fd9b5a61735a8f3148d5fdbf2825741434c63763ee698158785fcc",
+      "source": "https://dribbble.com/shots/27759263-Kvant-AI-Video-Generation-Dashboard-UI",
+      "label": "Kvant AI · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/09-kvant/03.webp",
+      "kind": "image",
+      "bytes": 39718,
+      "sha256": "03596e39e5a8808b1ff6e004b900315749a2c3c7d77d64c9784579b75857413a",
+      "source": "https://dribbble.com/shots/27759263-Kvant-AI-Video-Generation-Dashboard-UI",
+      "label": "Kvant AI · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/09-kvant/04.webp",
+      "kind": "image",
+      "bytes": 190956,
+      "sha256": "64ef3fb9b87d45351bd2562c75c6b1b364debede39d47a398094319e8cda902a",
+      "source": "https://dribbble.com/shots/27759263-Kvant-AI-Video-Generation-Dashboard-UI",
+      "label": "Kvant AI · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/09-kvant/展示视频.mp4",
+      "kind": "video",
+      "bytes": 3003429,
+      "sha256": "bba467a5f93fd4675fd93b60d9b383c2042ea7965c361b911e290c492a7b6e59",
+      "source": "https://dribbble.com/shots/27759263-Kvant-AI-Video-Generation-Dashboard-UI",
+      "label": "Kvant AI 展示视频"
+    },
+    {
+      "file": "RonDesignLab/项目参考/10-lendora/01.webp",
+      "kind": "image",
+      "bytes": 102518,
+      "sha256": "c5c8da2c9e19111a09dcdf188e957941ae984f095bf42de76665fd928c952072",
+      "source": "https://dribbble.com/shots/27753253-Lendora-Property-Map-Management-Dashboard",
+      "label": "Lendora · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/10-lendora/02.webp",
+      "kind": "image",
+      "bytes": 23796,
+      "sha256": "d0905b6410a90f971f54f626e28c861d60a3c1b0eff91cfa56b0b94efdeea791",
+      "source": "https://dribbble.com/shots/27753253-Lendora-Property-Map-Management-Dashboard",
+      "label": "Lendora · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/10-lendora/03.webp",
+      "kind": "image",
+      "bytes": 34164,
+      "sha256": "f7d7d9b11222508c3f2a45cc8de7b472f15b9b5713ec82845ea521c22ca2ad49",
+      "source": "https://dribbble.com/shots/27753253-Lendora-Property-Map-Management-Dashboard",
+      "label": "Lendora · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/10-lendora/04.webp",
+      "kind": "image",
+      "bytes": 33328,
+      "sha256": "7752e19c49ea2a9cba9ef487ffbd618c2322a0895e025f9953acc3dcf81658cd",
+      "source": "https://dribbble.com/shots/27753253-Lendora-Property-Map-Management-Dashboard",
+      "label": "Lendora · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/10-lendora/05.webp",
+      "kind": "image",
+      "bytes": 130010,
+      "sha256": "16bb30e76d4753f1c4d3d373b754b98e2ba23d03b47c349f187c0862fb57f2b9",
+      "source": "https://dribbble.com/shots/27753253-Lendora-Property-Map-Management-Dashboard",
+      "label": "Lendora · 图 05"
+    },
+    {
+      "file": "RonDesignLab/项目参考/10-lendora/06.webp",
+      "kind": "image",
+      "bytes": 162064,
+      "sha256": "cd86d93b707b497b4ec4ee7fbcc7c0e50fb09ca31ffa425676efbc8c4844b670",
+      "source": "https://dribbble.com/shots/27753253-Lendora-Property-Map-Management-Dashboard",
+      "label": "Lendora · 图 06"
+    },
+    {
+      "file": "RonDesignLab/项目参考/10-lendora/07.webp",
+      "kind": "image",
+      "bytes": 174052,
+      "sha256": "7efa10243afbb201c8463deec15dacebce32baad527674033d3e948f4ccf8101",
+      "source": "https://dribbble.com/shots/27753253-Lendora-Property-Map-Management-Dashboard",
+      "label": "Lendora · 图 07"
+    },
+    {
+      "file": "RonDesignLab/项目参考/10-lendora/08.webp",
+      "kind": "image",
+      "bytes": 244196,
+      "sha256": "7365cf5f2189b52be2ea2d9e1855d165627895bc75f96adb5c121fed21b412ad",
+      "source": "https://dribbble.com/shots/27753253-Lendora-Property-Map-Management-Dashboard",
+      "label": "Lendora · 图 08"
+    },
+    {
+      "file": "RonDesignLab/项目参考/11-urbis/01.webp",
+      "kind": "image",
+      "bytes": 116334,
+      "sha256": "2d943ea2d52502b9f2d479298e2a79b6fa02fbb67466fba8f2113ea41f22fe08",
+      "source": "https://dribbble.com/shots/27732220-Urbis-City-Task-Management-Mobile-App",
+      "label": "Urbis · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/11-urbis/02.webp",
+      "kind": "image",
+      "bytes": 74426,
+      "sha256": "f4f858f10e2b0362ec1b7c35ed5f1f46154844f01f96867df8905e202d39a40a",
+      "source": "https://dribbble.com/shots/27732220-Urbis-City-Task-Management-Mobile-App",
+      "label": "Urbis · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/11-urbis/03.webp",
+      "kind": "image",
+      "bytes": 43070,
+      "sha256": "7140d4311ab31260fc39b0b76b54af50d80e12025bc91093417a61aafba537df",
+      "source": "https://dribbble.com/shots/27732220-Urbis-City-Task-Management-Mobile-App",
+      "label": "Urbis · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/11-urbis/04.webp",
+      "kind": "image",
+      "bytes": 109666,
+      "sha256": "5c69c57b8c68dc4060a125c064be3b7b2d17e77ac41488ad02a3ceb213aac3cb",
+      "source": "https://dribbble.com/shots/27732220-Urbis-City-Task-Management-Mobile-App",
+      "label": "Urbis · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/11-urbis/05.webp",
+      "kind": "image",
+      "bytes": 117830,
+      "sha256": "a5047f51597bdfa1cc3a60fed9d869cb6bbe45ce1d77ba6d6a41d5147d3454fe",
+      "source": "https://dribbble.com/shots/27732220-Urbis-City-Task-Management-Mobile-App",
+      "label": "Urbis · 图 05"
+    },
+    {
+      "file": "RonDesignLab/项目参考/11-urbis/06.webp",
+      "kind": "image",
+      "bytes": 50448,
+      "sha256": "2555156218d8fe2340d75c4d82f18f672af72fe50f0b22b6e0c3c24b1db7d1be",
+      "source": "https://dribbble.com/shots/27732220-Urbis-City-Task-Management-Mobile-App",
+      "label": "Urbis · 图 06"
+    },
+    {
+      "file": "RonDesignLab/项目参考/12-salesforce/01.webp",
+      "kind": "image",
+      "bytes": 82586,
+      "sha256": "fb75a9e4e5b3df9910de317432afb94e8439153f8324ae63cbf44a57860e1c1c",
+      "source": "https://dribbble.com/shots/27771690-Salesforce-Opportunities-Deals-in-progress-Mobile-App",
+      "label": "Salesforce Opportunities · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/12-salesforce/02.webp",
+      "kind": "image",
+      "bytes": 58092,
+      "sha256": "a8307861f06a0158ab8b9261a88dd6861996d63309b983c2b537b92a30e6af57",
+      "source": "https://dribbble.com/shots/27771690-Salesforce-Opportunities-Deals-in-progress-Mobile-App",
+      "label": "Salesforce Opportunities · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/12-salesforce/03.webp",
+      "kind": "image",
+      "bytes": 53552,
+      "sha256": "d31f2556bd316b52e98f5cb9962cb590a8b08207c2ef6b515ab48e86e74b59e7",
+      "source": "https://dribbble.com/shots/27771690-Salesforce-Opportunities-Deals-in-progress-Mobile-App",
+      "label": "Salesforce Opportunities · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/12-salesforce/04.webp",
+      "kind": "image",
+      "bytes": 67036,
+      "sha256": "536e09e0318f50ce101bd4fa45db1c7b6ea2c0214b4b3e20c87cd961d9daab5a",
+      "source": "https://dribbble.com/shots/27771690-Salesforce-Opportunities-Deals-in-progress-Mobile-App",
+      "label": "Salesforce Opportunities · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/12-salesforce/05.webp",
+      "kind": "image",
+      "bytes": 57952,
+      "sha256": "a0b9674cbd9ef5d4f66fe6bd9d7d0e52b6c429e0511ce1d5f1047f0d2a795585",
+      "source": "https://dribbble.com/shots/27771690-Salesforce-Opportunities-Deals-in-progress-Mobile-App",
+      "label": "Salesforce Opportunities · 图 05"
+    },
+    {
+      "file": "RonDesignLab/项目参考/12-salesforce/06.webp",
+      "kind": "image",
+      "bytes": 61670,
+      "sha256": "8b67ae36c8568d988476238d99e83c9c530eff7144c60fbaba3120399aead33c",
+      "source": "https://dribbble.com/shots/27771690-Salesforce-Opportunities-Deals-in-progress-Mobile-App",
+      "label": "Salesforce Opportunities · 图 06"
+    },
+    {
+      "file": "RonDesignLab/项目参考/12-salesforce/07.webp",
+      "kind": "image",
+      "bytes": 41708,
+      "sha256": "17b60e80d3b584c75b2cee760531519fa080304dbe45cee4a7d402b48ee81bee",
+      "source": "https://dribbble.com/shots/27771690-Salesforce-Opportunities-Deals-in-progress-Mobile-App",
+      "label": "Salesforce Opportunities · 图 07"
+    },
+    {
+      "file": "RonDesignLab/项目参考/13-hydroflask/01.webp",
+      "kind": "image",
+      "bytes": 142082,
+      "sha256": "20b088d88ecced916e3759c198a6a4a79fd236b033aa3c50f7b837ce7b6d2bce",
+      "source": "https://dribbble.com/shots/27771706-Hydroflask-Smart-Water-Bottle-Mobile-App",
+      "label": "Hydroflask · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/13-hydroflask/02.webp",
+      "kind": "image",
+      "bytes": 131386,
+      "sha256": "83d734d2afa6bb63fa9ac1d8f72dea4c8957a393d5b7e08162d7b8ee681f6e42",
+      "source": "https://dribbble.com/shots/27771706-Hydroflask-Smart-Water-Bottle-Mobile-App",
+      "label": "Hydroflask · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/13-hydroflask/03.webp",
+      "kind": "image",
+      "bytes": 149900,
+      "sha256": "9212dbcb1566173075916660d269cf24419199c88ba679716b91db6b44abdae4",
+      "source": "https://dribbble.com/shots/27771706-Hydroflask-Smart-Water-Bottle-Mobile-App",
+      "label": "Hydroflask · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/13-hydroflask/04.webp",
+      "kind": "image",
+      "bytes": 162348,
+      "sha256": "e45fef3b2572a935897deddb7acdf1b7092ede62bbaa262d894870b47ad2acda",
+      "source": "https://dribbble.com/shots/27771706-Hydroflask-Smart-Water-Bottle-Mobile-App",
+      "label": "Hydroflask · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/13-hydroflask/05.webp",
+      "kind": "image",
+      "bytes": 95660,
+      "sha256": "94a65220b079a97660fc5e2dc3f69f7e76e0c6669d55df6051fd36270d2ca8d4",
+      "source": "https://dribbble.com/shots/27771706-Hydroflask-Smart-Water-Bottle-Mobile-App",
+      "label": "Hydroflask · 图 05"
+    },
+    {
+      "file": "RonDesignLab/项目参考/13-hydroflask/06.webp",
+      "kind": "image",
+      "bytes": 95658,
+      "sha256": "dbe43d4c8180cfe7702288780dffbeb8156e1835f445c9806800085a09927435",
+      "source": "https://dribbble.com/shots/27771706-Hydroflask-Smart-Water-Bottle-Mobile-App",
+      "label": "Hydroflask · 图 06"
+    },
+    {
+      "file": "RonDesignLab/项目参考/13-hydroflask/07.webp",
+      "kind": "image",
+      "bytes": 186486,
+      "sha256": "025aa141c96c00ffe39fb303c61b41ec9e661295525a35113957202034e3854f",
+      "source": "https://dribbble.com/shots/27771706-Hydroflask-Smart-Water-Bottle-Mobile-App",
+      "label": "Hydroflask · 图 07"
+    },
+    {
+      "file": "RonDesignLab/项目参考/14-soma/01.webp",
+      "kind": "image",
+      "bytes": 70350,
+      "sha256": "418265c45303b8e88bdfeaa0df0d6a9f67ee46112856d2e2afff42ea9bb501ff",
+      "source": "https://dribbble.com/shots/27823389-Soma-Glucose-Monitoring-Mobile-App",
+      "label": "Soma · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/14-soma/02.webp",
+      "kind": "image",
+      "bytes": 29418,
+      "sha256": "b9873ed9b0760da8f47cca44f7a2038eed2422d909a968510b3832e6eed2fef4",
+      "source": "https://dribbble.com/shots/27823389-Soma-Glucose-Monitoring-Mobile-App",
+      "label": "Soma · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/14-soma/03.webp",
+      "kind": "image",
+      "bytes": 40758,
+      "sha256": "020edf5d730ba78e136461014dd4ae01d7573ca735c1631a525d11d02f4a797f",
+      "source": "https://dribbble.com/shots/27823389-Soma-Glucose-Monitoring-Mobile-App",
+      "label": "Soma · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/14-soma/04.webp",
+      "kind": "image",
+      "bytes": 71894,
+      "sha256": "2992cc2df352e1cad59fb120b66e6c8795c276a59bdbf0277aa6da95d97c0be9",
+      "source": "https://dribbble.com/shots/27823389-Soma-Glucose-Monitoring-Mobile-App",
+      "label": "Soma · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/14-soma/05.webp",
+      "kind": "image",
+      "bytes": 51290,
+      "sha256": "3ccb3d6cf3c9f97a6fb22fd38e9200e7f3ccc9ebf1c91be40da666dad71076d4",
+      "source": "https://dribbble.com/shots/27823389-Soma-Glucose-Monitoring-Mobile-App",
+      "label": "Soma · 图 05"
+    },
+    {
+      "file": "RonDesignLab/项目参考/14-soma/06.webp",
+      "kind": "image",
+      "bytes": 67764,
+      "sha256": "92d5d5dc4ad422e264483d9c38ebb5eb74197ee5fc0034829d2390f978a7dfaf",
+      "source": "https://dribbble.com/shots/27823389-Soma-Glucose-Monitoring-Mobile-App",
+      "label": "Soma · 图 06"
+    },
+    {
+      "file": "RonDesignLab/项目参考/14-soma/07.webp",
+      "kind": "image",
+      "bytes": 38780,
+      "sha256": "5d0d9f291560fbbd61a9ae5d6190cf134c4883600b876c30dc150834bd16c5ff",
+      "source": "https://dribbble.com/shots/27823389-Soma-Glucose-Monitoring-Mobile-App",
+      "label": "Soma · 图 07"
+    },
+    {
+      "file": "RonDesignLab/项目参考/15-vexto/01.webp",
+      "kind": "image",
+      "bytes": 245688,
+      "sha256": "a9a4e520c8a66f68549deabbeeb6f973c64166ec831f99c26a803a39f2492a63",
+      "source": "https://dribbble.com/shots/27619812-Vexto-Incident-Response-Desktop-App",
+      "label": "Vexto · 图 01"
+    },
+    {
+      "file": "RonDesignLab/项目参考/15-vexto/02.webp",
+      "kind": "image",
+      "bytes": 34012,
+      "sha256": "e403f6783c5e33a20b7ba8b5e0058fb8bdcc9cf5518b4768e3bda5bb817a4691",
+      "source": "https://dribbble.com/shots/27619812-Vexto-Incident-Response-Desktop-App",
+      "label": "Vexto · 图 02"
+    },
+    {
+      "file": "RonDesignLab/项目参考/15-vexto/03.webp",
+      "kind": "image",
+      "bytes": 55318,
+      "sha256": "70b319659042c672476ee068ef0f1ccb0cb9e37acd3d940d22daf9c6d3f4c86e",
+      "source": "https://dribbble.com/shots/27619812-Vexto-Incident-Response-Desktop-App",
+      "label": "Vexto · 图 03"
+    },
+    {
+      "file": "RonDesignLab/项目参考/15-vexto/04.webp",
+      "kind": "image",
+      "bytes": 201256,
+      "sha256": "f9ce8170b3f3363a1f3a6bf66580f4e762f2e438f317e1894c25ee2c1cc46956",
+      "source": "https://dribbble.com/shots/27619812-Vexto-Incident-Response-Desktop-App",
+      "label": "Vexto · 图 04"
+    },
+    {
+      "file": "RonDesignLab/项目参考/15-vexto/05.webp",
+      "kind": "image",
+      "bytes": 66312,
+      "sha256": "50287e61dfa9928bd495acfd4023ece9f842d73d4a6308dac674dfbdc3ea1e22",
+      "source": "https://dribbble.com/shots/27619812-Vexto-Incident-Response-Desktop-App",
+      "label": "Vexto · 图 05"
+    },
+    {
+      "file": "RonDesignLab/项目参考/15-vexto/06.webp",
+      "kind": "image",
+      "bytes": 166220,
+      "sha256": "365b01dcc528412b9f2cabf2863f0a8bb34c660af768158147c37e1f3b86f2e4",
+      "source": "https://dribbble.com/shots/27619812-Vexto-Incident-Response-Desktop-App",
+      "label": "Vexto · 图 06"
+    },
+    {
+      "file": "RonDesignLab/项目参考/15-vexto/07.webp",
+      "kind": "image",
+      "bytes": 44848,
+      "sha256": "5c01c1fb2518be6382c625664a8215fa34ddb8a62aec2df8950b04fe8b95baca",
+      "source": "https://dribbble.com/shots/27619812-Vexto-Incident-Response-Desktop-App",
+      "label": "Vexto · 图 07"
+    },
+    {
+      "file": "RonDesignLab/参考图/01-eilo-配色与排版.webp",
+      "kind": "image",
+      "bytes": 85232,
+      "sha256": "24f288874b51df9e1383584f40ee024b303f7c50069236ff3871935074a5527b",
+      "source": "https://dribbble.com/shots/27826935-Eilo-Finance-managment-Dashboard-UI",
+      "label": "01-eilo-配色与排版"
+    },
+    {
+      "file": "RonDesignLab/参考图/02-eilo-分区与信息密度.webp",
+      "kind": "image",
+      "bytes": 47314,
+      "sha256": "df319871819b1a25bb530c39a85eeaa8deffd62991258fc302404e6fd885f5f7",
+      "source": "https://dribbble.com/shots/27826935-Eilo-Finance-managment-Dashboard-UI",
+      "label": "02-eilo-分区与信息密度"
+    },
+    {
+      "file": "RonDesignLab/参考图/03-velto-协作信息与重点区.webp",
+      "kind": "image",
+      "bytes": 53668,
+      "sha256": "2829e772f8c8de39da8d55baedb6afd8fc5352d5be81c8b8f1597dfc4578cb2c",
+      "source": "https://dribbble.com/shots/27808845-Velto-Collaborative-Revenue-Desktop-App",
+      "label": "03-velto-协作信息与重点区"
+    },
+    {
+      "file": "RonDesignLab/参考图/04-assistant-冷暖背景与白色卡片.webp",
+      "kind": "image",
+      "bytes": 78236,
+      "sha256": "482058f0cfa62faecf4103bef5dfaefb77d605907ecdaadeff6029dc858362a3",
+      "source": "https://dribbble.com/shots/27811943-Personal-Assistant-AI-Companion-Mobile-App-UI",
+      "label": "04-assistant-冷暖背景与白色卡片"
+    },
+    {
+      "file": "RonDesignLab/参考图/05-payrix-信息卡片.webp",
+      "kind": "image",
+      "bytes": 31564,
+      "sha256": "0cfe3f572e6e06b33f618413ff467a5003eaa971f8f1848d1e7849c4cb69019e",
+      "source": "https://dribbble.com/shots/27814669-Payrix-SaaS-Web-Finance-Dashboard",
+      "label": "05-payrix-信息卡片"
+    },
+    {
+      "file": "RonDesignLab/参考图/06-payrix-视频封面.webp",
+      "kind": "image",
+      "bytes": 17922,
+      "sha256": "f7a1f8e53fb34c3119a9c1a023d2881b67efdb01dd06c9f78753e13888f6f23a",
+      "source": "https://dribbble.com/shots/27814669-Payrix-SaaS-Web-Finance-Dashboard",
+      "label": "06-payrix-视频封面"
+    },
+    {
+      "file": "RonDesignLab/参考图/07-mivo-粉色与具象元素.webp",
+      "kind": "image",
+      "bytes": 36642,
+      "sha256": "c9835f7d6ed9e9df4dc618ce5036db5854f4b525c62717f9d46b3813b48a664e",
+      "source": "https://dribbble.com/shots/27829858-Mivo-Smart-Personal-Health-Care-Mobile-App",
+      "label": "07-mivo-粉色与具象元素"
+    },
+    {
+      "file": "RonDesignLab/参考图/08-credit-karma-深色与局部光感.webp",
+      "kind": "image",
+      "bytes": 81110,
+      "sha256": "971cf85fcc812b3e83a75a75d8780664da7fde2fc06b961bc428397e1a847024",
+      "source": "https://dribbble.com/shots/27805340-Credit-Karma-Credit-Monitoring-Mobile-App",
+      "label": "08-credit-karma-深色与局部光感"
+    },
+    {
+      "file": "浅色界面/references/01-neka-original-view.png",
+      "kind": "image",
+      "bytes": 39605,
+      "sha256": "ac3a60347655baa5333bf32bfbe1058f7839f152369cf9166a4a56ca3a2c7f3d",
+      "source": "https://dribbble.com/shots/27440482-Neka-UI-Health-Monitoring-Dashboard-Design",
+      "label": "Neka 原作展示"
+    },
+    {
+      "file": "浅色界面/references/02-stripe-billing.png",
+      "kind": "image",
+      "bytes": 60774,
+      "sha256": "33d43ffba9f3b38dd5369705080f0d32339ee168a307f1db203cc0b96672646d",
+      "source": "https://stripe.com/zh-sg/billing",
+      "label": "Stripe Billing 公开产品页"
+    },
+    {
+      "file": "浅色界面/references/03-radix-dialog.png",
+      "kind": "image",
+      "bytes": 53018,
+      "sha256": "3062cbe9e92d66bab344ab23b0f457965efb8300d70634742406cefc0281d668",
+      "source": "https://www.radix-ui.com/themes/docs/components/dialog",
+      "label": "Radix Dialog 样例"
+    },
+    {
+      "file": "浅色界面/references/neka-user-reference.jpg",
+      "kind": "image",
+      "bytes": 236000,
+      "sha256": "888a04ddb30c69f25119160507278053f9c540e8f3527fb18fb04e5f1fa2bbb8",
+      "source": "user-supplied-reference",
+      "label": "用户提供的 Neka 风格示例"
+    }
+  ]
+}

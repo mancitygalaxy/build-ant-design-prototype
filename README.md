@@ -19,7 +19,7 @@
 
 [视觉参考与效果检查](skills/build-interactive-prototype/references/visual-design.md)只在视觉任务中按需读取：区分用户要求、原作观察和方案选择，保留局部认可范围，通过实际中文页面与参考并排检查。具体配色不作为通用要求；静态图、功能检查与真实动效分别验收。
 
-[随包参考库](skills/build-interactive-prototype/references/design-library/README.md)包含 15 组 RonDesignLab 作品笔记、复用指南，以及 Neka、Stripe、Radix、Carbon 的来源与试验经验。参考资料位于制作 Skill 包内，完整安装后相对链接仍有效。原作图片、视频、本机原型及运行记录不随包分发；按原作链接或项目已有资料实际看图。
+[随包参考库](skills/build-interactive-prototype/references/design-library/README.md)包含 15 组 RonDesignLab 作品笔记、复用指南，以及 Neka、Stripe、Radix、Carbon 的来源与试验经验。参考资料位于制作 Skill 包内，完整安装后相对链接仍有效。随包保留111份图片文件（含精选重复图）和2段视频，提供[看图与跨设备启动入口](skills/build-interactive-prototype/references/design-library/README.md#换设备后使用)。本机原型及运行记录不随包分发；第三方媒体不适用本仓 MIT 许可。
 
 本次变更与三场景验证的范围见 [更新说明](docs/2026-10-23更新与验证.md)。
 
@@ -37,7 +37,7 @@ skill/                         历史发布目录
 
 安装时保留 `skills/` 下四个目录的原名和同级关系，以便相互引用。复制完整目录，包含隐藏文件；只复制 `SKILL.md` 会遗漏必要资料和工具。
 
-[文件清单](manifest.json) 记录 91 份 Skill 文件的相对路径、字节数与 SHA-256，可用于逐文件核对下载或安装结果。
+[文件清单](manifest.json) 记录 232 份 Skill 文件的相对路径、字节数与 SHA-256，可用于逐文件核对下载或安装结果。
 
 ## Windows 安装或更新
 
@@ -105,4 +105,4 @@ Write-Output "已安装四个 Skill；原版本恢复目录：$backupPath"
 
 ## 许可证
 
-MIT，见 [LICENSE](LICENSE)。
+本仓原创代码与笔记适用 MIT，见 [LICENSE](LICENSE)。第三方参考图片、视频及相关品牌权利不在该许可内，见[素材来源与许可](skills/build-interactive-prototype/references/design-library/素材来源与许可.md)。

@@ -1,0 +1,71 @@
+{
+  "slug": "09-kvant",
+  "title": "Kvant AI – Video Generation Dashboard UI",
+  "url": "https://dribbble.com/shots/27759263-Kvant-AI-Video-Generation-Dashboard-UI",
+  "author": "Jack R. for RonDesignLab",
+  "count": 4,
+  "viewed": [
+    1,
+    2,
+    3
+  ],
+  "images": [
+    {
+      "file": "项目参考/09-kvant/01.webp",
+      "order": 1,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49127496/file/4b51548b76f01291987b732d0b4aa9d0.jpg",
+      "content_type": "image/webp",
+      "bytes": 207680,
+      "sha256": "628274e9863fa80b60346660110faffd191cf475929a7c1101b6e7b245c9178e",
+      "width": 4800,
+      "height": 3600
+    },
+    {
+      "file": "项目参考/09-kvant/02.webp",
+      "order": 2,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49127497/file/30952cd2d818cf5a91203a7e40d2fc78.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 47866,
+      "sha256": "0a28275de4fd9b5a61735a8f3148d5fdbf2825741434c63763ee698158785fcc",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/09-kvant/03.webp",
+      "order": 3,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49127495/file/800f03591c02906f28131349c45a878a.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 39718,
+      "sha256": "03596e39e5a8808b1ff6e004b900315749a2c3c7d77d64c9784579b75857413a",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/09-kvant/04.webp",
+      "order": 4,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49127548/file/d2199e8acd51f17248f888b22fa1a9fa.webp?resize=2048x1024&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 190956,
+      "sha256": "64ef3fb9b87d45351bd2562c75c6b1b364debede39d47a398094319e8cda902a",
+      "width": 2048,
+      "height": 1024
+    }
+  ],
+  "accessed_on": "2026-10-23",
+  "public_source_downloads_found": [],
+  "video": {
+    "file": "项目参考/09-kvant/展示视频.mp4",
+    "kind": "video",
+    "url": "https://cdn.dribbble.com/userupload/49127498/file/caa20a6a0c6a843ecc161626f4f47ee8.mov",
+    "content_type": "video/mp4",
+    "bytes": 3003429,
+    "sha256": "bba467a5f93fd4675fd93b60d9b383c2042ea7965c361b911e290c492a7b6e59",
+    "duration": 9.333333,
+    "width": 1280,
+    "height": 960
+  }
+}

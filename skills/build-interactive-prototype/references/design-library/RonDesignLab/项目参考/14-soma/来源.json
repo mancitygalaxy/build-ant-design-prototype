@@ -1,0 +1,93 @@
+{
+  "slug": "14-soma",
+  "title": "Soma - Glucose Monitoring Mobile App",
+  "url": "https://dribbble.com/shots/27823389-Soma-Glucose-Monitoring-Mobile-App",
+  "author": "RonDesignLab",
+  "count": 7,
+  "viewed": [
+    1,
+    2,
+    5
+  ],
+  "images": [
+    {
+      "file": "项目参考/14-soma/01.webp",
+      "order": 1,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49370741/file/8f85d0d5fce2122e99634f3d1e34e237.png",
+      "content_type": "image/webp",
+      "bytes": 70350,
+      "sha256": "418265c45303b8e88bdfeaa0df0d6a9f67ee46112856d2e2afff42ea9bb501ff",
+      "width": 3200,
+      "height": 2400
+    },
+    {
+      "file": "项目参考/14-soma/02.webp",
+      "order": 2,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49370742/file/3cdd3b32a13c7114229310cfecce1b36.png?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 29418,
+      "sha256": "b9873ed9b0760da8f47cca44f7a2038eed2422d909a968510b3832e6eed2fef4",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/14-soma/03.webp",
+      "order": 3,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49370743/file/3d82372ffca55dd22ced42f1c0f4e482.png?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 40758,
+      "sha256": "020edf5d730ba78e136461014dd4ae01d7573ca735c1631a525d11d02f4a797f",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/14-soma/04.webp",
+      "order": 4,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49370746/file/72a7b2b7a814a79a201f55927464adef.png?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 71894,
+      "sha256": "2992cc2df352e1cad59fb120b66e6c8795c276a59bdbf0277aa6da95d97c0be9",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/14-soma/05.webp",
+      "order": 5,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49370744/file/c6aa4c672c74f65bcf2c7d45a2f9fd34.png?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 51290,
+      "sha256": "3ccb3d6cf3c9f97a6fb22fd38e9200e7f3ccc9ebf1c91be40da666dad71076d4",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/14-soma/06.webp",
+      "order": 6,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49370745/file/664d28ea1cb3e80e25682370f8bc3708.png?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 67764,
+      "sha256": "92d5d5dc4ad422e264483d9c38ebb5eb74197ee5fc0034829d2390f978a7dfaf",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/14-soma/07.webp",
+      "order": 7,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49370740/file/3f9732d2ddfef4a943607256747e057c.jpg?resize=2048x1024&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 38780,
+      "sha256": "5d0d9f291560fbbd61a9ae5d6190cf134c4883600b876c30dc150834bd16c5ff",
+      "width": 2048,
+      "height": 1024
+    }
+  ],
+  "accessed_on": "2026-10-23",
+  "public_source_downloads_found": []
+}

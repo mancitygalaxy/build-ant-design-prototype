@@ -1,0 +1,82 @@
+{
+  "slug": "06-credit-karma",
+  "title": "Credit Karma — Credit Monitoring Mobile App",
+  "url": "https://dribbble.com/shots/27805340-Credit-Karma-Credit-Monitoring-Mobile-App",
+  "author": "RonDesignLab",
+  "count": 6,
+  "viewed": [
+    1,
+    4,
+    5
+  ],
+  "images": [
+    {
+      "file": "项目参考/06-credit-karma/01.webp",
+      "order": 1,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49302337/file/e5f93945ef4df7af14e1d3da74db1366.jpg",
+      "content_type": "image/webp",
+      "bytes": 81110,
+      "sha256": "971cf85fcc812b3e83a75a75d8780664da7fde2fc06b961bc428397e1a847024",
+      "width": 3200,
+      "height": 2400
+    },
+    {
+      "file": "项目参考/06-credit-karma/02.webp",
+      "order": 2,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49302340/file/c8cf1d0a62ed6b5cdc98e856ffb3218f.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 55594,
+      "sha256": "917731074ca4141eef26838740ecef06a3ee25a8bbcac1a6a48a84e4d1072064",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/06-credit-karma/03.webp",
+      "order": 3,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49302339/file/127eeefb91bc656807dd0053c92e70b0.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 25814,
+      "sha256": "c1d393516bfef3c045548842df70b5971411a14c251a2bde8b430f8a736e3793",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/06-credit-karma/04.webp",
+      "order": 4,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49302338/file/44099d9a05c0b4660b572b21b22536a9.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 49550,
+      "sha256": "365b263183b80ecf4454e5c438bb779ae7b7c29534da4a60e38b0c097c50d53e",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/06-credit-karma/05.webp",
+      "order": 5,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49302341/file/7b877c965810a9110e2163cada9dbf9a.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 34060,
+      "sha256": "edd075fc8034fcba4174508fc9651df5ee569a042560ed6d569024ef15506bc3",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/06-credit-karma/06.webp",
+      "order": 6,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49302342/file/2566ff924d8583b8b09faa98b26613a1.jpg?resize=2048x1024&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 254182,
+      "sha256": "ad1278fc693337de99cfab674354551ff0785995555ab356bbb21cc26a378b72",
+      "width": 2048,
+      "height": 1024
+    }
+  ],
+  "accessed_on": "2026-10-23",
+  "public_source_downloads_found": []
+}

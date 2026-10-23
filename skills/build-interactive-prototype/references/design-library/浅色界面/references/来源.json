@@ -1,0 +1,29 @@
+{
+  "recordedOn": "2026-10-23",
+  "items": [
+    {
+      "file": "references/01-neka-original-view.png",
+      "title": "Neka 原作展示",
+      "source": "https://dribbble.com/shots/27440482-Neka-UI-Health-Monitoring-Dashboard-Design",
+      "description": "Jack R. for RonDesignLab；公开作品展示的浏览器视口截图。"
+    },
+    {
+      "file": "references/02-stripe-billing.png",
+      "title": "Stripe Billing 公开产品页",
+      "source": "https://stripe.com/zh-sg/billing",
+      "description": "Stripe；公开营销页的中文产品展示。"
+    },
+    {
+      "file": "references/03-radix-dialog.png",
+      "title": "Radix Dialog 样例",
+      "source": "https://www.radix-ui.com/themes/docs/components/dialog",
+      "description": "WorkOS / Radix；示例姓名与邮箱来自公开组件样例。"
+    },
+    {
+      "file": "references/neka-user-reference.jpg",
+      "title": "用户提供的 Neka 风格示例",
+      "source": null,
+      "description": "用户提供的本地 HTML 界面截图；与 Neka 原作不同，实现作者及方式未核实，不能标作原作。保留收到的原始截图。"
+    }
+  ]
+}

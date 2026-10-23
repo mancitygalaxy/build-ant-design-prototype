@@ -1,0 +1,95 @@
+{
+  "slug": "13-hydroflask",
+  "title": "Hydroflask - Smart Water Bottle Mobile App",
+  "url": "https://dribbble.com/shots/27771706-Hydroflask-Smart-Water-Bottle-Mobile-App",
+  "author": "Jack R. for RonDesignLab",
+  "count": 7,
+  "viewed": [
+    1,
+    3,
+    4,
+    5,
+    6
+  ],
+  "images": [
+    {
+      "file": "项目参考/13-hydroflask/01.webp",
+      "order": 1,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49174043/file/3e2886540fa2dcf65611fe7fac9070dc.jpg",
+      "content_type": "image/webp",
+      "bytes": 142082,
+      "sha256": "20b088d88ecced916e3759c198a6a4a79fd236b033aa3c50f7b837ce7b6d2bce",
+      "width": 3200,
+      "height": 2400
+    },
+    {
+      "file": "项目参考/13-hydroflask/02.webp",
+      "order": 2,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49174046/file/3578538b9bae39258d8ea673980496ef.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 131386,
+      "sha256": "83d734d2afa6bb63fa9ac1d8f72dea4c8957a393d5b7e08162d7b8ee681f6e42",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/13-hydroflask/03.webp",
+      "order": 3,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49174045/file/1c6df76c97b6af1e937fdc3d70efe344.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 149900,
+      "sha256": "9212dbcb1566173075916660d269cf24419199c88ba679716b91db6b44abdae4",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/13-hydroflask/04.webp",
+      "order": 4,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49174049/file/cdab4674e65d89a7ca73a581d55a348d.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 162348,
+      "sha256": "e45fef3b2572a935897deddb7acdf1b7092ede62bbaa262d894870b47ad2acda",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/13-hydroflask/05.webp",
+      "order": 5,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49174048/file/3b3235be692505d769673c33fcafcc15.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 95660,
+      "sha256": "94a65220b079a97660fc5e2dc3f69f7e76e0c6669d55df6051fd36270d2ca8d4",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/13-hydroflask/06.webp",
+      "order": 6,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49174044/file/e58ef76b3dff825eee25e0be36197fae.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 95658,
+      "sha256": "dbe43d4c8180cfe7702288780dffbeb8156e1835f445c9806800085a09927435",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/13-hydroflask/07.webp",
+      "order": 7,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49174047/file/38878e4166f4e3ca14cfb379463caca7.jpg?resize=2048x1024&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 186486,
+      "sha256": "025aa141c96c00ffe39fb303c61b41ec9e661295525a35113957202034e3854f",
+      "width": 2048,
+      "height": 1024
+    }
+  ],
+  "accessed_on": "2026-10-23",
+  "public_source_downloads_found": []
+}

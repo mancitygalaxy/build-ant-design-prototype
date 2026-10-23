@@ -1,0 +1,93 @@
+{
+  "slug": "15-vexto",
+  "title": "Vexto - Incident Response Desktop App",
+  "url": "https://dribbble.com/shots/27619812-Vexto-Incident-Response-Desktop-App",
+  "author": "RonDesignLab",
+  "count": 7,
+  "viewed": [
+    1,
+    4,
+    6
+  ],
+  "images": [
+    {
+      "file": "项目参考/15-vexto/01.webp",
+      "order": 1,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/48609458/file/ff83c4b24b64ccf5c1efb4df06f0399f.jpg",
+      "content_type": "image/webp",
+      "bytes": 245688,
+      "sha256": "a9a4e520c8a66f68549deabbeeb6f973c64166ec831f99c26a803a39f2492a63",
+      "width": 4800,
+      "height": 3600
+    },
+    {
+      "file": "项目参考/15-vexto/02.webp",
+      "order": 2,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/48609461/file/45a1bb7cffbed31e866b288a53ee32b8.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 34012,
+      "sha256": "e403f6783c5e33a20b7ba8b5e0058fb8bdcc9cf5518b4768e3bda5bb817a4691",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/15-vexto/03.webp",
+      "order": 3,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/48609460/file/5ee8cde5e38f1b0aed46dd587925e45f.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 55318,
+      "sha256": "70b319659042c672476ee068ef0f1ccb0cb9e37acd3d940d22daf9c6d3f4c86e",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/15-vexto/04.webp",
+      "order": 4,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/48609464/file/d39cef777a8e769c5c36800b0c3bb2fe.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 201256,
+      "sha256": "f9ce8170b3f3363a1f3a6bf66580f4e762f2e438f317e1894c25ee2c1cc46956",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/15-vexto/05.webp",
+      "order": 5,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/48609463/file/5d04f96fd3e25636d991d184c53d894d.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 66312,
+      "sha256": "50287e61dfa9928bd495acfd4023ece9f842d73d4a6308dac674dfbdc3ea1e22",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/15-vexto/06.webp",
+      "order": 6,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/48609462/file/0152bcd571dc2118a00c4a3392fc7aff.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 166220,
+      "sha256": "365b01dcc528412b9f2cabf2863f0a8bb34c660af768158147c37e1f3b86f2e4",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/15-vexto/07.webp",
+      "order": 7,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/48609459/file/d8db93a2344272e82e87e94fe60639b0.jpg?resize=2048x1024&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 44848,
+      "sha256": "5c01c1fb2518be6382c625664a8215fa34ddb8a62aec2df8950b04fe8b95baca",
+      "width": 2048,
+      "height": 1024
+    }
+  ],
+  "accessed_on": "2026-10-23",
+  "public_source_downloads_found": []
+}

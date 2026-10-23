@@ -1,0 +1,94 @@
+{
+  "slug": "05-mivo",
+  "title": "Mivo - Smart Personal Health Care Mobile App",
+  "url": "https://dribbble.com/shots/27829858-Mivo-Smart-Personal-Health-Care-Mobile-App",
+  "author": "RonDesignLab",
+  "count": 7,
+  "viewed": [
+    1,
+    2,
+    4,
+    6
+  ],
+  "images": [
+    {
+      "file": "项目参考/05-mivo/01.webp",
+      "order": 1,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49395984/file/0d5bc3f97fc8044a0a7b0d47ab16709f.jpg",
+      "content_type": "image/webp",
+      "bytes": 339582,
+      "sha256": "ea77f979367996fb4cd153d4acc31c6c48dc617256d7acf982590fced19c8b8b",
+      "width": 3200,
+      "height": 2400
+    },
+    {
+      "file": "项目参考/05-mivo/02.webp",
+      "order": 2,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49395987/file/1c4165743807e70c8ad65638bf5042e9.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 36642,
+      "sha256": "c9835f7d6ed9e9df4dc618ce5036db5854f4b525c62717f9d46b3813b48a664e",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/05-mivo/03.webp",
+      "order": 3,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49395985/file/aff013d736cdffc03962b921591683fc.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 44364,
+      "sha256": "be8385b7c6002903f5c632d047d312b9cecbbee58b86c94a3c743550aa0659d6",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/05-mivo/04.webp",
+      "order": 4,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49395989/file/1a74c02c575fd173eba01141e1c46784.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 156992,
+      "sha256": "b8d44b6722777479dc64db6e9204013d7ab8fe86f471e2ab371b2beac854e332",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/05-mivo/05.webp",
+      "order": 5,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49395986/file/cadb3880ae8a84f418de28e3061d5149.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 65890,
+      "sha256": "4f71c11c705fcad31ba4d38765440314fe765d120ec4faccd14c68340e61ad4a",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/05-mivo/06.webp",
+      "order": 6,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49395990/file/8daddf933fa1001004665a4501d3fb01.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 58178,
+      "sha256": "437d090448a89bb6f870fd0ae5c038d8ecd38e0194ae5285ba7c20e272f7a187",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/05-mivo/07.webp",
+      "order": 7,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49395988/file/0e8505d32d47a6f0208903cd4b20fee3.jpg?resize=2048x1024&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 144312,
+      "sha256": "9438ae4dffc57515d9c64b09e651195dc837d9fa12c509d5a85541d1a417cc4b",
+      "width": 2048,
+      "height": 1024
+    }
+  ],
+  "accessed_on": "2026-10-23",
+  "public_source_downloads_found": []
+}

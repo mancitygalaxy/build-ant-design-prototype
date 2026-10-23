@@ -1,0 +1,105 @@
+{
+  "slug": "01-eilo",
+  "title": "Eilo - Finance managment Dashboard UI",
+  "url": "https://dribbble.com/shots/27826935-Eilo-Finance-managment-Dashboard-UI",
+  "author": "Jack R. for RonDesignLab",
+  "count": 8,
+  "viewed": [
+    1,
+    2,
+    5,
+    7
+  ],
+  "images": [
+    {
+      "file": "项目参考/01-eilo/01.webp",
+      "order": 1,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49384431/file/f34b99f885fd1b76fe1c4e83dfb8868f.jpg",
+      "content_type": "image/webp",
+      "bytes": 85232,
+      "sha256": "24f288874b51df9e1383584f40ee024b303f7c50069236ff3871935074a5527b",
+      "width": 3200,
+      "height": 2400
+    },
+    {
+      "file": "项目参考/01-eilo/02.webp",
+      "order": 2,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49384438/file/f59aea7b17582c028c284481c6bc406a.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 47314,
+      "sha256": "df319871819b1a25bb530c39a85eeaa8deffd62991258fc302404e6fd885f5f7",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/01-eilo/03.webp",
+      "order": 3,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49384436/file/b98aa1203a630cbf48bf1d2407052bbf.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 44468,
+      "sha256": "7bead7b1961a1c8464df248db95d46bfb40b895058dd6f89ae9c52faa061dbd4",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/01-eilo/04.webp",
+      "order": 4,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49384433/file/6025a932f1f11c2ad01d7abd4a76b83d.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 90316,
+      "sha256": "750aa6af013a9c33408f056e7b0f0abf70175d5a92c52a58716961a90555de2b",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/01-eilo/05.webp",
+      "order": 5,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49384435/file/658b32092d64f52741725739cdd381ae.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 111594,
+      "sha256": "7bb2c132d7012afcb7d71534dc873a7498032b05a461320376bcfaf9eae8cff2",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/01-eilo/06.webp",
+      "order": 6,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49384437/file/abc4b04db86adb92089ec300035edba4.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 96656,
+      "sha256": "48684c5cd158ba739b0d3383136233ca0938cc359c24dd9704723050f77667c8",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/01-eilo/07.webp",
+      "order": 7,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49384434/file/5a7fe93aad019c4a610de437613d1ab8.jpg?resize=2048x1536&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 101288,
+      "sha256": "3b2c15dca5ce16464333db49a71ddde9ed83562d87f3bf93d0ba6db8356d4b95",
+      "width": 2048,
+      "height": 1536
+    },
+    {
+      "file": "项目参考/01-eilo/08.webp",
+      "order": 8,
+      "kind": "image",
+      "url": "https://cdn.dribbble.com/userupload/49384432/file/92233150676274901c15e8542789198d.jpg?resize=2048x1024&vertical=center",
+      "content_type": "image/webp",
+      "bytes": 43242,
+      "sha256": "00f2f93b6bf89fc781b5a2e3f01c679746b7d0cb3791bb4bbef296b2214acbb2",
+      "width": 2048,
+      "height": 1024
+    }
+  ],
+  "accessed_on": "2026-10-23",
+  "public_source_downloads_found": []
+}
