@@ -1,6 +1,6 @@
 # 交互原型 Skill 工具包
 
-四个配合使用的 Codex Skill，分别负责制作与修改原型、交互体验评审、原型与研发实现对版、飞书与企微反馈处理。本版同步 2026-10-23 核对的本机版本，补齐共创、首次加载、反馈回写与视觉参考方法，保留各 Skill 的完整资料、模板和脚本。
+四个配合使用的 Codex Skill，分别负责制作与修改原型、交互体验评审、原型与研发实现对版、飞书与企微反馈处理。本版同步 2026-10-24 核对的版本，保留共创、首次加载、反馈回写与视觉参考方法，以及各 Skill 的完整资料、模板和脚本。本次进一步修订制作和评审的视觉判断。
 
 仓库沿用 `build-ant-design-prototype` 名称；当前制作入口已改为 `build-interactive-prototype`，可沿用 HTML、React、Vue、Ant Design、Fusion 等项目方案。
 
@@ -21,7 +21,9 @@
 
 [随包参考库](skills/build-interactive-prototype/references/design-library/README.md)包含 15 组 RonDesignLab 作品笔记、复用指南，以及 Neka、Stripe、Radix、Carbon 的来源与试验经验。参考资料位于制作 Skill 包内，完整安装后相对链接仍有效。随包保留111份图片文件（含精选重复图）和2段视频，提供[看图与跨设备启动入口](skills/build-interactive-prototype/references/design-library/README.md#换设备后使用)。本机原型及运行记录不随包分发；第三方媒体不适用本仓 MIT 许可。
 
-本次变更与三场景验证的范围见 [更新说明](docs/2026-10-23更新与验证.md)。
+2026-10-24，根据一次看板候选未获视觉认可的结果，补充整页累计色彩面积、构图节奏、图形选型和表面层级的判断。功能、对比度与无溢出检查不能代替视觉结论；不将某一色相改成通用禁用规则，也不以方法更新宣称审美提升。具体反例见[浅色试验复盘](skills/build-interactive-prototype/references/design-library/浅色界面/README.md#2026-10-24-试验复盘补充)。
+
+2026-10-23 的变更与三场景推演范围见[更新说明](docs/2026-10-23更新与验证.md)。本次仅修订两项 Skill 的视觉方法，未新增原型效果验收。
 
 ## 目录与完整性
 

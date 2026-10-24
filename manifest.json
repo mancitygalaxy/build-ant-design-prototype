@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedDate": "2026-10-23",
+  "publishedDate": "2026-10-24",
   "source": "Reviewed prototype workflows, visual-reference guidance, research notes and original reference media for cross-device use; executable prototype templates retained",
   "totalSkillFiles": 232,
   "skills": {
@@ -8,8 +8,8 @@
       "fileCount": 219,
       "files": {
         "SKILL.md": {
-          "sha256": "7b2974977c8ae424f165882bdbbf91e99ca356ebe81efc477919ad5d8455b7dd",
-          "bytes": 11350
+          "sha256": "8a7a217bab1b72c9e50dbd8cae821efd3d083c57736a4df4213d9393338d0e75",
+          "bytes": 11575
         },
         "agents/openai.yaml": {
           "sha256": "a01efa0c375b045704fc440a19ee82e4d8d01b155bc51b2c6368db7112352159",
@@ -828,8 +828,8 @@
           "bytes": 38207
         },
         "references/design-library/浅色界面/README.md": {
-          "sha256": "3afd5f852e54a96a01490f4802cd62f022be166638517c3bed32e9d84234d361",
-          "bytes": 3264
+          "sha256": "1abb876aba08a6fcc42910a45a074a7d5a32a2bd2c7f1752b8284d8539d2ba86",
+          "bytes": 4255
         },
         "references/design-library/浅色界面/index.html": {
           "sha256": "2243319cdaef324b65ac1e49b3beeab65d828f034a7ed366cfbb061c9319244c",
@@ -880,8 +880,8 @@
           "bytes": 8073
         },
         "references/visual-design.md": {
-          "sha256": "d92f4324d61bc40b109806ae08c2b41e6ebce13740e347368d5bc087d94828ef",
-          "bytes": 4872
+          "sha256": "af7969c1a7920bcae82878f2d5847f7eed6f83769aebc4258c87ba60f780b503",
+          "bytes": 7147
         }
       }
     },
@@ -889,8 +889,8 @@
       "fileCount": 5,
       "files": {
         "SKILL.md": {
-          "sha256": "9cd41675b748cb0146218bfe9515b924b4860ea23d7b7b999aae2a83816b8385",
-          "bytes": 10888
+          "sha256": "cbb3f96406464b14f08612a76791f47523e8f076449d8b93bed4dcbecd205d38",
+          "bytes": 11249
         },
         "agents/openai.yaml": {
           "sha256": "185f7b96466adb9d8eb1bd70d987d0f4a3f7e19cba189b3dd1d876310671ebd9",
@@ -905,8 +905,8 @@
           "bytes": 7685
         },
         "references/review-checklist.md": {
-          "sha256": "b638a074f1dc67bcc190e5c361c9394f3937a6394b2fb3787d3918d884843d77",
-          "bytes": 9422
+          "sha256": "37a3f700cb8628128aeb2b26159d86b9a3672201209c017d17ce5fad89976858",
+          "bytes": 10057
         }
       }
     },
